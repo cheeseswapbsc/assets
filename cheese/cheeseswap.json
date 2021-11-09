@@ -576,6 +576,13 @@
       "address": "0x80d5f92c2c8c682070c95495313ddb680b267320",
       "chainId": 56,
       "decimals": 2
+    },
+    {
+      "name": "CloutContracts",
+      "symbol": "CCS",
+      "address": "0x3e3b357061103dc040759ac7dceeaba9901043ad",
+      "chainId": 56,
+      "decimals": 0
     }
   ]
 }
