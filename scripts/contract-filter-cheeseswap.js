@@ -23,7 +23,7 @@ const isContract = async (address) => {
   if (typeof address !== 'string') return false;
   const normalized = address.trim();
   if (!normalized.startsWith('0x') || normalized.length !== 42) return false;
-  if (normalized === ZERO) return false; // zero address is not a contract
+  if (normalized === ZERO) return true; // explicitly keep zero address entries
 
   try {
     const code = await web3.eth.getCode(normalized);

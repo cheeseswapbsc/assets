@@ -507,33 +507,13 @@
       "chainId": 56
     },
     {
-      "address": "0x1bdd3cf7f79cfb8edbb955f20ad99211551ba275",
+      "address": "0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275",
       "name": "BNBx",
       "symbol": "BNBx",
       "decimals": 18,
       "type": "BEP20",
       "status": "active",
-      "id": "0x1bdd3cf7f79cfb8edbb955f20ad99211551ba275",
-      "chainId": 56
-    },
-    {
-      "address": "0x611c5b85b79b573c39a36206b9c66bc962e432da",
-      "name": "Liquid Staking Derivative",
-      "symbol": "LSD",
-      "decimals": 18,
-      "type": "BEP20",
-      "status": "active",
-      "id": "0x611c5b85b79b573c39a36206b9c66bc962e432da",
-      "chainId": 56
-    },
-    {
-      "address": "0xa75d3a2c7a4910b4b76b0cb76c1546e6ab87b362",
-      "name": "Arbitrum",
-      "symbol": "ARB",
-      "decimals": 18,
-      "type": "BEP20",
-      "status": "active",
-      "id": "0xa75d3a2c7a4910b4b76b0cb76c1546e6ab87b362",
+      "id": "0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275",
       "chainId": 56
     },
     {
@@ -10913,30 +10893,6 @@
       "chainId": 56
     },
     {
-      "address": "0x1E053D89E08c24aA2CE5C5B4206744Dc2D7BD8F5",
-      "name": "ThunderCore",
-      "website": "https://bridge.thundercore.com/bsc/",
-      "description": "BNB pegged ThunderCore on BNB Chain. The ThunderCore Bridge allows users to transfer assets between BNB Chain and ThunderCore Blockchain. This is a customized version of POA network Bridge",
-      "research": "https://research.binance.com/en/projects/thundercore",
-      "explorer": "https://etherscan.io/token/0x1e053d89e08c24aa2ce5c5b4206744dc2d7bd8f5",
-      "type": "BEP20",
-      "symbol": "TT",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x1E053D89E08c24aA2CE5C5B4206744Dc2D7BD8F5",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/ThunderCoreLab"
-        },
-        {
-          "name": "discord",
-          "url": "https://discord.com/channels/467102816230440970/468561199790030849"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x1E1aFE9D9c5f290d8F6996dDB190bd111908A43D",
       "name": "Ape Swap LP BNB-BTCB",
       "website": "https://apeswap.finance",
@@ -21287,34 +21243,6 @@
         {
           "name": "whitepaper",
           "url": "https://github.com/sparkpointio/sparkdefi-whitepaper/blob/main/WHITEPAPER.md"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x37C28DE42bA3d22217995D146FC684B2326Ede64",
-      "name": "Venus ADA",
-      "website": "https://venus.io/",
-      "description": "Venus is a decentralized finance (DeFi) algorithmic money market protocol on BNB Chain.",
-      "research": "https://research.binance.com/en/projects/venus",
-      "explorer": "https://bscscan.com/token/0x37C28DE42bA3d22217995D146FC684B2326Ede64",
-      "type": "BEP20",
-      "symbol": "vADA",
-      "decimals": 8,
-      "status": "active",
-      "id": "0x37C28DE42bA3d22217995D146FC684B2326Ede64",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/VenusProtocol"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/VenusProtocol"
-        },
-        {
-          "name": "medium",
-          "url": "https://medium.com/VenusProtocol"
         }
       ],
       "chainId": 56
@@ -60295,32 +60223,6 @@
       "chainId": 56
     },
     {
-      "address": "0xAE788F80F2756A86aa2F410C651F2aF83639B95b",
-      "name": "Metaverse",
-      "symbol": "MV",
-      "type": "BEP20",
-      "decimals": 18,
-      "description": "Gensokishi Online -META WORLD- Token with utility to configure metaverse.",
-      "website": "https://genso.game/",
-      "explorer": "https://bscscan.com/token/0xAE788F80F2756A86aa2F410C651F2aF83639B95b",
-      "status": "active",
-      "id": "0xAE788F80F2756A86aa2F410C651F2aF83639B95b",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/genso_meta"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/gensometamain"
-        }
-      ],
-      "tags": [
-        "gamefi"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xAECf6d1afF214feF70042740054f0f6D0Caa98Ab",
       "name": "Baby Shiba Inu",
       "website": "https://www.babyshibatoken.com/",
@@ -73595,38 +73497,6 @@
       "decimals": 9,
       "status": "active",
       "id": "0xF8fC63200e181439823251020d691312FDcF5090",
-      "chainId": 56
-    },
-    {
-      "address": "0xF912d3001CAf6DC4ADD366A62Cc9115B4303c9A9",
-      "name": "Venus DOGE",
-      "website": "https://venus.io/",
-      "description": "Venus is a decentralized finance (DeFi) algorithmic money market protocol on BNB Chain.",
-      "research": "https://research.binance.com/en/projects/venus",
-      "explorer": "https://bscscan.com/token/0xF912d3001CAf6DC4ADD366A62Cc9115B4303c9A9",
-      "type": "BEP20",
-      "symbol": "vDOGE",
-      "decimals": 8,
-      "status": "active",
-      "id": "0xF912d3001CAf6DC4ADD366A62Cc9115B4303c9A9",
-      "links": [
-        {
-          "name": "github",
-          "url": "https://github.com/VenusProtocol/venus-protocol"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/VenusProtocol"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/VenusProtocol"
-        },
-        {
-          "name": "medium",
-          "url": "https://medium.com/VenusProtocol"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -89513,36 +89383,6 @@
       "decimals": 18,
       "status": "active",
       "id": "0xf8D954168FbbF579F8FAd5F7583d4f76f10AE97D",
-      "chainId": 56
-    },
-    {
-      "address": "0xf8F9efC0db77d8881500bb06FF5D6ABc3070E695",
-      "name": "Synapse",
-      "symbol": "SYN",
-      "type": "BEP20",
-      "decimals": 18,
-      "description": "Synapse is a cross-chain layer ∞ protocol powering interoperability between blockchains.",
-      "website": "https://synapseprotocol.com/",
-      "explorer": "https://bscscan.com/token/0xf8F9efC0db77d8881500bb06FF5D6ABc3070E695",
-      "status": "active",
-      "id": "0xf8F9efC0db77d8881500bb06FF5D6ABc3070E695",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/synapseprotocol"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/synapseprotocol"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/synapse-2/"
-        }
-      ],
-      "tags": [
-        "nft"
-      ],
       "chainId": 56
     },
     {
