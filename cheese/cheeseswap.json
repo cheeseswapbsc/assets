@@ -2492,19 +2492,6 @@
       "chainId": 56
     },
     {
-      "address": "0x053299b35bfFD54E7620762CDdE9B9A3494662F3",
-      "name": "Coco Token",
-      "website": "https://cocotoken.finance/",
-      "description": "Decentralized Deflationary Token that Grows into Coco's Dog treats.",
-      "explorer": "https://bscscan.com/token/0x053299b35bfFD54E7620762CDdE9B9A3494662F3",
-      "type": "BEP20",
-      "symbol": "$COCO",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x053299b35bfFD54E7620762CDdE9B9A3494662F3",
-      "chainId": 56
-    },
-    {
       "address": "0x053C784cD87B74f42e0c089f98643E79c1A3ff16",
       "name": "Cisco tokenized stock (xStock)",
       "website": "https://assets.backed.fi/products",
@@ -2610,19 +2597,6 @@
           "url": "https://potent.finance/static/moon_safe/img/White-paper.pdf"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x0586933D1aA2fA2E732d23C3C229e6151aC6C0d4",
-      "name": "SafeDancer",
-      "website": "https://safedancer.net/",
-      "description": "SafeDancer is programmed to reward holders and built on transparency and trust. We are being audited and will be open with our community with frequent AMA's, questions and more.",
-      "explorer": "https://bscscan.com/token/0x0586933D1aA2fA2E732d23C3C229e6151aC6C0d4",
-      "type": "BEP20",
-      "symbol": "$DANCE",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x0586933D1aA2fA2E732d23C3C229e6151aC6C0d4",
       "chainId": 56
     },
     {
@@ -4346,32 +4320,6 @@
       "decimals": 18,
       "status": "active",
       "id": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
-      "chainId": 56
-    },
-    {
-      "address": "0x0DAE81A905b645a3D1E67129b89CD0Acda224E9A",
-      "name": "iBoxx $ High Yield Corporate Bond ETF (Ondo Tokenized)",
-      "website": "https://ondo.finance/",
-      "description": "HYGon is the Ondo Tokenized version of the iBoxx $ High Yield Corporate Bond ETF, giving tokenholders economic exposure similar to holding HYG and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.",
-      "explorer": "https://bscscan.com/address/0x0dae81a905b645a3d1e67129b89cd0acda224e9a",
-      "type": "BEP20",
-      "symbol": "HYGon",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x0DAE81A905b645a3D1E67129b89CD0Acda224E9A",
-      "tags": [
-        "RWA"
-      ],
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/ondofinance"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/iboxx-high-yield-corporate-bond-tokenized-etf-ondo"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -6837,32 +6785,6 @@
       "chainId": 56
     },
     {
-      "address": "0x1104EB7e85E25eB45F88e638b0C27A06C1A91CB2",
-      "name": "iShares Core S&P 500 ETF (Ondo Tokenized)",
-      "website": "https://ondo.finance/",
-      "description": "IVVon is the Ondo Tokenized version of the iShares Core S&P 500 ETF, giving tokenholders economic exposure similar to holding IVV and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.",
-      "explorer": "https://bscscan.com/address/0x1104eb7e85e25eb45f88e638b0c27a06c1a91cb2",
-      "type": "BEP20",
-      "symbol": "IVVon",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x1104EB7e85E25eB45F88e638b0C27A06C1A91CB2",
-      "tags": [
-        "RWA"
-      ],
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/ondofinance"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/ishares-core-sp-500-tokenized-etf-ondo"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x111111111117dC0aa78b770fA6A738034120C302",
       "name": "1INCH Token",
       "website": "https://1inch.io",
@@ -8901,32 +8823,6 @@
       "chainId": 56
     },
     {
-      "address": "0x167E93A849A0cc479769132552B99aa1cFA0948c",
-      "name": "iShares Core S&P MidCap ETF (Ondo Tokenized)",
-      "website": "https://ondo.finance/",
-      "description": "IJHon is the Ondo Tokenized version of the iShares Core S&P MidCap ETF, giving tokenholders economic exposure similar to holding IJH and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.",
-      "explorer": "https://bscscan.com/address/0x167e93a849a0cc479769132552b99aa1cfa0948c",
-      "type": "BEP20",
-      "symbol": "IJHon",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x167E93A849A0cc479769132552B99aa1cFA0948c",
-      "tags": [
-        "RWA"
-      ],
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/ondofinance"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/ishares-core-sp-midcap-tokenized-etf-ondo"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x167e5455E4C978883B414E7f02c0147eec9a18e9",
       "name": "Life Token v2",
       "type": "BEP20",
@@ -9187,13 +9083,6 @@
           "url": "https://coinmarketcap.com/currencies/dexcheck/"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x1721e092F3995951845f29F3d6A80C20B9719445",
-      "symbol": "7%ETH",
-      "decimals": 9,
-      "name": "7% ETH Reflections",
       "chainId": 56
     },
     {
@@ -10824,19 +10713,6 @@
       "explorer": "https://bscscan.com/token/0x1Bf7AedeC439D6BFE38f8f9b20CF3dc99e3571C4",
       "status": "active",
       "id": "0x1Bf7AedeC439D6BFE38f8f9b20CF3dc99e3571C4",
-      "chainId": 56
-    },
-    {
-      "address": "0x1C2425F50a1e98D5631b223E56760d21BC840C53",
-      "name": "World Stream",
-      "website": "https://www.worldstreamfinance.com",
-      "description": "The $tream token contributes to the streamers community, e-sports and game itens",
-      "explorer": "https://bscscan.com/token/0x1C2425F50a1e98D5631b223E56760d21BC840C53",
-      "type": "BEP20",
-      "symbol": "$tream",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x1C2425F50a1e98D5631b223E56760d21BC840C53",
       "chainId": 56
     },
     {
@@ -12910,29 +12786,6 @@
       "chainId": 56
     },
     {
-      "address": "0x20D39a5130F799b95B55a930E5b7eBC589eA9Ed8",
-      "name": "Heroes&Empires",
-      "type": "BEP20",
-      "symbol": "HE",
-      "decimals": 18,
-      "website": "https://heroesempires.com/",
-      "description": "Heroes & Empires is a strategy game that combines the distinctive elements of Idle RPG and the tactics of auto chess, connected with blockchain technology. By taking advantage of the Non-Fungible Token (NFT) characteristic to create characters and items.",
-      "explorer": "https://bscscan.com/token/0x20D39a5130F799b95B55a930E5b7eBC589eA9Ed8",
-      "status": "active",
-      "id": "0x20D39a5130F799b95B55a930E5b7eBC589eA9Ed8",
-      "links": [
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/heroes-and-empires/"
-        },
-        {
-          "name": "coingecko",
-          "url": "https://coingecko.com/en/coins/heroes-empires"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x20bff4bbEDa07536FF00e073bd8359E5D80D733d",
       "name": "Cannon Finance",
       "website": "https://cannon.finance/",
@@ -14521,52 +14374,6 @@
       "chainId": 56
     },
     {
-      "address": "0x2582d7Afc1bF4496bcb87b6C2a72D24DB279dD0e",
-      "name": "StepD",
-      "type": "BEP20",
-      "symbol": "$STEPD",
-      "decimals": 9,
-      "website": "https://stepd.finance/",
-      "description": "STEPD is a fantastic project for those who want to strengthen the friendship with their pet and earn money in a meaningful way while walking. We are the first Move-To-Earn project that has a close relationship with pets.",
-      "explorer": "https://bscscan.com/token/0x2582d7afc1bf4496bcb87b6c2a72d24db279dd0e",
-      "status": "active",
-      "id": "0x2582d7Afc1bF4496bcb87b6C2a72D24DB279dD0e",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/StepOfDoge"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/STEPOFDOGE"
-        },
-        {
-          "name": "telegram_news",
-          "url": "https://t.me/STEPOFDOGE"
-        },
-        {
-          "name": "whitepaper",
-          "url": "https://whitepaper.stepd.finance/"
-        },
-        {
-          "name": "facebook",
-          "url": "https://facebook.com/stepdofdoge"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/stepd/"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/coinscope-co/audits/blob/main/stepd/audit.pdf"
-        }
-      ],
-      "tags": [
-        "gamefi"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
       "name": "Any Inu",
       "website": "https://www.anyinu.xyz/",
@@ -14822,36 +14629,6 @@
         {
           "name": "telegram",
           "url": "https://t.me/MixMarvelGlobal"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x26165a5a3Dd21FA528bECf3Ff7F114D00a517344",
-      "name": "META",
-      "website": "https://metabsc.app",
-      "description": "META is a community meme and rewards token. All holders of META are automatically rewarded SHIB. Hold META, and watch your SHIB grow passively.",
-      "explorer": "https://bscscan.com/token/0x26165a5a3Dd21FA528bECf3Ff7F114D00a517344",
-      "type": "BEP20",
-      "symbol": "$META",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x26165a5a3Dd21FA528bECf3Ff7F114D00a517344",
-      "tags": [
-        "deflationary"
-      ],
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/meta_token_bsc"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/meta-/"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/META_Shiba"
         }
       ],
       "chainId": 56
@@ -16404,19 +16181,6 @@
       "tags": [
         "defi"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x2A9718defF471f3Bb91FA0ECEAB14154F150a385",
-      "name": "$ElonGate",
-      "website": "https://elongate.cc",
-      "description": "$ElonGate is a deflationary cryptocurrency on the Binance Smart Chain, using the power of memes to make huge impacts for charity.",
-      "explorer": "https://bscscan.com/token/0x2A9718defF471f3Bb91FA0ECEAB14154F150a385",
-      "type": "BEP20",
-      "symbol": "ELG",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x2A9718defF471f3Bb91FA0ECEAB14154F150a385",
       "chainId": 56
     },
     {
@@ -19240,19 +19004,6 @@
           "url": "https://t.me/freemoon_bot"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x31b9773f225408129a90788EF013Bd449e283865",
-      "name": "$PORN",
-      "type": "BEP20",
-      "symbol": "PORN",
-      "decimals": 9,
-      "website": "https://buyporntoken.com/",
-      "description": "$PORN is a token with the goal of protecting people and ending human trafficking.",
-      "explorer": "https://bscscan.com/token/0x31b9773f225408129a90788ef013bd449e283865",
-      "status": "active",
-      "id": "0x31b9773f225408129a90788EF013Bd449e283865",
       "chainId": 56
     },
     {
@@ -22796,29 +22547,6 @@
       "chainId": 56
     },
     {
-      "address": "0x3C7EEDdcFf188A8C36f1Cac1b62958C6E0C27dea",
-      "name": "G2 Crypto Gaming & Lottery",
-      "type": "BEP20",
-      "symbol": "G2",
-      "decimals": 9,
-      "website": "https://g2gaming.tech/",
-      "description": "G² is a new multidimensional ecosystem built around gaming, a diamond hold lottery ticket, and a staking pool. G² launched on 2nd November, 2021.",
-      "explorer": "https://bscscan.com/token/0x3C7EEDdcFf188A8C36f1Cac1b62958C6E0C27dea",
-      "status": "active",
-      "id": "0x3C7EEDdcFf188A8C36f1Cac1b62958C6E0C27dea",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/G2cryptogaming"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/g2_gaming"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x3CEf8d4CC106a169902eA985ceC2dc6Ab055ad4c",
       "name": "Crypto AI",
       "type": "BEP20",
@@ -24080,32 +23808,6 @@
       "decimals": 9,
       "status": "active",
       "id": "0x400613f184D1207f5C07a67D67040A4e23E92feB",
-      "chainId": 56
-    },
-    {
-      "address": "0x400F1e257f86D25578A0928C94dC95115F09d5c9",
-      "name": "Procter & Gamble (Ondo Tokenized)",
-      "website": "https://ondo.finance/",
-      "description": "PGon is the Ondo Tokenized version of Procter & Gamble, giving tokenholders economic exposure similar to holding PG and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.",
-      "explorer": "https://bscscan.com/address/0x400f1e257f86d25578a0928c94dc95115f09d5c9",
-      "type": "BEP20",
-      "symbol": "PGon",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x400F1e257f86D25578A0928C94dC95115F09d5c9",
-      "tags": [
-        "RWA"
-      ],
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/ondofinance"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/procter-gamble-tokenized-stock-ondo"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -25579,19 +25281,6 @@
       "chainId": 56
     },
     {
-      "address": "0x43bFf6EAB0903cD0DA8D7c57C25e17314E51da54",
-      "name": "DRIVENprotocol",
-      "type": "BEP20",
-      "symbol": "$DVP",
-      "decimals": 9,
-      "website": "https://drivenprotocol.com/",
-      "description": "The support team told me to add my logo from this app. The fee was paid as you can see here https://github.com/trustwallet/assets/pull/8418#issuecomment-844545404 Description: DRIVEN’s primary goal is to bridge the needs of everyday businesses from your barber to your baker to your candlestick maker with the crypto ecosystem that enables them to use cryptocurrency for goods and services in a simple and intuitive manner, removing complexity from the current cumbersome process.",
-      "explorer": "https://bscscan.com/token/0x43bFf6EAB0903cD0DA8D7c57C25e17314E51da54",
-      "status": "active",
-      "id": "0x43bFf6EAB0903cD0DA8D7c57C25e17314E51da54",
-      "chainId": 56
-    },
-    {
       "address": "0x43d0B380c33cD004a6A69aBD61843881a2de4113",
       "name": "Shopify (Ondo Tokenized)",
       "website": "https://ondo.finance/",
@@ -26655,32 +26344,6 @@
       "chainId": 56
     },
     {
-      "address": "0x4693f6F5EF257381a28afd0673e64d8b32d5C6aD",
-      "name": "Hims & Hers Health (Ondo Tokenized)",
-      "website": "https://ondo.finance/",
-      "description": "HIMSon is the Ondo Tokenized version of Hims & Hers Health, giving tokenholders economic exposure similar to holding HIMS and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.",
-      "explorer": "https://bscscan.com/address/0x4693f6f5ef257381a28afd0673e64d8b32d5c6ad",
-      "type": "BEP20",
-      "symbol": "HIMSon",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x4693f6F5EF257381a28afd0673e64d8b32d5C6aD",
-      "tags": [
-        "RWA"
-      ],
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/ondofinance"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/hims-hers-health-tokenized-stock-ondo"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x4695e4dD1E3011045573f6E16Dc162687cdBAc44",
       "name": "Metagon Network",
       "type": "BEP20",
@@ -27179,29 +26842,6 @@
       "explorer": "https://bscscan.com/token/0x47e7dd5fA9BBd280C5422E5106b1Da444344c206",
       "status": "abandoned",
       "id": "0x47e7dd5fA9BBd280C5422E5106b1Da444344c206",
-      "chainId": 56
-    },
-    {
-      "address": "0x47fD00664661058546fdDaDA3eecc9f2CD41020e",
-      "name": "MINIKISHU",
-      "type": "BEP20",
-      "symbol": "$MINIKISHU",
-      "decimals": 9,
-      "website": "https://mini-kishu.com/",
-      "description": "Mini Kishu was created in September 2021 by crypto influencers with the goal of being a decentralized meme project with true purpose.",
-      "explorer": "https://bscscan.com/token/0x47fD00664661058546fdDaDA3eecc9f2CD41020e",
-      "status": "active",
-      "id": "0x47fD00664661058546fdDaDA3eecc9f2CD41020e",
-      "links": [
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/mini-kishu"
-        },
-        {
-          "name": "coingecko",
-          "url": "https://coingecko.com/en/coins/minikishu"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -27768,84 +27408,6 @@
       ],
       "tags": [
         "binance-peg"
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x4AAd6A01068c2621545d087A3c5281837112585b",
-      "name": "MADAGASCAR",
-      "type": "BEP20",
-      "symbol": "$TIME",
-      "decimals": 9,
-      "website": "https://madagascar-crypto.com/",
-      "description": "Buy some $TIME for our future generations. The planet is dying, and we're going to help. Planting 1,000,000 trees, whilst cleaning up our air and oceans and protecting wildlife, all whilst contributing to charities with the same drive and focus.",
-      "explorer": "https://bscscan.com/token/0x4AAd6A01068c2621545d087A3c5281837112585b",
-      "status": "active",
-      "id": "0x4AAd6A01068c2621545d087A3c5281837112585b",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/MadagascarToken"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/madagascar/"
-        },
-        {
-          "name": "coingecko",
-          "url": "https://coingecko.com/en/coins/madagascar-token"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/madagascar_time"
-        },
-        {
-          "name": "facebook",
-          "url": "https://facebook.com/Madagascar-Token-TIME-106118521749101/"
-        },
-        {
-          "name": "telegram_news",
-          "url": "https://t.me/madagascar_news"
-        },
-        {
-          "name": "whitepaper",
-          "url": "https://madagascar-crypto.com/wp-content/uploads/2021/08/First_Whitepaper.pdf"
-        },
-        {
-          "name": "reddit",
-          "url": "https://reddit.com/r/MadagascarTIMETOKEN/"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x4AC32178097c1f62beadCC2D215B54D6915013ee",
-      "name": "Coin Discovery Token",
-      "type": "BEP20",
-      "symbol": "$CODI",
-      "decimals": 18,
-      "website": "https://coindiscovery.app",
-      "description": "$CODI is a decentralized, community-driven ecosystem backed by CoinDiscovery that is the most trusted cryptocurrency data authority, coin voting and listing platform. It is the third largest in terms of no. of tokens listed with over 6000 tokens. We get 30k-60k users daily on the platform",
-      "explorer": "https://bscscan.com/token/0x4AC32178097c1f62beadCC2D215B54D6915013ee",
-      "status": "active",
-      "id": "0x4AC32178097c1f62beadCC2D215B54D6915013ee",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/CoinDiscoveryy"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/coin-discovery"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/coindiscovery_token"
-        },
-        {
-          "name": "coingecko",
-          "url": "https://coingecko.com/coins/coin-discovery"
-        }
       ],
       "chainId": 56
     },
@@ -31416,19 +30978,6 @@
       "chainId": 56
     },
     {
-      "address": "0x55183148d5C3360cbB0e1EDb38b30e091aEE4D65",
-      "name": "Rhyme$ick Coin",
-      "website": "https://rhymesick.com/",
-      "description": "The RSC coin is our introduction to the crypto world and the first of many “SMART COINS” to follow with real world applications and utility! These Smart Coins will target specific sectors of business including Music, Life Insurance, Business Loans, Banking, Entertainment, NFTs, Collectibles, Sports, Car and Home Savings, etc — and with star-power of RSC, will be the first to know about future coins! That means future gains for savvy investors.",
-      "explorer": "https://bscscan.com/token/0x55183148d5C3360cbB0e1EDb38b30e091aEE4D65",
-      "type": "BEP20",
-      "symbol": "R$C",
-      "decimals": 9,
-      "status": "abandoned",
-      "id": "0x55183148d5C3360cbB0e1EDb38b30e091aEE4D65",
-      "chainId": 56
-    },
-    {
       "address": "0x551897f8203bd131b350601D3aC0679Ba0Fc0136",
       "name": "NFPrompt",
       "website": "https://nfprompt.io",
@@ -31498,22 +31047,6 @@
       "decimals": 9,
       "status": "active",
       "id": "0x5546600f77EdA1DCF2e8817eF4D617382E7f71F5",
-      "chainId": 56
-    },
-    {
-      "address": "0x554B5DaeA72B2E2185147374954cb4721e20f4E1",
-      "name": "Broccoli",
-      "type": "BEP20",
-      "symbol": "$BROC",
-      "decimals": 18,
-      "website": "https://broc.wtf/",
-      "description": "Broccoli Token - where crunchy memes meet AI genius. Inspired by CZ's legendary pup and powered by Aimensa.",
-      "explorer": "https://bscscan.com/token/0x554B5DaeA72B2E2185147374954cb4721e20f4E1",
-      "status": "active",
-      "id": "0x554B5DaeA72B2E2185147374954cb4721e20f4E1",
-      "tags": [
-        "memes"
-      ],
       "chainId": 56
     },
     {
@@ -31645,32 +31178,6 @@
       "decimals": 9,
       "status": "active",
       "id": "0x557dd6700e66818AF340ccE17FD4508CED81fBc1",
-      "chainId": 56
-    },
-    {
-      "address": "0x55B370B704240a914f42B5bBB3195431C031f9f8",
-      "name": "S&P Global (Ondo Tokenized)",
-      "website": "https://ondo.finance/",
-      "description": "SPGIon is the Ondo Tokenized version of S&P Global, giving tokenholders economic exposure similar to holding SPGI and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.",
-      "explorer": "https://bscscan.com/address/0x55b370b704240a914f42b5bbb3195431c031f9f8",
-      "type": "BEP20",
-      "symbol": "SPGIon",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x55B370B704240a914f42B5bBB3195431C031f9f8",
-      "tags": [
-        "RWA"
-      ],
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/ondofinance"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/sp-global-tokenized-stock-ondo"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -32844,37 +32351,6 @@
       "symbol": "iCream",
       "decimals": 18,
       "name": "Ice Cream",
-      "chainId": 56
-    },
-    {
-      "address": "0x5905df3D03E29a22e22462D3257E6AC731E22C15",
-      "name": "GREED",
-      "type": "BEP20",
-      "symbol": "$GREED",
-      "decimals": 9,
-      "website": "https://greedtoken.com/",
-      "description": "The Greed Ecosystem combines the First Crypto Music Label, NFTs, the Metaverse, Swaps, Farms & Staking on multiple blockchains.",
-      "explorer": "https://bscscan.com/token/0x5905df3D03E29a22e22462D3257E6AC731E22C15",
-      "status": "active",
-      "id": "0x5905df3D03E29a22e22462D3257E6AC731E22C15",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/GreedEcosystem"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/GREEDOFFICIAL"
-        },
-        {
-          "name": "coingecko",
-          "url": "https://coingecko.com/en/coins/greed"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/greed-ecosystem/"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -34250,41 +33726,6 @@
         {
           "name": "coingecko",
           "url": "https://coingecko.com/en/coins/heroes-td"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x5E5C9001Aa81332D405D993FFd1468751D659d1e",
-      "name": "Baby Doge Inu",
-      "type": "BEP20",
-      "symbol": "$BABYDOGEINU",
-      "decimals": 9,
-      "website": "https://www.babydogeinu.io/",
-      "description": "Baby Doge Inu is a deflationary token with high holder rewards on Binance Smart Chain (BSC).",
-      "explorer": "https://bscscan.com/token/0x5e5c9001aa81332d405d993ffd1468751d659d1e",
-      "status": "active",
-      "id": "0x5E5C9001Aa81332D405D993FFd1468751D659d1e",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/babydoge_inu"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/baby_doge_inu"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/baby-doge-inu/"
-        },
-        {
-          "name": "coingecko",
-          "url": "https://coingecko.com/en/coins/baby-doge-inu"
-        },
-        {
-          "name": "facebook",
-          "url": "https://facebook.com/groups/552451382428964"
         }
       ],
       "chainId": 56
@@ -36350,20 +35791,6 @@
           "url": "https://medium.com/VenusProtocol"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x622A1297057ea233287ce77bdBF2AB4E63609F23",
-      "name": "SUPERDOGE",
-      "website": "https://superdoge.io/",
-      "description": "SUPERDOGE is a deflationary meme coin that donates 2% of every transaction to multiple charities.",
-      "explorer": "https://bscscan.com/token/0x622a1297057ea233287ce77bdbf2ab4e63609f23",
-      "research": "https://superdoge.io/",
-      "type": "BEP20",
-      "symbol": "$SUPDOG",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x622A1297057ea233287ce77bdBF2AB4E63609F23",
       "chainId": 56
     },
     {
@@ -38699,33 +38126,6 @@
       "chainId": 56
     },
     {
-      "address": "0x68E374F856bF25468D365E539b700b648Bf94B67",
-      "name": "Mist",
-      "website": "https://mist.game/",
-      "description": "Mist Token is the native in-game currency of Mist developed to incorporate NFTs with in-game functions for MMO audience.",
-      "explorer": "https://bscscan.com/token/0x68E374F856bF25468D365E539b700b648Bf94B67",
-      "type": "BEP20",
-      "symbol": "$MIST",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x68E374F856bF25468D365E539b700b648Bf94B67",
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/MistNFT"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/mist/"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/MistNft"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x68b5edb385b59E30a7A7Db1E681a449E94DF0213",
       "name": "Silva Token",
       "website": "https://www.silva.finance/",
@@ -40257,32 +39657,6 @@
       "chainId": 56
     },
     {
-      "address": "0x6a708EAD771238919D85930b5a0f10454E1C331a",
-      "name": "SPDR S&P 500 ETF (Ondo Tokenized)",
-      "website": "https://ondo.finance/",
-      "description": "SPYon is the Ondo Tokenized version of the SPDR S&P 500 ETF, giving tokenholders economic exposure similar to holding SPY and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.",
-      "explorer": "https://bscscan.com/address/0x6a708ead771238919d85930b5a0f10454e1c331a",
-      "type": "BEP20",
-      "symbol": "SPYon",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x6a708EAD771238919D85930b5a0f10454E1C331a",
-      "tags": [
-        "RWA"
-      ],
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/ondofinance"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/spdr-sp-500-tokenized-etf-ondo"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x6a731582f6189477c379A8da7d26Dcec3F0a0919",
       "name": "King of Legends",
       "website": "http://kingoflegends.net",
@@ -40846,28 +40220,6 @@
         {
           "name": "coinmarketcap",
           "url": "https://coinmarketcap.com/currencies/palantir-tokenized-stock-xstock/"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x6d5AD1592ed9D6D1dF9b93c793AB759573Ed6714",
-      "name": "CZ&#39;S DOG",
-      "website": "https://www.broccoli.gg/",
-      "description": "The story of $BROCCOLI isn’t just another meme coin launch",
-      "explorer": "https://bscscan.com/token/0x6d5AD1592ed9D6D1dF9b93c793AB759573Ed6714",
-      "type": "BEP20",
-      "symbol": "Broccoli",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x6d5AD1592ed9D6D1dF9b93c793AB759573Ed6714",
-      "tags": [
-        "memes"
-      ],
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/BroccoliCTO_BNB"
         }
       ],
       "chainId": 56
@@ -47080,28 +46432,6 @@
       "chainId": 56
     },
     {
-      "address": "0x8087fdC95e14E7DBF0DE5A08b2558e54793795C0",
-      "name": "Binance&#39;s dog",
-      "type": "BEP20",
-      "symbol": "CLEO",
-      "decimals": 18,
-      "description": "CLEO is the Belgian Malinois owned by Changpeng Zhao (CZ), the founder of Binance. Unlike other crypto-related pets like the Shiba Inu, CLEO has been a symbol of resilience and power in the Binance ecosystem. Confirmed by CZ himself, CLEO has been seen in various Binance posts, showcasing her as a true part of the crypto legacy.",
-      "website": "https://cleobsc.live/",
-      "explorer": "https://bscscan.com/token/0x8087fdc95e14e7dbf0de5a08b2558e54793795c0",
-      "id": "0x8087fdC95e14E7DBF0DE5A08b2558e54793795C0",
-      "status": "active",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/cleoczsdog/"
-        }
-      ],
-      "tags": [
-        "memes"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x808fac147a9C02723d0BE300AC4753eAf93C0e1F",
       "name": "BabyFlokiCoin",
       "type": "BEP20",
@@ -48675,33 +48005,6 @@
         {
           "name": "whitepaper",
           "url": "https://www.umb.network/wp-content/uploads/2021/02/umb_litepaper_design_v3.1.pdf"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x84750e8EfacC62be5AFe7221Cf149A2520Cb1b60",
-      "name": "SCORPION",
-      "type": "BEP20",
-      "symbol": "$SCORP",
-      "decimals": 9,
-      "website": "https://www.thescorpioncoin.com/",
-      "description": "Scorpion token is a fair launch, community driven, hyper-deflationary DeFi protocol. Scorpion token holders benefit from passive rewards through static reflection, auto liquidity and auto burn. Proprietary anti-whale mechanisms built into the contract stop the supply from being controlled by syndicates.",
-      "explorer": "https://bscscan.com/token/0x84750e8EfacC62be5AFe7221Cf149A2520Cb1b60",
-      "status": "active",
-      "id": "0x84750e8EfacC62be5AFe7221Cf149A2520Cb1b60",
-      "links": [
-        {
-          "name": "github",
-          "url": "https://github.com/scorpion-token/SCORPION"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/scorpionbsc"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/thescorpiontoken"
         }
       ],
       "chainId": 56
@@ -50635,19 +49938,6 @@
       "chainId": 56
     },
     {
-      "address": "0x8943b6d1677a4Addbe5Aa58f429e11E856746Fba",
-      "name": "DUI",
-      "website": "https://www.duicrypto.com/",
-      "description": "DuiCoin is the first hybrid CatDog meme coin! Dui is a real life animal and will represent our journey. The destiny? The first MemeCoin Ecosystem!",
-      "explorer": "https://bscscan.com/token/0x8943b6d1677a4addbe5aa58f429e11e856746fba",
-      "type": "BEP20",
-      "symbol": "$DUI",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x8943b6d1677a4Addbe5Aa58f429e11E856746Fba",
-      "chainId": 56
-    },
-    {
       "address": "0x89671544190eE39E469C8393009875dF6565457a",
       "name": "SpaceGrime",
       "website": "https://spacegrime.com/",
@@ -50723,19 +50013,6 @@
       "explorer": "https://bscscan.com/token/0x897fE07d613037c206429628611A2665E18C657d",
       "status": "active",
       "id": "0x897fE07d613037c206429628611A2665E18C657d",
-      "chainId": 56
-    },
-    {
-      "address": "0x899dCdE4f486816aFae42442D4b1b6a7C6fE9c63",
-      "name": "MARGIN CALL TOKEN",
-      "website": "https://margincall.cc",
-      "description": "Margin call – token for community and community is owner",
-      "explorer": "https://bscscan.com/token/0x899dcde4f486816afae42442d4b1b6a7c6fe9c63",
-      "type": "BEP20",
-      "symbol": "$MC",
-      "decimals": 8,
-      "status": "active",
-      "id": "0x899dCdE4f486816aFae42442D4b1b6a7C6fE9c63",
       "chainId": 56
     },
     {
@@ -51562,19 +50839,6 @@
       "tags": [
         "defi"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x8EbcA1ac949067ED8784FF9D07e4d084a3D82636",
-      "name": "Fuck$ Finance v2.0",
-      "website": "https://justbuyitffs.com/",
-      "description": "Fuck$ Finance is a community driven token that will allow its owners to interact with FFS tools that will be developed based on community's needs. FFS2 token will also be used to fund charity donations.",
-      "explorer": "https://bscscan.com/token/0x8ebca1ac949067ed8784ff9d07e4d084a3d82636",
-      "type": "BEP20",
-      "symbol": "FFS2",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x8EbcA1ac949067ED8784FF9D07e4d084a3D82636",
       "chainId": 56
     },
     {
@@ -54295,19 +53559,6 @@
       "chainId": 56
     },
     {
-      "address": "0x93f63d9455685621aBd73E63cC04f7e454270A66",
-      "name": "Weentar",
-      "website": "https://weentar.com/",
-      "description": "Weentar is a decentralised social media project. We are creating a platform that allows for celebrities, influencers and creators launch their social tokens as easily as creating a profile and also have their media content posted as NFT's on a decentralised social media platform on the Weentar blockchain.",
-      "explorer": "https://bscscan.com/token/0x93f63d9455685621aBd73E63cC04f7e454270A66",
-      "type": "BEP20",
-      "symbol": "$WNTR",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x93f63d9455685621aBd73E63cC04f7e454270A66",
-      "chainId": 56
-    },
-    {
       "address": "0x93fac02b22B6743423381D163aec418178019B7a",
       "name": "Figma (Ondo Tokenized)",
       "website": "https://ondo.finance/",
@@ -55175,19 +54426,6 @@
       "tags": [
         "wrapped"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x9641C1eee00471f7dA822167F6CF77202356179a",
-      "name": "Rhyme$ick Coin",
-      "website": "https://www.rhymesickco.in/",
-      "description": "The RSC coin is our introduction to the crypto world and the first of many “SMART COINS” to follow with real world applications and utility! These Smart Coins will target specific sectors of business including Music, Life Insurance, Business Loans, Banking, Entertainment, NFTs, Collectibles, Sports, Car and Home Savings, etc — and with star-power of RSC, will be the first to know about future coins! That means future gains for savvy investors.",
-      "explorer": "https://bscscan.com/token/0x9641C1eee00471f7dA822167F6CF77202356179a",
-      "type": "BEP20",
-      "symbol": "R$C",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x9641C1eee00471f7dA822167F6CF77202356179a",
       "chainId": 56
     },
     {
@@ -57164,41 +56402,6 @@
         {
           "name": "x",
           "url": "https://x.com/gravitychain"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x9CEFd9588f076c5f805341864adC8a6F077A5b99",
-      "name": "867",
-      "type": "BEP20",
-      "symbol": "$867",
-      "decimals": 9,
-      "website": "https://867crypto.com/",
-      "description": "The $867 Casino is an all-inclusive crypto casino and community entertainment platform! With various casino style games scheduled for release! The 867 Casino is sure to entertain everyone! /KEEP_WATCHING The casino platform will allow holders of $867 tokens to access and play a wide range of casino style, casino tournament style games, and skill based games. ",
-      "explorer": "https://bscscan.com/token/0x9CEFd9588f076c5f805341864adC8a6F077A5b99",
-      "status": "active",
-      "id": "0x9CEFd9588f076c5f805341864adC8a6F077A5b99",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/867_crypto"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/EightSixSeven"
-        },
-        {
-          "name": "whitepaper",
-          "url": "https://867crypto.com/wp-content/uploads/2021/08/whitepaper.pdf"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/867/"
-        },
-        {
-          "name": "coingecko",
-          "url": "https://coingecko.com/en/coins/867"
         }
       ],
       "chainId": 56
@@ -62143,19 +61346,6 @@
       "tags": [
         "wrapped"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xB05513809549b8654fA1228b123A36c78a3356F4",
-      "name": "BossDog",
-      "type": "BEP20",
-      "symbol": "$BOSSDOG",
-      "decimals": 9,
-      "website": "https://bossdogtoken.com/",
-      "description": "Yield-generating contract with 🔥burn (50% of total supply), 💰liquidity (5% fee) and 🙌redistribution (5% fee).",
-      "explorer": "https://bscscan.com/token/0xB05513809549b8654fA1228b123A36c78a3356F4",
-      "status": "active",
-      "id": "0xB05513809549b8654fA1228b123A36c78a3356F4",
       "chainId": 56
     },
     {
@@ -73253,57 +72443,6 @@
       "chainId": 56
     },
     {
-      "address": "0xF28709f1daa6CEE2847C5B9526ceba457331742b",
-      "name": "$MLNX",
-      "website": "https://melontokenbsc.com/",
-      "description": "MELONx - We can beat breast cancer. Together!",
-      "explorer": "https://bscscan.com/token/0xF28709f1daa6CEE2847C5B9526ceba457331742b",
-      "type": "BEP20",
-      "symbol": "$MLNX",
-      "decimals": 18,
-      "status": "active",
-      "id": "0xF28709f1daa6CEE2847C5B9526ceba457331742b",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/melontokenbsc"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/DRIVENx"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/melonbsc"
-        },
-        {
-          "name": "blog",
-          "url": "https://medium.com/@drivenprotocol"
-        },
-        {
-          "name": "whitepaper",
-          "url": "https://melontokenbsc.com/wp-content/uploads/2021/08/MELONx-Whitepaper.pdf"
-        },
-        {
-          "name": "youtube",
-          "url": "https://youtube.com/c/DRIVENx"
-        },
-        {
-          "name": "reddit",
-          "url": "https://reddit.com/r/DRIVENecosystem/"
-        },
-        {
-          "name": "discord",
-          "url": "https://discord.com/invite/qZ36FNT23w"
-        },
-        {
-          "name": "facebook",
-          "url": "https://facebook.com/melontoken"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xF2A92BC1Cf798fF4De14502a9C6FdA58865e8D5d",
       "name": "Thoreum V2",
       "website": "https://thoreum.capital/",
@@ -75075,53 +74214,6 @@
       "chainId": 56
     },
     {
-      "address": "0xFa17b330bCC4e7F3E2456996d89A5a54AB044831",
-      "name": "Cardence",
-      "type": "BEP20",
-      "symbol": "$CRDN",
-      "decimals": 18,
-      "website": "https://cardence.io",
-      "description": "Cardence is a launchpad for new projects on Cardano platform creating a trustless fund raising ecosystem for carefully vetted Cardano projects.",
-      "explorer": "https://bscscan.com/token/0xfa17b330bcc4e7f3e2456996d89a5a54ab044831",
-      "status": "active",
-      "id": "0xFa17b330bCC4e7F3E2456996d89A5a54AB044831",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/cardence_io"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/cardence_chat"
-        },
-        {
-          "name": "whitepaper",
-          "url": "https://docs.cardence.io"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/cardence-io/"
-        },
-        {
-          "name": "medium",
-          "url": "https://medium.com/cardence"
-        },
-        {
-          "name": "reddit",
-          "url": "https://reddit.com/r/Cardence/"
-        },
-        {
-          "name": "youtube",
-          "url": "https://youtube.com/user/ismulad"
-        },
-        {
-          "name": "facebook",
-          "url": "https://facebook.com/cardence.io"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xFaAb744dB9def8e13194600Ed02bC5D5BEd3B85C",
       "name": "NEFTiPEDiA",
       "type": "BEP20",
@@ -76832,32 +75924,6 @@
       "chainId": 56
     },
     {
-      "address": "0xa90424D5D3E770e8644103AB503ed775dD1318FD",
-      "name": "Procter & Gamble tokenized stock (xStock)",
-      "website": "https://assets.backed.fi/products",
-      "description": "Procter & Gamble xStock (PGx) is a tracker certificate issued as Solana SPL and ERC-20 tokens. PGx tracks the price of The Procter & Gamble Company (the underlying). PGx is designed to give eligible cryptocurrency market participants regulatory-compliant access to the stock price of The Procter & Gamble Company, whilst maintaining the benefits of blockchain technology. Procter & Gamble is a global consumer goods company, founded over 180 years ago. It's known for its vast portfolio of trusted brands and its commitment to innovation and ethical business practices.",
-      "explorer": "https://bscscan.com/token/0xa90424D5D3E770e8644103AB503ed775dD1318FD",
-      "type": "BEP20",
-      "symbol": "PGX",
-      "decimals": 18,
-      "status": "active",
-      "id": "0xa90424D5D3E770e8644103AB503ed775dD1318FD",
-      "tags": [
-        "RWA"
-      ],
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/xstocksfi"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/procter-gamble-tokenized-stock-xstock/"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xa94b7a842aADB617a0B08fA744e033C6De2f7595",
       "name": "FlashX Ultra",
       "website": "https://www.flashxultra.com/",
@@ -77051,45 +76117,6 @@
         {
           "name": "coingecko",
           "url": "https://coingecko.com/coins/pleasure-coin"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xaA357b0F167923Efc1D6978a868f81866cA6E98c",
-      "name": "ShibX",
-      "type": "BEP20",
-      "symbol": "$ShibX",
-      "decimals": 4,
-      "website": "https://shibxbsc.com/",
-      "description": "SHIBX is the first Rebase token which passively rewards Binance Pegged $SHIB INU for holding the token. This Rebase tokens also known as elastic supply is a new contract function that has has taken the BSC network by storm.",
-      "explorer": "https://bscscan.com/token/0xaA357b0F167923Efc1D6978a868f81866cA6E98c",
-      "status": "active",
-      "id": "0xaA357b0F167923Efc1D6978a868f81866cA6E98c",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/ShibXOfficial"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/Shib_X"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/shibx/"
-        },
-        {
-          "name": "coingecko",
-          "url": "https://coingecko.com/en/coins/shibx/"
-        },
-        {
-          "name": "discord",
-          "url": "https://discord.com/invite/rgG7yEse"
-        },
-        {
-          "name": "whitepaper",
-          "url": "https://shibxbsc.com/wp-content/uploads/2021/10/SHIBX-WHITEPAPER-1.pdf"
         }
       ],
       "chainId": 56
@@ -77439,45 +76466,6 @@
       "chainId": 56
     },
     {
-      "address": "0xaFE3321309A994831884fc1725F4c3236AC79f76",
-      "name": "Memeflate",
-      "type": "BEP20",
-      "symbol": "$MFLATE",
-      "decimals": 9,
-      "website": "https://www.memeflate.io",
-      "description": "MemFlate2.0 Market-Place is a platform that 'HOUSES' all types of buyers and sellers from graphic designers to video production and web development & connect them to projects in need of creatives In turn rewarding creators and holders of $MFLATE through this utility. Further expansion of the project has lead me in to 'real world' service for hire, locally&globally from catering to wedding planners customers will be able to find all services at Memeflate",
-      "explorer": "https://bscscan.com/token/0xaFE3321309A994831884fc1725F4c3236AC79f76",
-      "status": "active",
-      "id": "0xaFE3321309A994831884fc1725F4c3236AC79f76",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/memeflate"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/mrmflate"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/MemeFlateReloaded "
-        },
-        {
-          "name": "whitepaper",
-          "url": "https://memeflate.io/white-paper/"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/memeflate"
-        },
-        {
-          "name": "coingecko",
-          "url": "https://coingecko.com/memeflate"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xaFF9084f2374585879e8B434C399E29E80ccE635",
       "name": "Flux",
       "type": "BEP20",
@@ -77614,33 +76602,6 @@
       "tags": [
         "defi"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xaa15f52Ef3994213a9e06731F6471786B75372CC",
-      "name": "LilDogeFloki",
-      "website": "https://lildogefloki.fun",
-      "description": "Lil Doge Floki ($LDF), a community-driven meme token inspired by Elon Musk! Lil Doge Floki's mission is to build a DAO to drive the most popular and original P2E game on BSC that combines Metaverse, NFTs, and the ability to earn why you play!",
-      "explorer": "https://bscscan.com/token/0xaa15f52Ef3994213a9e06731F6471786B75372CC",
-      "type": "BEP20",
-      "symbol": "LDF&#128021",
-      "decimals": 9,
-      "status": "active",
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/Lil_Doge_Floki"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/lildogefiokiceo"
-        },
-        {
-          "name": "coingecko",
-          "url": "https://coingecko.com/en/coins/lil-doge-floki-token"
-        }
-      ],
-      "id": "0xaa15f52Ef3994213a9e06731F6471786B75372CC",
       "chainId": 56
     },
     {
@@ -77972,36 +76933,6 @@
       "explorer": "https://bscscan.com/token/0xb036f689bd98b4bd3bd648fa09a23e54d839a859",
       "status": "active",
       "id": "0xb036f689bd98B4Bd3BD648FA09A23e54d839A859",
-      "chainId": 56
-    },
-    {
-      "address": "0xb07905396A419B121213efe1d17cfD0ff20aE597",
-      "name": "PIZZANFT",
-      "website": "https://pizza-nft.com",
-      "description": "PIZZA NFT, an exclusive creator & developer of The NFT Pizza Dough Astros: Astro KungFu Fighters & Astro Jocks. A series of 2000 NFT Astros will be created and minted for Smart Chain NFT Marketplace. NFT Astros will be characters in 2D, 3D & VR games.",
-      "explorer": "https://bscscan.com/token/0xb07905396A419B121213efe1d17cfD0ff20aE597",
-      "type": "BEP20",
-      "symbol": "$PIZZA",
-      "decimals": 18,
-      "status": "active",
-      "id": "0xb07905396A419B121213efe1d17cfD0ff20aE597",
-      "tags": [
-        "nft"
-      ],
-      "links": [
-        {
-          "name": "github",
-          "url": "https://github.com/SafePizzaCoin"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/pizzanft/"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/pizzaNFT2E"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -79326,19 +78257,6 @@
       "chainId": 56
     },
     {
-      "address": "0xb966150c7a0150eD4ea979e04F18d109301AAb95",
-      "name": "Stonks Token",
-      "website": "https://www.stonkstoken.space/",
-      "description": "$STONKS is a community driven fair launched DeFi token. Reflection, Lp acquisition and Burn happens in every trade. It aims to launch a gaming exchange platform to build utility around the token.",
-      "explorer": "https://bscscan.com/token/0xb966150c7a0150eD4ea979e04F18d109301AAb95",
-      "type": "BEP20",
-      "symbol": "$STONKS",
-      "decimals": 9,
-      "status": "active",
-      "id": "0xb966150c7a0150eD4ea979e04F18d109301AAb95",
-      "chainId": 56
-    },
-    {
       "address": "0xb9784C1633ef3b839563B988c323798634714368",
       "name": "Phoswap",
       "website": "https://phoswap.io",
@@ -80395,19 +79313,6 @@
           "url": "https://coinmarketcap.com/currencies/gamercoin/"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xbdfB7A9e5A74cD722A9691570108CAaacB17674A",
-      "name": "$SpaceSharks",
-      "website": "https://spacesharks.co/",
-      "description": "$SPACESHARKS is a deflationary and frictionless yield token built to connect digital artists and those of interest!",
-      "explorer": "https://bscscan.com/token/0xbdfB7A9e5A74cD722A9691570108CAaacB17674A",
-      "type": "BEP20",
-      "symbol": "SPACESHARKS",
-      "decimals": 18,
-      "status": "active",
-      "id": "0xbdfB7A9e5A74cD722A9691570108CAaacB17674A",
       "chainId": 56
     },
     {
@@ -83205,19 +82110,6 @@
       "chainId": 56
     },
     {
-      "address": "0xcFDC1e2c7F4B40cFb3632188d6F766309151b7b8",
-      "name": "SAFE & SECURE WALLET",
-      "type": "BEP20",
-      "symbol": "SAS",
-      "decimals": 18,
-      "website": "https://saswallets.com",
-      "description": "SAFE & SECURE WALLET",
-      "explorer": "https://bscscan.com/token/0xcFDC1e2c7F4B40cFb3632188d6F766309151b7b8",
-      "status": "active",
-      "id": "0xcFDC1e2c7F4B40cFb3632188d6F766309151b7b8",
-      "chainId": 56
-    },
-    {
       "address": "0xca30e772e4Bd5F38ed775e6f8c57c6fFcb3c931f",
       "name": "ZEDXION",
       "type": "BEP20",
@@ -83228,19 +82120,6 @@
       "explorer": "https://bscscan.com/token/0xca30e772e4Bd5F38ed775e6f8c57c6fFcb3c931f",
       "status": "active",
       "id": "0xca30e772e4Bd5F38ed775e6f8c57c6fFcb3c931f",
-      "chainId": 56
-    },
-    {
-      "address": "0xca5f1Bd4B47ECe13a7ca753202F284D9Edd85d8A",
-      "name": "Big Oily Orange Boob",
-      "type": "BEP20",
-      "symbol": "$BOOB",
-      "decimals": 9,
-      "website": "https://coinboob.com",
-      "description": "Big Oily Orange Boob ($BOOB) is a community token that can be used as a tipping currency for models.$BOOB will also raise funds for breast cancer charities.",
-      "explorer": "https://bscscan.com/token/0xca5f1Bd4B47ECe13a7ca753202F284D9Edd85d8A",
-      "status": "active",
-      "id": "0xca5f1Bd4B47ECe13a7ca753202F284D9Edd85d8A",
       "chainId": 56
     },
     {
@@ -83623,32 +82502,6 @@
       ],
       "tags": [
         "dapp"
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xcf9CAf83053213c44dd7027Db3e1E4aC98E55f8f",
-      "name": "iShares Core S&P Total US Stock Market ETF (Ondo Tokenized)",
-      "website": "https://ondo.finance/",
-      "description": "ITOTon is the Ondo Tokenized version of the iShares Core S&P Total US Stock Market ETF, giving tokenholders economic exposure similar to holding ITOT and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.",
-      "explorer": "https://bscscan.com/address/0xcf9caf83053213c44dd7027db3e1e4ac98e55f8f",
-      "type": "BEP20",
-      "symbol": "ITOTon",
-      "decimals": 18,
-      "status": "active",
-      "id": "0xcf9CAf83053213c44dd7027Db3e1E4aC98E55f8f",
-      "tags": [
-        "RWA"
-      ],
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/ondofinance"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/ishares-core-sp-total-us-stock-market-tokenized-etf-ondo"
-        }
       ],
       "chainId": 56
     },
@@ -84318,33 +83171,6 @@
         {
           "name": "telegram",
           "url": "https://t.me/mftudotnet"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xd3ecC6a4ce1a9fAEC1AA5E30B55f8a1a4b84F938",
-      "name": "Elonomics",
-      "website": "https://Elonomicstoken.com",
-      "description": "Elonomics is a Rebase and BUSD Rewards token in the BSC network.",
-      "explorer": "https://bscscan.com/token/0xd3ecc6a4ce1a9faec1aa5e30b55f8a1a4b84f938",
-      "type": "BEP20",
-      "symbol": "$ELONOM",
-      "decimals": 4,
-      "status": "active",
-      "id": "0xd3ecC6a4ce1a9fAEC1AA5E30B55f8a1a4b84F938",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/elonomicsbsc"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/elonomics"
-        },
-        {
-          "name": "coingecko",
-          "url": "https://coingecko.com/en/coins/elonomics"
         }
       ],
       "chainId": 56
@@ -86014,29 +84840,6 @@
       "chainId": 56
     },
     {
-      "address": "0xdFE6891ce8E5a5c7Cf54fFdE406A6C2C54145F71",
-      "name": "CHEEMSINU",
-      "type": "BEP20",
-      "symbol": "$CINU",
-      "decimals": 9,
-      "website": "https://cheemsinu.net/",
-      "description": "Combining Memes & Crypto to bring both LOLs and money to the masses of the internet.",
-      "explorer": "https://bscscan.com/token/0xdFE6891ce8E5a5c7Cf54fFdE406A6C2C54145F71",
-      "status": "active",
-      "id": "0xdFE6891ce8E5a5c7Cf54fFdE406A6C2C54145F71",
-      "links": [
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/cheems-inu/"
-        },
-        {
-          "name": "coingecko",
-          "url": "https://coingecko.com/en/coins/cheems-inu"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xda3684575afa20309938434F3d40799B12868057",
       "symbol": "Cake-LP",
       "decimals": 18,
@@ -86086,32 +84889,6 @@
       "symbol": "KRN",
       "decimals": 18,
       "name": "CROESUS",
-      "chainId": 56
-    },
-    {
-      "address": "0xdb0482cfaD4789798623E64b15eebA01b16e917C",
-      "name": "Johnson & Johnson tokenized stock (xStock)",
-      "website": "https://assets.backed.fi/products",
-      "description": "Johnson & Johnson xStock (JNJx) is a tracker certificate issued as Solana SPL and ERC-20 tokens. JNJx tracks the price of Johnson & Johnson (the underlying). JNJx is designed to give eligible cryptocurrency market participants regulatory-compliant access to the stock price of Johnson & Johnson, whilst maintaining the benefits of blockchain technology. Johnson & Johnson (J&J) is a global healthcare company focused on research, development, manufacturing, and sale of pharmaceuticals, medical devices, and consumer products.",
-      "explorer": "https://bscscan.com/token/0xdb0482cfaD4789798623E64b15eebA01b16e917C",
-      "type": "BEP20",
-      "symbol": "JNJX",
-      "decimals": 18,
-      "status": "active",
-      "id": "0xdb0482cfaD4789798623E64b15eebA01b16e917C",
-      "tags": [
-        "RWA"
-      ],
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/xstocksfi"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/johnson-johnson-tokenized-stock-xstock/"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -87961,40 +86738,6 @@
         "defi",
         "nft",
         "gamefi"
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xe75BF67Df2388183d9b7714231996C937d4a855A",
-      "name": "Aeterna",
-      "type": "BEP20",
-      "symbol": "$Aeterna",
-      "decimals": 5,
-      "website": "https://www.aeterna.eco/",
-      "description": "Aeterna is a unique de-fi eco-system that offers a variety of ways to generate wealth and navigate your way through a confusing decentralized world.",
-      "explorer": "https://bscscan.com/token/0xe75BF67Df2388183d9b7714231996C937d4a855A",
-      "status": "active",
-      "id": "0xe75BF67Df2388183d9b7714231996C937d4a855A",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/project_aeterna"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/aeternamain"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/aeterna/"
-        },
-        {
-          "name": "discord",
-          "url": "https://discord.com/invite/snV7qnVWj8"
-        }
-      ],
-      "tags": [
-        "defi"
       ],
       "chainId": 56
     },
