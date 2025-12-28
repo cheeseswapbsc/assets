@@ -525,19 +525,6 @@
       "chainId": 56
     },
     {
-      "address": "0x00e7daf0E5FD1F5331c92d09e3C825A8e4Fc6515",
-      "name": "SAFEMOON CLASSIC",
-      "website": "https://safemoonclassic.org",
-      "description": "The BIG Memes Token",
-      "explorer": "https://bscscan.com/token/0x00e7daf0E5FD1F5331c92d09e3C825A8e4Fc6515",
-      "symbol": "SAFEMOONC",
-      "type": "BEP20",
-      "decimals": 0,
-      "status": "active",
-      "id": "0x00e7daf0E5FD1F5331c92d09e3C825A8e4Fc6515",
-      "chainId": 56
-    },
-    {
       "address": "0x00f9928315196cdFBeE0205520A8ebe60D9172F0",
       "name": "Develocity",
       "type": "BEP20",
@@ -2284,19 +2271,6 @@
       "chainId": 56
     },
     {
-      "address": "0x02b59dfAd35eB4d943c1bBe5D1b0153CCE2c7Db7",
-      "name": "Kittycoin Token",
-      "type": "BEP20",
-      "symbol": "Kittycoin",
-      "decimals": 8,
-      "website": "https://kittycointoken.com/",
-      "description": "Inspired by Dogecoin. 10% of Kittycoins go to support user voted upon no kill animal shelters and rescues.",
-      "explorer": "https://bscscan.com/token/0x02b59dfAd35eB4d943c1bBe5D1b0153CCE2c7Db7",
-      "status": "active",
-      "id": "0x02b59dfAd35eB4d943c1bBe5D1b0153CCE2c7Db7",
-      "chainId": 56
-    },
-    {
       "address": "0x02dd18E4981DA3fC7363fE56f3B81D1860b44ea7",
       "name": "SCRT",
       "website": "https://scrt.network",
@@ -2723,29 +2697,6 @@
         {
           "name": "x",
           "url": "https://x.com/Phoenix_Chain"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x041640eA980e3fE61e9C4ca26D9007Bc70094C15",
-      "name": "PirateCoin",
-      "type": "BEP20",
-      "symbol": "PirateCoin☠",
-      "decimals": 9,
-      "website": "https://piratecoin.games/",
-      "description": "PirateCoin aims to produce a game integrating NFT by finding Treasure and earning PirateCoin. The character will earn and get",
-      "explorer": "https://bscscan.com/token/0x041640ea980e3fe61e9c4ca26d9007bc70094c15",
-      "status": "active",
-      "id": "0x041640eA980e3fE61e9C4ca26D9007Bc70094C15",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/piratecoingames"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/PirateCoinGamesOfficial"
         }
       ],
       "chainId": 56
@@ -3476,19 +3427,6 @@
       "chainId": 56
     },
     {
-      "address": "0x06c4212Ae2fEa51a27A045D968E73F7E91eA5521",
-      "name": "Baby EverDoge",
-      "type": "BEP20",
-      "symbol": "Baby EverDoge",
-      "decimals": 9,
-      "website": "https://www.babyEverDoge.com",
-      "description": "Logo update for this coin",
-      "explorer": "https://bscscan.com/token/0x06c4212Ae2fEa51a27A045D968E73F7E91eA5521",
-      "status": "active",
-      "id": "0x06c4212Ae2fEa51a27A045D968E73F7E91eA5521",
-      "chainId": 56
-    },
-    {
       "address": "0x070a08BeEF8d36734dD67A491202fF35a6A16d97",
       "name": "Binance-Peg Smooth Love Potion",
       "website": "https://axieinfinity.com",
@@ -3978,19 +3916,6 @@
       "chainId": 56
     },
     {
-      "address": "0x0919eFD4aA64f97F274Fc6fEDFADA32Cfbaf4444",
-      "name": "FAKE digital euro",
-      "type": "BEP20",
-      "symbol": "FAKE EURC",
-      "decimals": 18,
-      "description": "This token is malicious do not interact",
-      "website": "https://bscscan.com/token/0x0919eFD4aA64f97F274Fc6fEDFADA32Cfbaf4444",
-      "explorer": "https://bscscan.com/token/0x0919eFD4aA64f97F274Fc6fEDFADA32Cfbaf4444",
-      "status": "spam",
-      "id": "0x0919eFD4aA64f97F274Fc6fEDFADA32Cfbaf4444",
-      "chainId": 56
-    },
-    {
       "address": "0x091FC7778e6932d4009B087B191D1EE3bac5729A",
       "name": "Alphabet Class A (Ondo Tokenized)",
       "website": "https://ondo.finance/",
@@ -4054,19 +3979,6 @@
           "url": "https://coinmarketcap.com/currencies/digital-files/"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x0952dDFfDE60786497C7CEd1f49B4A14cF527f76",
-      "name": "Ghostface",
-      "website": "https://www.ghostface.finance/",
-      "description": "Ghostface - Hold $GHOSTFACE and earn $BNB while you sleep!",
-      "explorer": "https://bscscan.com/token/0x0952ddffde60786497c7ced1f49b4a14cf527f76",
-      "type": "BEP20",
-      "symbol": "GHOSTFACE",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x0952dDFfDE60786497C7CEd1f49B4A14cF527f76",
       "chainId": 56
     },
     {
@@ -4376,33 +4288,6 @@
       "chainId": 56
     },
     {
-      "address": "0x0A7bB2bddA1c0eA02d98a7b048f4bF809F40277b",
-      "name": "ThunderADA",
-      "website": "https://thunderada.app/",
-      "description": "The next evolution of a reflection token on the BSC with double reward reflection token using the power of 80/20",
-      "explorer": "https://bscscan.com/token/0x0A7bB2bddA1c0eA02d98a7b048f4bF809F40277b",
-      "type": "BEP20",
-      "symbol": "THUNDERADA",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x0A7bB2bddA1c0eA02d98a7b048f4bF809F40277b",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/ThunderADAapp"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/ThunderADA"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/ThunderAda/contracts"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x0AF55d5fF28A3269d69B98680Fd034f115dd53Ac",
       "name": "BankSocial",
       "website": "https://www.banksocial.io",
@@ -4554,19 +4439,6 @@
           "url": "https://coinmarketcap.com/currencies/goldman-sachs-tokenized-stock-ondo"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x0D6A59cEF44BaC622e91313B366C7F802b2670D6",
-      "name": "GGININDER",
-      "website": "https://ggininder.space/",
-      "description": "Glorious Genius IN INcredible holDER",
-      "explorer": "https://bscscan.com/token/0x0D6A59cEF44BaC622e91313B366C7F802b2670D6",
-      "symbol": "GGININDER",
-      "type": "BEP20",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x0D6A59cEF44BaC622e91313B366C7F802b2670D6",
       "chainId": 56
     },
     {
@@ -4903,36 +4775,6 @@
       "chainId": 56
     },
     {
-      "address": "0x0EA526b4799541797D8b880b48Cc65d71d1e273B",
-      "name": "Shiba Games",
-      "type": "BEP20",
-      "symbol": "SHIBAGAMES ",
-      "decimals": 9,
-      "website": "https://shibagames.net",
-      "description": "Step into the future. Shiba Games will enter the Metaverse with 3 meta gaming projects ShibaLand, ShibaHunt and ShibaRun.",
-      "explorer": "https://bscscan.com/token/0x0EA526b4799541797D8b880b48Cc65d71d1e273B",
-      "status": "active",
-      "id": "0x0EA526b4799541797D8b880b48Cc65d71d1e273B",
-      "tags": [
-        "deflationary"
-      ],
-      "links": [
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/shiba-games/"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/shiba_games"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/shibagames_"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x0EBc30459551858e81306d583025d12C7d795FA2",
       "name": "Amazing Doge",
       "type": "BEP20",
@@ -5145,19 +4987,6 @@
       "tags": [
         "nft"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x0a4D0889BB5E11F662AAE1cf4Eb8b6717a66497f",
-      "name": "FAKE Tether USD (Bridge TC10)",
-      "type": "BEP20",
-      "symbol": "FAKE USDT.C",
-      "decimals": 18,
-      "description": "This token is malicious do not interact",
-      "website": "https://bscscan.com/token/0x0a4D0889BB5E11F662AAE1cf4Eb8b6717a66497f",
-      "explorer": "https://bscscan.com/token/0x0a4D0889BB5E11F662AAE1cf4Eb8b6717a66497f",
-      "status": "spam",
-      "id": "0x0a4D0889BB5E11F662AAE1cf4Eb8b6717a66497f",
       "chainId": 56
     },
     {
@@ -5533,22 +5362,6 @@
           "name": "telegram",
           "url": "https://t.me/Bearn_Fi"
         }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x0dA292E241096140Ce2b3d39e5699acC2eCa68fa",
-      "name": "SafeOrbit",
-      "type": "BEP20",
-      "symbol": "SAFEORBIT",
-      "decimals": 9,
-      "website": "https://safeorbit.io/",
-      "description": "Autonomus Yield & Liquidity Generation Protocol",
-      "explorer": "https://bscscan.com/token/0x0dA292E241096140Ce2b3d39e5699acC2eCa68fa",
-      "status": "active",
-      "id": "0x0dA292E241096140Ce2b3d39e5699acC2eCa68fa",
-      "tags": [
-        "deflationary"
       ],
       "chainId": 56
     },
@@ -6406,36 +6219,6 @@
       "chainId": 56
     },
     {
-      "address": "0x11aC6aF070Fe1991a457c56FB85c577EFE57F0e4",
-      "name": "DragonKing",
-      "type": "BEP20",
-      "symbol": "DragonKing",
-      "decimals": 18,
-      "website": "https://dragonkingunited.com",
-      "description": "Dragonking is lords over the sea, also a symbol of good fortune and strength. Dragonking is 100% community driven token.",
-      "explorer": "https://bscscan.com/token/0x11aC6aF070Fe1991a457c56FB85c577EFE57F0e4",
-      "status": "active",
-      "id": "0x11aC6aF070Fe1991a457c56FB85c577EFE57F0e4",
-      "links": [
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/dragonking"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/dragonkingofficialchannel"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/Dking_united99"
-        }
-      ],
-      "tags": [
-        "defi"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x11ed1d93bdD3Ee180CA724AC82F911663f0daFB2",
       "name": "Parallel Universe",
       "type": "BEP20",
@@ -6736,40 +6519,6 @@
         {
           "name": "telegram",
           "url": "https://t.me/NFTBlackMarketChat"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x12b83d77a606D8f5c4CE29dfFdb592C523364995",
-      "name": "Baby Yooshi",
-      "website": "https://www.babyyooshi.com/",
-      "description": "Baby YooShi is a token on Binance Smart Chain boasting various features. BabyYooShi name and image are inspired by a",
-      "explorer": "https://bscscan.com/token/0x12b83d77a606d8f5c4ce29dffdb592c523364995",
-      "type": "BEP20",
-      "symbol": "BabyYooshi",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x12b83d77a606D8f5c4CE29dfFdb592C523364995",
-      "tags": [
-        "deflationary"
-      ],
-      "links": [
-        {
-          "name": "github",
-          "url": "https://github.com/BABYYOOSHI/BABYYOOSHI"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/baby-yooshi/"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/baby_yooshi"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/byooshi_offical"
         }
       ],
       "chainId": 56
@@ -7317,32 +7066,6 @@
       "chainId": 56
     },
     {
-      "address": "0x14940169E2Db1595CDD3CACd30DECC5bbB4d9f19",
-      "name": "Santa Floki v2.0",
-      "type": "BEP20",
-      "symbol": "HOHOHO V2.0",
-      "decimals": 4,
-      "website": "https://www.santafloki.com/",
-      "description": "Santa Floki ($HoHoHo) v2.0 is a relaunch in order to better serve our future utility ecosystem (gaming, staking and metaverse).",
-      "explorer": "https://bscscan.com/token/0x14940169E2Db1595CDD3CACd30DECC5bbB4d9f19",
-      "status": "active",
-      "id": "0x14940169E2Db1595CDD3CACd30DECC5bbB4d9f19",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/Santa_Floki"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/Santa_Floki"
-        }
-      ],
-      "tags": [
-        "nft"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x14B06bF2C5B0AFd259c47c4be39cB9368ef0be3f",
       "name": "GOUDA Token",
       "website": "https://cowswap.app",
@@ -7394,13 +7117,6 @@
       "chainId": 56
     },
     {
-      "address": "0x14E18681bAEb855c2bD0395956e06e66458BAE19",
-      "symbol": "NEUROMASTER",
-      "decimals": 18,
-      "name": "NEUROMASTER",
-      "chainId": 56
-    },
-    {
       "address": "0x14E8BCd053e68A22f239b9e9bEaD87932465D245",
       "name": "Value Finance",
       "type": "BEP20",
@@ -7432,41 +7148,6 @@
       "tags": [
         "staking",
         "defi"
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x14aF0e9D51d9FE25c1675cC580409b640286167F",
-      "name": "Boom Shiba",
-      "type": "BEP20",
-      "symbol": "BOOMSHIBA",
-      "decimals": 18,
-      "website": "https://boomshiba.com/",
-      "description": "Boom Shiba - BUSD Rewards with the Power of Shiba.",
-      "explorer": "https://bscscan.com/token/0x14aF0e9D51d9FE25c1675cC580409b640286167F",
-      "status": "active",
-      "id": "0x14aF0e9D51d9FE25c1675cC580409b640286167F",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/boomshiba"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/BOOMSHIBA/BoomShiba"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/boomshiba"
-        },
-        {
-          "name": "discord",
-          "url": "https://discord.com/invite/TkNCNEUqFc"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/boom-shiba/"
-        }
       ],
       "chainId": 56
     },
@@ -7635,36 +7316,6 @@
       "decimals": 18,
       "status": "active",
       "id": "0x154A9F9cbd3449AD22FDaE23044319D6eF2a1Fab",
-      "chainId": 56
-    },
-    {
-      "address": "0x154ECeB42679ac155EeF18820dE2Be75699263A8",
-      "name": "MamyShibaInu",
-      "type": "BEP20",
-      "symbol": "MamySHIBA",
-      "decimals": 9,
-      "website": "https://mamyshibainu.com/",
-      "description": "The amount of Mamy Shiba grow every day in your wallet as all holders automatically receive a 2% fee from",
-      "explorer": "https://bscscan.com/token/0x154ECeB42679ac155EeF18820dE2Be75699263A8",
-      "status": "active",
-      "id": "0x154ECeB42679ac155EeF18820dE2Be75699263A8",
-      "tags": [
-        "deflationary"
-      ],
-      "links": [
-        {
-          "name": "github",
-          "url": "https://github.com/MamyShibaInuGithub/"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/MamyShibaInu/"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/Mamyshibainuchannel"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -8155,25 +7806,6 @@
       "decimals": 9,
       "status": "active",
       "id": "0x1730a0cA9de632B0B6c232EBb972CB0851FFC6Bf",
-      "chainId": 56
-    },
-    {
-      "address": "0x1738B738E8d9207D0212C2744c1Dc67f3cD09850",
-      "name": "Answer me",
-      "website": "https://x.com/answerme_onbsc",
-      "description": "Answer me",
-      "explorer": "https://bscscan.com/token/0x1738b738e8d9207d0212c2744c1dc67f3cd09850",
-      "type": "BEP20",
-      "symbol": "Answer me",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x1738B738E8d9207D0212C2744c1Dc67f3cD09850",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/answerme_onbsc"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -10405,19 +10037,6 @@
       "chainId": 56
     },
     {
-      "address": "0x1bfE24e7Fb1d3B2dfFD9C1d49372b07bC6fDa829",
-      "name": "ColdKoala",
-      "type": "BEP20",
-      "symbol": "ColdKoala",
-      "decimals": 9,
-      "website": "https://Coldkoala.com",
-      "description": "Launched on May 20th, ColdKoala Coin strives to make a difference in the world by dedicating a large portion of",
-      "explorer": "https://bscscan.com/token/0x1bfE24e7Fb1d3B2dfFD9C1d49372b07bC6fDa829",
-      "status": "active",
-      "id": "0x1bfE24e7Fb1d3B2dfFD9C1d49372b07bC6fDa829",
-      "chainId": 56
-    },
-    {
       "address": "0x1cA23D55bc741366d010274553a8aeaAeFb0d583",
       "name": "Catge",
       "website": "https://catgecoin.com/",
@@ -11528,19 +11147,6 @@
       "chainId": 56
     },
     {
-      "address": "0x2302e370E98890BF2eB547286Bf8F8bB318F8e7B",
-      "name": "BabyShiba",
-      "type": "BEP20",
-      "symbol": "BabyShiba",
-      "decimals": 9,
-      "website": "https://babyshiba.net/",
-      "description": "Buy and Hold BabyShiba and you will automatically get more in your wallet. No need to farm, stake or claim.",
-      "explorer": "https://bscscan.com/token/0x2302e370E98890BF2eB547286Bf8F8bB318F8e7B",
-      "status": "active",
-      "id": "0x2302e370E98890BF2eB547286Bf8F8bB318F8e7B",
-      "chainId": 56
-    },
-    {
       "address": "0x23125108bc4c63E4677b2E253Fa498cCb4B3298b",
       "name": "Buff Doge Coin",
       "website": "https://www.buffdogecoin.io/",
@@ -11831,19 +11437,6 @@
       "tags": [
         "nft"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x23C28E9346C82228FB2b62b20b6fe5d75989F5b2",
-      "name": "Covid Token",
-      "type": "BEP20",
-      "symbol": "COVIDTOKEN",
-      "decimals": 9,
-      "website": "https://covidcoin.finance/",
-      "description": "COVID TOKEN is a token which provides help to African people about Coronavirus.",
-      "explorer": "https://bscscan.com/token/0x23C28E9346C82228FB2b62b20b6fe5d75989F5b2",
-      "status": "active",
-      "id": "0x23C28E9346C82228FB2b62b20b6fe5d75989F5b2",
       "chainId": 56
     },
     {
@@ -12279,33 +11872,6 @@
         {
           "name": "x",
           "url": "https://x.com/HamsterChampX"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x25574Cad6F03FFacD9D08b288e8D5d88997fb2f3",
-      "name": "RedFEG",
-      "type": "BEP20",
-      "symbol": "REDFEG 🦍",
-      "decimals": 9,
-      "website": "https://feg.red",
-      "description": "REDFEG is BEP-20 token that is determined to feed every community member.",
-      "explorer": "https://bscscan.com/token/0x25574cad6f03ffacd9d08b288e8d5d88997fb2f3",
-      "status": "active",
-      "id": "0x25574Cad6F03FFacD9D08b288e8D5d88997fb2f3",
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/RedFEG"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/Red_FEG"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/RedTeam-Blockchain"
         }
       ],
       "chainId": 56
@@ -13345,36 +12911,6 @@
       "chainId": 56
     },
     {
-      "address": "0x290906Ede0E30ed9f2FF1df056aE0f802b01fE2a",
-      "name": "GamingShiba",
-      "type": "BEP20",
-      "symbol": "GamingShiba",
-      "decimals": 9,
-      "website": "https://www.gaming-shiba.com",
-      "description": "The modern technology and contemporary ambient that the internet created can not be imagined to function as a whole without",
-      "explorer": "https://bscscan.com/token/0x290906ede0e30ed9f2ff1df056ae0f802b01fe2a",
-      "status": "active",
-      "id": "0x290906Ede0E30ed9f2FF1df056aE0f802b01fE2a",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/gamingshibabsc"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/gamingshibabsc"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/gamingshiba/"
-        }
-      ],
-      "tags": [
-        "gamefi"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x290c665656a67e0ea0784f90ECBaeFF77c884217",
       "name": "Tatcoin",
       "website": "https://abitnetwork.com",
@@ -13616,22 +13152,6 @@
       "chainId": 56
     },
     {
-      "address": "0x29a206A67fD4f410034885F5f03A8bB4aa4961aa",
-      "name": "BabyMubarak",
-      "type": "BEP20",
-      "symbol": "BabyMubara",
-      "decimals": 18,
-      "website": "https://four.meme/token/0x29a206A67fD4f410034885F5f03A8bB4aa4961aa",
-      "description": "BabyMubarak",
-      "explorer": "https://bscscan.com/token/0x29a206A67fD4f410034885F5f03A8bB4aa4961aa",
-      "status": "active",
-      "id": "0x29a206A67fD4f410034885F5f03A8bB4aa4961aa",
-      "tags": [
-        "memes"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x29b1E39A529d3B3cacEA55989594F71813e998Bb",
       "name": "Dexioprotocol",
       "type": "BEP20",
@@ -13757,19 +13277,6 @@
       "chainId": 56
     },
     {
-      "address": "0x2A42B6896E4B756621f08A1996162D8EA5A9c580",
-      "name": "Floki Shiba Inu",
-      "website": "https://www.flokishibainu.com",
-      "description": "Floki Shiba Inu is a yield-generating deflationary charitable cryptocurrency that runs on Binance Smart Chain. It rewards holders through reflections",
-      "explorer": "https://bscscan.com/token/0x2A42B6896E4B756621f08A1996162D8EA5A9c580",
-      "type": "BEP20",
-      "symbol": "FLOKISHIB",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x2A42B6896E4B756621f08A1996162D8EA5A9c580",
-      "chainId": 56
-    },
-    {
       "address": "0x2A45a892877Ef383c5fc93A5206546c97496da9e",
       "name": "X AI",
       "type": "BEP20",
@@ -13874,19 +13381,6 @@
       "explorer": "https://bscscan.com/token/0x2AADa8138787Eb7A8907232dA6756c6Ac6186ef2",
       "status": "active",
       "id": "0x2AADa8138787Eb7A8907232dA6756c6Ac6186ef2",
-      "chainId": 56
-    },
-    {
-      "address": "0x2AE7Bf2937F47FEDbDcE48db8aCa4c5e0b814632",
-      "name": "SafeYield",
-      "website": "https://safeyield.org",
-      "description": "SafeYield is a reflect token on the Binance Smart Chain A reflect fee is applied to all $SafeYield transactions and",
-      "explorer": "https://bscscan.com/token/0x2AE7Bf2937F47FEDbDcE48db8aCa4c5e0b814632",
-      "type": "BEP20",
-      "symbol": "SAFEYIELD",
-      "decimals": 8,
-      "status": "active",
-      "id": "0x2AE7Bf2937F47FEDbDcE48db8aCa4c5e0b814632",
       "chainId": 56
     },
     {
@@ -14543,19 +14037,6 @@
       "chainId": 56
     },
     {
-      "address": "0x2F52F99DB24b0cBedD16dA57b098226D3b0831e8",
-      "name": "LittleGecko",
-      "website": "https://littlegecko.net",
-      "description": "LittleGecko is a promising project that aims to be the leading BEP-20 (crypto)currency project with yield and social media contents/meme/yield/Nft",
-      "explorer": "https://bscscan.com/token/0x2F52F99DB24b0cBedD16dA57b098226D3b0831e8",
-      "type": "BEP20",
-      "symbol": "littlegecko",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x2F52F99DB24b0cBedD16dA57b098226D3b0831e8",
-      "chainId": 56
-    },
-    {
       "address": "0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256",
       "name": "UnmarshalToken",
       "website": "https://unmarshal.io/",
@@ -14578,41 +14059,6 @@
         {
           "name": "telegram",
           "url": "https://t.me/Unmarshal_Chat"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x2FFEE7b4DF74F7C6508A4Af4D6D91058dA5420D0",
-      "name": "ChainCade",
-      "type": "BEP20",
-      "symbol": "ChainCade",
-      "decimals": 9,
-      "website": "https://www.chaincade.com",
-      "description": "The future of the arcade is here! ChainCade is developing its one-of-a-kind blockchain arcade ecosystem to benefit players, creators, and",
-      "explorer": "https://bscscan.com/token/0x2FFEE7b4DF74F7C6508A4Af4D6D91058dA5420D0",
-      "status": "active",
-      "id": "0x2FFEE7b4DF74F7C6508A4Af4D6D91058dA5420D0",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/chaincadebsc"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/chaincade"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/ChainCade"
-        },
-        {
-          "name": "discord",
-          "url": "https://discord.com/invite/wNfRfunMpQ"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/chaincade/"
         }
       ],
       "chainId": 56
@@ -15343,19 +14789,6 @@
       "chainId": 56
     },
     {
-      "address": "0x2ed990dcE85F30951D1Bc26676ED0A5FCbDC12d2",
-      "name": "POOROCKET",
-      "website": "https://poorocket.com",
-      "description": "$POOROCKET is the fairest launched, anti-whale, community driven, DeFi Token instructed to reward holders through its frictionless yield and liquidity",
-      "explorer": "https://bscscan.com/token/0x2ed990dce85f30951d1bc26676ed0a5fcbdc12d2",
-      "type": "BEP20",
-      "symbol": "POOROCKET",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x2ed990dcE85F30951D1Bc26676ED0A5FCbDC12d2",
-      "chainId": 56
-    },
-    {
       "address": "0x2ed9e96EDd11A1fF5163599A66fb6f1C77FA9C66",
       "name": "Lead Token",
       "type": "BEP20",
@@ -15366,13 +14799,6 @@
       "explorer": "https://bscscan.com/token/0x2ed9e96EDd11A1fF5163599A66fb6f1C77FA9C66",
       "status": "active",
       "id": "0x2ed9e96EDd11A1fF5163599A66fb6f1C77FA9C66",
-      "chainId": 56
-    },
-    {
-      "address": "0x2f03F417496c956E64fd0B3D9323f0619D26f788",
-      "symbol": "Cheese-LP",
-      "decimals": 18,
-      "name": "CheeseSwap LPs",
       "chainId": 56
     },
     {
@@ -15916,33 +15342,6 @@
       "chainId": 56
     },
     {
-      "address": "0x31045e7023e6c388F9447E632a3f9EaFF90393fa",
-      "name": "SafeToken",
-      "website": "https://safetoken.xyz/",
-      "description": "SafeToken is a next-gen cryptocurrency that combines auto-liquidity, frictionless yield, and token burn.",
-      "research": "",
-      "explorer": "https://bscscan.com/token/0x31045e7023e6c388F9447E632a3f9EaFF90393fa",
-      "type": "BEP20",
-      "symbol": "SAFETOKEN",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x31045e7023e6c388F9447E632a3f9EaFF90393fa",
-      "tags": [
-        "deflationary"
-      ],
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/safetokenteam"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/safetokenbsc"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x3107C0A1126268CA303f8d99c712392fA596e6D7",
       "name": "Gem Exchange and Trading",
       "type": "BEP20",
@@ -16088,22 +15487,6 @@
       "chainId": 56
     },
     {
-      "address": "0x3199A64Bc8aaBDFd9A3937a346CC59c3d81D8a9a",
-      "name": "Mubarakah",
-      "website": "https://x.com/Mubarakah_CTO",
-      "description": "Mubarakah - He Yi",
-      "explorer": "https://bscscan.com/token/0x3199A64Bc8aaBDFd9A3937a346CC59c3d81D8a9a",
-      "type": "BEP20",
-      "symbol": "Mubarakah",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x3199A64Bc8aaBDFd9A3937a346CC59c3d81D8a9a",
-      "tags": [
-        "meme"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x319Bf3bB8aB93658074Be595C4Aa55Cd60380AF7",
       "name": "Suntrust Finance",
       "website": "https://suntrust.finance/",
@@ -16114,29 +15497,6 @@
       "decimals": 2,
       "status": "active",
       "id": "0x319Bf3bB8aB93658074Be595C4Aa55Cd60380AF7",
-      "chainId": 56
-    },
-    {
-      "address": "0x31A9042dCE0C13975D04d0E9758Cb7B596F0dD43",
-      "name": "Burn1 Coin",
-      "website": "https://burn1.today",
-      "description": "Burn1 Coin is the foundation of an ecosystem of cannabis centric crypto products while simultaneously supporting Cannabis reform & advocacy.",
-      "explorer": "https://bscscan.com/token/0x31A9042dCE0C13975D04d0E9758Cb7B596F0dD43",
-      "type": "BEP20",
-      "symbol": "BURN1COIN",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x31A9042dCE0C13975D04d0E9758Cb7B596F0dD43",
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/Burn1Coin"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/Burn1Coin"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -16373,49 +15733,6 @@
       "tags": [
         "gamefi"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x32477Cf0e324F9A9cb49E8803fa4dE9f80F8d0D4",
-      "name": "realestate",
-      "type": "BEP20",
-      "symbol": "REALESTATE",
-      "decimals": 18,
-      "website": "https://www.real-estate.game",
-      "description": "The Real Estate Crypto Token (REAL ESTATE) aims to revolutionize the real estate market by combining blockchain technology with gamification,",
-      "explorer": "https://bscscan.com/token/0x32477Cf0e324F9A9cb49E8803fa4dE9f80F8d0D4",
-      "status": "active",
-      "id": "0x32477Cf0e324F9A9cb49E8803fa4dE9f80F8d0D4",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/RealEstate_2ken"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/realestate"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/realestate_token"
-        }
-      ],
-      "tags": [
-        "gamefi"
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x326E1d2D9e7F8F3a4Df13766Aa3B3AeF33546546",
-      "name": "Grandpa Doge",
-      "website": "https://www.grandpadoge.finance/",
-      "description": "GrandpaDoge is coming out of retirement to show the doge family how it's done!",
-      "explorer": "https://bscscan.com/token/0x326E1d2D9e7F8F3a4Df13766Aa3B3AeF33546546",
-      "type": "BEP20",
-      "symbol": "GrandpaDoge",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x326E1d2D9e7F8F3a4Df13766Aa3B3AeF33546546",
       "chainId": 56
     },
     {
@@ -16678,19 +15995,6 @@
       "chainId": 56
     },
     {
-      "address": "0x337e35Ed5B38D5C7Ec9F8d7cF78fe7F43d7DEC6F",
-      "name": "NotSafeMoon",
-      "type": "BEP20",
-      "symbol": "NOTSAFEMOON",
-      "decimals": 9,
-      "website": "https://www.notsafemoon.com",
-      "description": "\"Moon\" coin analytics dashboard for all your accounts and coins. This is Not your normal \"moon\" coin. No lopsided liquidity",
-      "explorer": "https://bscscan.com/token/0x337e35Ed5B38D5C7Ec9F8d7cF78fe7F43d7DEC6F",
-      "status": "active",
-      "id": "0x337e35Ed5B38D5C7Ec9F8d7cF78fe7F43d7DEC6F",
-      "chainId": 56
-    },
-    {
       "address": "0x338196a509B4c66749c3f44c21C00501E6ACF7BC",
       "name": "DragonMusk",
       "type": "BEP20",
@@ -16727,19 +16031,6 @@
           "url": "https://coinmarketcap.com/currencies/unitedhealth-tokenized-stock-ondo"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x338A03bc9E3720ba1344B61Cb3194Bf0F4984444",
-      "name": "FAKE United Stables",
-      "type": "BEP20",
-      "symbol": "FAKE United Stables",
-      "decimals": 18,
-      "description": "This token is malicious do not interact",
-      "website": "https://bscscan.com/token/0x338A03bc9E3720ba1344B61Cb3194Bf0F4984444",
-      "explorer": "https://bscscan.com/token/0x338A03bc9E3720ba1344B61Cb3194Bf0F4984444",
-      "status": "spam",
-      "id": "0x338A03bc9E3720ba1344B61Cb3194Bf0F4984444",
       "chainId": 56
     },
     {
@@ -17050,25 +16341,6 @@
       "chainId": 56
     },
     {
-      "address": "0x342f7334e4c1732eA753a597722E9c3d04BDcce7",
-      "name": "Eid Mubarak",
-      "website": "https://www.eidmubarak.cloud/",
-      "description": "Exclusive blockchain solutions and premium investment opportunities for the discerning investor.",
-      "explorer": "https://bscscan.com/token/0x342f7334e4c1732eA753a597722E9c3d04BDcce7",
-      "type": "BEP20",
-      "symbol": "EidMubarak",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x342f7334e4c1732eA753a597722E9c3d04BDcce7",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/BSC_EidMubarak"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x34304f2f7cC487eb4186e6D69F5905A613474aA2",
       "name": "Cisco Systems (Ondo Tokenized)",
       "website": "https://ondo.finance/",
@@ -17258,20 +16530,6 @@
       "chainId": 56
     },
     {
-      "address": "0x3504de9e61FDFf2Fc70f5cC8a6D1Ee493434C1Aa",
-      "name": "TeslaSafe",
-      "website": "https://teslasafe.finance",
-      "description": "TeslaSafe is a frictionless, high-yield, auto deflationary crypto that rewards holders.",
-      "explorer": "https://bscscan.com/token/0x3504de9e61fdff2fc70f5cc8a6d1ee493434c1aa",
-      "research": "",
-      "type": "BEP20",
-      "symbol": "TeslaSafe",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x3504de9e61FDFf2Fc70f5cC8a6D1Ee493434C1Aa",
-      "chainId": 56
-    },
-    {
       "address": "0x350c8a09ccf7f862F0D835b0AFF85898c22D2840",
       "name": "Baby Mind",
       "type": "BEP20",
@@ -17384,19 +16642,6 @@
           "url": "https://coinmarketcap.com/currencies/amazon-tokenized-stock-xstock/"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x359f35085202C8527a0c767557339635A335Eb76",
-      "name": "PitJupiter",
-      "website": "https://pitjupitertoken.com/",
-      "description": "PitJupiter is a community-driven and run token with charity goals & governance with a strong tokeneconomics base, with ownership renounced",
-      "explorer": "https://bscscan.com/token/0x359f35085202C8527a0c767557339635A335Eb76",
-      "type": "BEP20",
-      "symbol": "PITJUPITER",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x359f35085202C8527a0c767557339635A335Eb76",
       "chainId": 56
     },
     {
@@ -18905,19 +18150,6 @@
       "chainId": 56
     },
     {
-      "address": "0x3B44E6D655226E79B3d2AC510C11b2637a9f50Dd",
-      "name": "SheeshMoon",
-      "website": "https://sheeshmoon.com",
-      "description": "The lighthearted token of TikTok. Deflationary, auto-liquidity, and 4% redistribution to holders.",
-      "explorer": "https://bscscan.com/token/0x3B44E6D655226E79B3d2AC510C11b2637a9f50Dd",
-      "type": "BEP20",
-      "symbol": "SHEESHMOON",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x3B44E6D655226E79B3d2AC510C11b2637a9f50Dd",
-      "chainId": 56
-    },
-    {
       "address": "0x3B66c861c44C0Ffba44F3b19D29A294512f85A2f",
       "symbol": "TXT",
       "decimals": 18,
@@ -19120,29 +18352,6 @@
       "explorer": "https://bscscan.com/token/0x3D1FC6A9Aa0116780ae3a406Aa1d80dAaFC4d2a4",
       "status": "active",
       "id": "0x3D1FC6A9Aa0116780ae3a406Aa1d80dAaFC4d2a4",
-      "chainId": 56
-    },
-    {
-      "address": "0x3D29Aa78fB558F84112bbC48a84F371147A920C9",
-      "name": "Dogefather",
-      "website": "https://dogefather.space/",
-      "description": "A new deflationary token with 5% fees are distributed and 5% fees are added to liquidity pool.",
-      "explorer": "https://bscscan.com/token/0x3d29aa78fb558f84112bbc48a84f371147a920c9",
-      "type": "BEP20",
-      "symbol": "DOGEFATHER",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x3D29Aa78fB558F84112bbC48a84F371147A920C9",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/dogefatherbsc_"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/dogefatherBSC"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -20115,22 +19324,6 @@
           "name": "x",
           "url": "https://x.com/buying_com?lang=en"
         }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x4022Dd5745D1F3E2Ce96b4659656aD3fF7CFcF19",
-      "name": "big cousin",
-      "type": "BEP20",
-      "symbol": "big cousin",
-      "decimals": 18,
-      "website": "https://four.meme/token/0x4022Dd5745D1F3E2Ce96b4659656aD3fF7CFcF19",
-      "description": "big cousin",
-      "explorer": "https://bscscan.com/token/0x4022Dd5745D1F3E2Ce96b4659656aD3fF7CFcF19",
-      "status": "active",
-      "id": "0x4022Dd5745D1F3E2Ce96b4659656aD3fF7CFcF19",
-      "tags": [
-        "memes"
       ],
       "chainId": 56
     },
@@ -21982,37 +21175,6 @@
       "chainId": 56
     },
     {
-      "address": "0x46568808a8d73c301071b8dF710402Ce44F1C472",
-      "name": "MagicDOGE",
-      "type": "BEP20",
-      "symbol": "MagicDOGE",
-      "decimals": 9,
-      "website": "https://magicdoge.net",
-      "description": "MagicDOGE is a BSC based smart contract with offers holders hourly rewards in BNB, or ANY BSC token of the",
-      "explorer": "https://bscscan.com/token/0x46568808a8d73c301071b8dF710402Ce44F1C472",
-      "status": "active",
-      "id": "0x46568808a8d73c301071b8dF710402Ce44F1C472",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/MagicDogeToken"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/magicdogeofficial"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/magicdoge"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/magicdogenet/"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x465707181ACba42Ed01268A33f0507e320a154bD",
       "name": "Step",
       "type": "BEP20",
@@ -22224,40 +21386,6 @@
       "chainId": 56
     },
     {
-      "address": "0x4732A86106064577933552FCea993D30BEC950a5",
-      "name": "Digichain Coin",
-      "type": "BEP20",
-      "symbol": "DIGICHAIN",
-      "decimals": 9,
-      "website": "https://prodigichain.com",
-      "description": "DIGICHAIN Coin The future of the crypto word, Digichain Coin has a project that adapts to all the needs of",
-      "explorer": "https://bscscan.com/token/0x4732a86106064577933552fcea993d30bec950a5",
-      "status": "active",
-      "id": "0x4732A86106064577933552FCea993D30BEC950a5",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/prodigichain"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/prodigitalchain"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/prodigichain"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/digichain/"
-        }
-      ],
-      "tags": [
-        "binance-peg"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x473Eb9Bd02Ad444D7E686FAB384afC476cC337B8",
       "name": "LITTLE FISH MOON",
       "website": "https://littlefishmoon.finance/",
@@ -22375,25 +21503,6 @@
       "decimals": 18,
       "status": "active",
       "id": "0x4796AB7F44E0561Ae353119B3E59a3F724E5F49e",
-      "chainId": 56
-    },
-    {
-      "address": "0x47A1EB0b825b73e6A14807BEaECAFef199d5477c",
-      "name": "CaptainBNB",
-      "symbol": "CaptainBNB",
-      "website": "https://captainbnb.xyz",
-      "description": "The mascot of the BNB Chain was launched on February 10th when the BNBChain X account posted our image",
-      "explorer": "https://bscscan.com/token/0x47a1eb0b825b73e6a14807beaecafef199d5477c",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x47A1EB0b825b73e6A14807BEaECAFef199d5477c",
-      "type": "BEP20",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/CaptainBNB_bsc"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -22657,37 +21766,6 @@
       "chainId": 56
     },
     {
-      "address": "0x48CbC7f87C657fEA3B297F658a5133a5deeF9b04",
-      "name": "MiniFlokiADA",
-      "type": "BEP20",
-      "symbol": "MFLOKIADA",
-      "decimals": 9,
-      "website": "https://www.miniflokiada.com",
-      "description": "MiniFlokiADA, the All-In-One Function Token in Binance Smart Chain",
-      "explorer": "https://bscscan.com/token/0x48CbC7f87C657fEA3B297F658a5133a5deeF9b04",
-      "status": "active",
-      "id": "0x48CbC7f87C657fEA3B297F658a5133a5deeF9b04",
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/miniflokiada"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/miniflookiada"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/MiniFlokiADA/MiniFlokiADA"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/miniflokiada"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x48b0Bf5E92194B187054cF6486f46e20d4f4AE6F",
       "symbol": "luon",
       "decimals": 18,
@@ -22922,19 +22000,6 @@
       "decimals": 9,
       "status": "active",
       "id": "0x49Da2Af365aE4F888C5390D7eC1c64ecd7368a79",
-      "chainId": 56
-    },
-    {
-      "address": "0x49cAF8Bf1E6322CfC9913096f49f08dD46584444",
-      "name": "FAKE Europe Coin",
-      "type": "BEP20",
-      "symbol": "FAKE EURC",
-      "decimals": 18,
-      "description": "This token is malicious do not interact",
-      "website": "https://bscscan.com/token/0x49cAF8Bf1E6322CfC9913096f49f08dD46584444",
-      "explorer": "https://bscscan.com/token/0x49cAF8Bf1E6322CfC9913096f49f08dD46584444",
-      "status": "spam",
-      "id": "0x49cAF8Bf1E6322CfC9913096f49f08dD46584444",
       "chainId": 56
     },
     {
@@ -23401,19 +22466,6 @@
       "chainId": 56
     },
     {
-      "address": "0x4D5bd38263C03d684289fa4Ff7cAF6172c377338",
-      "name": "SafeMoonGold",
-      "website": "https://www.safemoongold.space/",
-      "description": "SafeMoonGold is a BSC based utility token that will allow holders to trade without the need for centralized power, thus",
-      "explorer": "https://bscscan.com/token/0x4d5bd38263c03d684289fa4ff7caf6172c377338",
-      "type": "BEP20",
-      "symbol": "SAFEMOONGOLD",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x4D5bd38263C03d684289fa4Ff7cAF6172c377338",
-      "chainId": 56
-    },
-    {
       "address": "0x4D79DA6F390D9E9d475802a693353C3715b7Bd75",
       "name": "BabyKraken",
       "website": "https://kraken.baby",
@@ -23811,19 +22863,6 @@
       "chainId": 56
     },
     {
-      "address": "0x4a706451Cf6D87bB04365B1BEa6242710D71078E",
-      "name": "Binance Smart Chain Girl Moon",
-      "type": "BEP20",
-      "symbol": "BSCGIRLMOON",
-      "decimals": 8,
-      "website": "https://bscgirl.site/",
-      "description": "Binance Smart Chain Girl Moon Binance Smart Chain Girl It is a token of the same project as BSC GIRL.",
-      "explorer": "https://bscscan.com/token/0x4a706451Cf6D87bB04365B1BEa6242710D71078E",
-      "status": "active",
-      "id": "0x4a706451Cf6D87bB04365B1BEa6242710D71078E",
-      "chainId": 56
-    },
-    {
       "address": "0x4a7E278C67543731A864C89e5EB28EaCfa8794EB",
       "name": "NCoin",
       "type": "BEP20",
@@ -24141,19 +23180,6 @@
       "decimals": 18,
       "status": "active",
       "id": "0x4c97c901B5147F8C1C7Ce3c5cF3eB83B44F244fE",
-      "chainId": 56
-    },
-    {
-      "address": "0x4cDa4daAd72340B28925cCd6fA78db631267D3C4",
-      "name": "BabyDogeCash",
-      "website": "https://babydogecash.com",
-      "description": "Auto yield and liquidity generation protocol",
-      "explorer": "https://bscscan.com/token/0x4cDa4daAd72340B28925cCd6fA78db631267D3C4",
-      "type": "BEP20",
-      "symbol": "BabyDogeCash",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x4cDa4daAd72340B28925cCd6fA78db631267D3C4",
       "chainId": 56
     },
     {
@@ -25394,29 +24420,6 @@
       "chainId": 56
     },
     {
-      "address": "0x52e22D2480bC39F4aB13d4788014AEc3195bbCf7",
-      "name": "SafeBank DIGITAL",
-      "description": "SafeBank Digital is a yield and liquidity generation protocol by DafriBank Digital. SafeBank employs 3 simple functions: Reflection + LP",
-      "explorer": "https://bscscan.com/token/0x52e22D2480bC39F4aB13d4788014AEc3195bbCf7",
-      "website": "https://safebank.app",
-      "type": "BEP20",
-      "symbol": "SafeBankToken",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x52e22D2480bC39F4aB13d4788014AEc3195bbCf7",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/SafeBankToken"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/SafeBank"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x5344C20FD242545F31723689662AC12b9556fC3d",
       "name": "Wakanda Inu Token",
       "website": "https://www.wakandainu.com",
@@ -25439,33 +24442,6 @@
         {
           "name": "x",
           "url": "https://x.com/Wakandainu"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x536627083e216C3Cf4476ec504eb51Bbd47cA4ac",
-      "name": "GamingDoge",
-      "website": "https://www.gamingdoge.com/",
-      "description": "GamingDoge is the ultimate companion and only wants to make Doge community and Gamers proud.",
-      "explorer": "https://bscscan.com/token/0x536627083e216c3cf4476ec504eb51bbd47ca4ac",
-      "type": "BEP20",
-      "symbol": "GamingDoge",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x536627083e216C3Cf4476ec504eb51Bbd47cA4ac",
-      "links": [
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/gamingdoge/"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/gamingdogetoken"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/joinchat/vrVYpnWtMRljNjYx"
         }
       ],
       "chainId": 56
@@ -27082,22 +26058,6 @@
       "chainId": 56
     },
     {
-      "address": "0x58BFc98F3974AeF4FED9A0168B97CcCD3512cB4A",
-      "name": "Bubblegum",
-      "website": "https://www.bubblegum.life/",
-      "description": "Bubblegum is a sweet, auto-yield token + dapp for asset tracking.",
-      "explorer": "https://bscscan.com/token/0x58BFc98F3974AeF4FED9A0168B97CcCD3512cB4A",
-      "type": "BEP20",
-      "symbol": "BUBBLEGUM",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x58BFc98F3974AeF4FED9A0168B97CcCD3512cB4A",
-      "tags": [
-        "deflationary"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x58d6f302aaF33DD30A7666E16909DB3C5C74021b",
       "name": "Wraped BST",
       "website": "https://token.bitsten.com/",
@@ -27660,19 +26620,6 @@
       "chainId": 56
     },
     {
-      "address": "0x5Ac69C40bc7363EA7D98574C78F4f54DbecbD54B",
-      "name": "MoonRabbit",
-      "type": "BEP20",
-      "symbol": "MOONRABBIT",
-      "decimals": 9,
-      "website": "https://moonrabbit.money",
-      "description": "MoonRabbit implements passive staking mechanisms so all a user has to do is hold MoonRabbit to start earning passive dividends.",
-      "explorer": "https://bscscan.com/token/0x5Ac69C40bc7363EA7D98574C78F4f54DbecbD54B",
-      "status": "active",
-      "id": "0x5Ac69C40bc7363EA7D98574C78F4f54DbecbD54B",
-      "chainId": 56
-    },
-    {
       "address": "0x5AdDc86A95A85Ec1D7764f0B6dEA6c566161D69c",
       "name": "GingerCat",
       "website": "https://gingercat.io",
@@ -27743,19 +26690,6 @@
       "decimals": 9,
       "status": "active",
       "id": "0x5B5a3A45002736413613B8A4C46cC0d9D1D6F4Ae",
-      "chainId": 56
-    },
-    {
-      "address": "0x5B69eAbF1c748F590F60906D964158DBA0F53285",
-      "name": "Brigadeiro",
-      "website": "https://brigadeiro.finance",
-      "description": "Welcome to Brigadeiro.Finance. A Charitable Yield-Generating Crypto. Help us save children and give them wonderful experiences with Brigadeiro.Finance. 5% of",
-      "explorer": "https://bscscan.com/token/0x5B69eAbF1c748F590F60906D964158DBA0F53285",
-      "type": "BEP20",
-      "symbol": "BRIGADEIRO",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x5B69eAbF1c748F590F60906D964158DBA0F53285",
       "chainId": 56
     },
     {
@@ -29345,19 +28279,6 @@
       "chainId": 56
     },
     {
-      "address": "0x6001600A144166e14075963eE9bF03e194f638Fe",
-      "name": "KissMyMoon",
-      "website": "https://kissmymoon.finance/",
-      "description": "KissMyMoon protocol is the world’s first deflationary Token with the anti-whale tier system.",
-      "explorer": "https://bscscan.com/token/0x6001600A144166e14075963eE9bF03e194f638Fe",
-      "type": "BEP20",
-      "symbol": "KissMyMoon",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x6001600A144166e14075963eE9bF03e194f638Fe",
-      "chainId": 56
-    },
-    {
       "address": "0x60322971a672B81BccE5947706D22c19dAeCf6Fb",
       "name": "MarsDAO",
       "type": "BEP20",
@@ -29554,32 +28475,6 @@
       "chainId": 56
     },
     {
-      "address": "0x60b1b7eeD75a787ab7f3e92dbF5E8Af382Bb1a6b",
-      "name": "BabyBroccoli",
-      "type": "BEP20",
-      "symbol": "BABYBROCCOLI",
-      "decimals": 18,
-      "description": "BabyBroccoli ($BABYBROCCOLI) is a crypto memecoin that has emerged as the playful, 'baby' version of the $Broccoli token, inspired by",
-      "website": "https://babybroccoli.live/",
-      "explorer": "https://bscscan.com/token/0x60b1b7eeD75a787ab7f3e92dbF5E8Af382Bb1a6b",
-      "id": "0x60b1b7eeD75a787ab7f3e92dbF5E8Af382Bb1a6b",
-      "status": "active",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/Babyczbbroccoli"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/babybroccoli/"
-        }
-      ],
-      "tags": [
-        "memes"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x60b3BC37593853c04410c4F07fE4D6748245BF77",
       "name": "Shield Protocol",
       "website": "https://shieldprotocol.org",
@@ -29690,19 +28585,6 @@
       "explorer": "https://bscscan.com/token/0x6158b3435DC3bc54a19A32Da2A2ed22aeC3bEF3e",
       "status": "active",
       "id": "0x6158b3435DC3bc54a19A32Da2A2ed22aeC3bEF3e",
-      "chainId": 56
-    },
-    {
-      "address": "0x6160a6BA050A5B5A63E5b64C4eb03961582dbB3F",
-      "name": "FAKE USDT",
-      "type": "BEP20",
-      "symbol": "FAKE USDT",
-      "decimals": 18,
-      "website": "https://bscscan.com/address/0x6160a6ba050a5b5a63e5b64c4eb03961582dbb3f",
-      "description": "FAKE USDT",
-      "explorer": "https://bscscan.com/token/0x6160a6BA050A5B5A63E5b64C4eb03961582dbB3F",
-      "status": "spam",
-      "id": "0x6160a6BA050A5B5A63E5b64C4eb03961582dbB3F",
       "chainId": 56
     },
     {
@@ -29878,19 +28760,6 @@
       "chainId": 56
     },
     {
-      "address": "0x623b3A37E06268E99096a56A8A0c1207a024245d",
-      "name": "SpaceToast",
-      "type": "BEP20",
-      "symbol": "SPACETOAST",
-      "decimals": 9,
-      "website": "https://www.toastfinance.com/",
-      "description": "Hyper Burn & Liquidity Generation Protocol",
-      "explorer": "https://bscscan.com/token/0x623b3A37E06268E99096a56A8A0c1207a024245d",
-      "status": "active",
-      "id": "0x623b3A37E06268E99096a56A8A0c1207a024245d",
-      "chainId": 56
-    },
-    {
       "address": "0x62475fB57669EfEBd411D9C05109870Bf1BBfdEE",
       "name": "PI Network",
       "type": "ERC20",
@@ -30034,19 +28903,6 @@
           "url": "https://coinmarketcap.com/currencies/wells-fargo-tokenized-stock-ondo"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x62A7603C1a54515cC5cEd153D88d6859c7eB4444",
-      "name": "FAKE United Stables",
-      "type": "BEP20",
-      "symbol": "FAKE UTED",
-      "decimals": 18,
-      "description": "This token is malicious do not interact",
-      "website": "https://bscscan.com/token/0x62A7603C1a54515cC5cEd153D88d6859c7eB4444",
-      "explorer": "https://bscscan.com/token/0x62A7603C1a54515cC5cEd153D88d6859c7eB4444",
-      "status": "spam",
-      "id": "0x62A7603C1a54515cC5cEd153D88d6859c7eB4444",
       "chainId": 56
     },
     {
@@ -30654,36 +29510,6 @@
       "chainId": 56
     },
     {
-      "address": "0x64E4fea6e4F3637025c7Bcd878E2B238B01f7D4e",
-      "name": "insurance",
-      "type": "BEP20",
-      "symbol": "INSURANCE",
-      "decimals": 18,
-      "website": "https://Insurance.game",
-      "description": "Insurance token for insurance industry by offering a digital platform for insuring both physical and digital assets",
-      "explorer": "https://bscscan.com/token/0x64E4fea6e4F3637025c7Bcd878E2B238B01f7D4e",
-      "status": "active",
-      "id": "0x64E4fea6e4F3637025c7Bcd878E2B238B01f7D4e",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/insurance0game"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/insurance0game"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/insurance"
-        }
-      ],
-      "tags": [
-        "defi"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x64F36701138f0E85cC10c34Ea535FdBADcB54147",
       "name": "ANON INU",
       "website": "https://inuanon.com/",
@@ -30734,19 +29560,6 @@
       "decimals": 9,
       "status": "active",
       "id": "0x6500197A2488610ACA288fd8E2DFE88Ec99E596c",
-      "chainId": 56
-    },
-    {
-      "address": "0x6507458BB53aec6Be863161641ec28739C41cC97",
-      "name": "FootballStars",
-      "website": "https://footballstars.io/",
-      "description": "We connect fans, players and clubs around the globe to provide a seamless virtual integration of all their top leagues,",
-      "explorer": "https://bscscan.com/token/0x6507458BB53aec6Be863161641ec28739C41cC97",
-      "type": "BEP20",
-      "symbol": "FootballStars",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x6507458BB53aec6Be863161641ec28739C41cC97",
       "chainId": 56
     },
     {
@@ -31308,22 +30121,6 @@
       "chainId": 56
     },
     {
-      "address": "0x679a61490DaDB65C8e356509a3F566513cf03F7c",
-      "name": "BNB Robots",
-      "type": "BEP20",
-      "symbol": "BNB Robots",
-      "decimals": 18,
-      "website": "https://four.meme/token/0x679a61490DaDB65C8e356509a3F566513cf03F7c",
-      "description": "BNB Robots proved to be a fan favorite this year. This one in particular struck a chord as our most",
-      "explorer": "https://bscscan.com/token/0x679a61490DaDB65C8e356509a3F566513cf03F7c",
-      "status": "active",
-      "id": "0x679a61490DaDB65C8e356509a3F566513cf03F7c",
-      "tags": [
-        "memes"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x67Db74b6D1Ea807CB47248489c99D144323D348d",
       "name": "MMS COIN",
       "type": "BEP20",
@@ -31563,36 +30360,6 @@
         {
           "name": "x",
           "url": "https://x.com/opulousapp"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x68810a6F5bB0491cB9Ccf8c52735A1acf5f28009",
-      "name": "ShibaZilla",
-      "website": "https://shibazilla.com",
-      "description": "ShibaZilla aims to go above and beyond for its community, by providing investors 5% liquidity and 5% Reflection Rewards.",
-      "explorer": "https://bscscan.com/token/0x68810a6F5bB0491cB9Ccf8c52735A1acf5f28009",
-      "type": "BEP20",
-      "symbol": "ShibaZilla",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x68810a6F5bB0491cB9Ccf8c52735A1acf5f28009",
-      "tags": [
-        "deflationary"
-      ],
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/shibazillacoin"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/shibazillacoin"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/ru/currencies/shibazillacoin/"
         }
       ],
       "chainId": 56
@@ -32442,29 +31209,6 @@
       "decimals": 18,
       "status": "active",
       "id": "0x6CD502AB164e37231c20578214f874a8ADbdC7c2",
-      "chainId": 56
-    },
-    {
-      "address": "0x6CDd08dE79231a1957f205a3fe5cF9DBf4B0c454",
-      "name": "Baby Neiro",
-      "type": "BEP20",
-      "symbol": "BabyNeiro",
-      "decimals": 9,
-      "website": "https://baby-neiro.io/",
-      "description": "In the vast, ever-changing kingdom of memes, one legend must pass to make way for another. After the passing of",
-      "explorer": "https://bscscan.com/token/0x6CDd08dE79231a1957f205a3fe5cF9DBf4B0c454",
-      "status": "active",
-      "id": "0x6CDd08dE79231a1957f205a3fe5cF9DBf4B0c454",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/BabyNeiro_BNB"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/BabyNeiro_og"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -33555,42 +32299,6 @@
       "chainId": 56
     },
     {
-      "address": "0x6ec07DbD9311975b8002079d70C6F6d9E3e1EE5C",
-      "name": "Baby Troll",
-      "type": "BEP20",
-      "symbol": "BabyTroll",
-      "decimals": 9,
-      "website": "https://www.babytroll.ai/",
-      "description": "Baby Troll is a meme token whereby 1% percentage of every transaction contributes to the liquidity pool, ensuring stability and",
-      "explorer": "https://bscscan.com/token/0x6ec07DbD9311975b8002079d70C6F6d9E3e1EE5C",
-      "status": "active",
-      "id": "0x6ec07DbD9311975b8002079d70C6F6d9E3e1EE5C",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/BabyTrollBsc"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/baby-troll/"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x6ec6968D9869e024c7B05429fFcB8e8794c610c6",
-      "name": "FAKE Euro Finance",
-      "type": "BEP20",
-      "symbol": "FAKE EURC",
-      "decimals": 18,
-      "description": "This token is malicious do not interact",
-      "website": "https://bscscan.com/token/0x6ec6968D9869e024c7B05429fFcB8e8794c610c6",
-      "explorer": "https://bscscan.com/token/0x6ec6968D9869e024c7B05429fFcB8e8794c610c6",
-      "status": "spam",
-      "id": "0x6ec6968D9869e024c7B05429fFcB8e8794c610c6",
-      "chainId": 56
-    },
-    {
       "address": "0x6ef238E9E8CD2A96740897761C18894Fc086B9d0",
       "name": "Mytheria",
       "website": "https://mytheria.io/",
@@ -33875,32 +32583,6 @@
       "chainId": 56
     },
     {
-      "address": "0x709A6bB090b8C4C72Cb44533624F3DF320a8bA80",
-      "name": "Baby Broccoli",
-      "type": "BEP20",
-      "symbol": "Baby Broccoli",
-      "decimals": 18,
-      "description": "BabyBroccoli Coin (BabyBroccoli) is a fun and community-driven meme token inspired by CZ’s dog, Broccoli. Designed for entertainment and engagement,",
-      "website": "https://www.baby-broccoli.com/",
-      "explorer": "https://bscscan.com/token/0x709A6bB090b8C4C72Cb44533624F3DF320a8bA80",
-      "id": "0x709A6bB090b8C4C72Cb44533624F3DF320a8bA80",
-      "status": "active",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/bnbabybroccoli"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/babybroccoli-bnb/"
-        }
-      ],
-      "tags": [
-        "memes"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x70B6C6A555507EE4ac91C15E5c80b7dc8FF3b489",
       "name": "XTblock Token",
       "website": "https://xtblock.io",
@@ -33963,19 +32645,6 @@
       "decimals": 9,
       "status": "active",
       "id": "0x70a44672B9BBcF4D49dCEaA610eB580BD3c94c52",
-      "chainId": 56
-    },
-    {
-      "address": "0x7122f1C0777900B959573132dEac9a7209741Aa0",
-      "name": "Tibetan Mastiff",
-      "website": "https://www.tibetanmastiff.io",
-      "description": "Tibetan Mastiff Is NFT - Non-Fungible Token. The birth of TMF (TMastiff) allowed the image of the Tibetan clam dog",
-      "explorer": "https://bscscan.com/token/0x7122f1c0777900b959573132deac9a7209741aa0",
-      "type": "BEP20",
-      "symbol": "TMF(TMastiff)",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x7122f1C0777900B959573132dEac9a7209741Aa0",
       "chainId": 56
     },
     {
@@ -34087,29 +32756,6 @@
         "binance-peg",
         "gamefi",
         "nft"
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x71E80e96Af604Afc23Ca2AED4C1C7466DB6dd0c4",
-      "name": "Baby Floki",
-      "website": "https://www.babyfloki.info/",
-      "description": "BABY FLOKI has been designed to be a deflationary token which rewards you $DOGE simply for holding! Named after Elon",
-      "explorer": "https://bscscan.com/token/0x71E80e96Af604Afc23Ca2AED4C1C7466DB6dd0c4",
-      "type": "BEP20",
-      "symbol": "BabyFloki",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x71E80e96Af604Afc23Ca2AED4C1C7466DB6dd0c4",
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/thebabyfloki"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/thebabyfloki"
-        }
       ],
       "chainId": 56
     },
@@ -34730,40 +33376,6 @@
       "chainId": 56
     },
     {
-      "address": "0x738d96Caf7096659DB4C1aFbf1E1BDFD281f388C",
-      "name": "Ankr Staked MATIC",
-      "type": "BEP20",
-      "symbol": "ankrMATIC",
-      "decimals": 18,
-      "website": "https://ankr.com",
-      "description": "ankrMATIC represents your staked MATIC and provides liquidity for your staked position. All staking rewards are built into the token",
-      "explorer": "https://bscscan.com/token/0x738d96caf7096659db4c1afbf1e1bdfd281f388c",
-      "status": "active",
-      "id": "0x738d96Caf7096659DB4C1aFbf1E1BDFD281f388C",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/ankr"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/Ankr-network"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/ankrnetwork"
-        },
-        {
-          "name": "discord",
-          "url": "https://discord.com/invite/ankr"
-        }
-      ],
-      "tags": [
-        "staking"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x738f3810b3dA0F3e6dC8C689D0d72f3b4992c43b",
       "name": "Cream Band Protocol Token",
       "website": "https://app.cream.finance",
@@ -35235,29 +33847,6 @@
       "decimals": 9,
       "status": "active",
       "id": "0x7576FdBbE682EAD7dA1f764a07190C1fd16201CD",
-      "chainId": 56
-    },
-    {
-      "address": "0x75856ea207CE7194E4E65c334BEc143D77701E4a",
-      "name": "MiniSports Token",
-      "type": "BEP20",
-      "symbol": "MiniSports",
-      "decimals": 9,
-      "website": "https://minisportstoken.com/",
-      "description": "MiniSports is a sports based community token developed mainly to create a safehaven for sports lovers.",
-      "explorer": "https://bscscan.com/token/0x75856ea207CE7194E4E65c334BEc143D77701E4a",
-      "status": "active",
-      "id": "0x75856ea207CE7194E4E65c334BEc143D77701E4a",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/MiniSportsToken"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/MiniSportsToken"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -36071,19 +34660,6 @@
       "chainId": 56
     },
     {
-      "address": "0x7895B3DE4169635da889Ca842740748136Ac7B11",
-      "name": "SUPER DOGE",
-      "website": "https://superdogebsc.com",
-      "description": "SUPER DOGE is DOGE Memes Token",
-      "explorer": "https://bscscan.com/token/0x7895B3DE4169635da889Ca842740748136Ac7B11",
-      "symbol": "SUPERDOGE",
-      "type": "BEP20",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x7895B3DE4169635da889Ca842740748136Ac7B11",
-      "chainId": 56
-    },
-    {
       "address": "0x78A499a998Bdd5a84CF8b5aBe49100D82DE12f1C",
       "name": "JOJO Token",
       "website": "https://jojo.fun",
@@ -36194,37 +34770,6 @@
       "decimals": 9,
       "status": "active",
       "id": "0x78bc22a215C1eF8a2e41Fa1c39CD7BDC09bd5174",
-      "chainId": 56
-    },
-    {
-      "address": "0x78c6E90aFa87E2C97cac1A07652Aa0998C6C9078",
-      "name": "Hare Plus",
-      "type": "BEP20",
-      "symbol": "HARE PLUS",
-      "decimals": 18,
-      "website": "https://haretoken.finance/",
-      "description": "Hare is a new decentralized and community-centered cryptocurrency. Launched in June 2021 and its goal is to become one of",
-      "explorer": "https://bscscan.com/token/0x78c6E90aFa87E2C97cac1A07652Aa0998C6C9078",
-      "status": "active",
-      "id": "0x78c6E90aFa87E2C97cac1A07652Aa0998C6C9078",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/Hare_token"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/hare-plus/"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/Hare_En"
-        }
-      ],
-      "tags": [
-        "defi",
-        "staking"
-      ],
       "chainId": 56
     },
     {
@@ -36642,29 +35187,6 @@
         {
           "name": "coinmarketcap",
           "url": "https://coinmarketcap.com/ru/currencies/wootrade/"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x7A565284572d03EC50c35396F7d6001252eb43B6",
-      "name": "DogeZilla",
-      "type": "BEP20",
-      "symbol": "DogeZilla",
-      "decimals": 9,
-      "website": "https://dogezillacoin.com",
-      "description": "DogeZilla is a community-driven project. We are a Memecoin + Utility in the crypto sphere. And we declared to disrupt",
-      "explorer": "https://bscscan.com/token/0x7a565284572d03ec50c35396f7d6001252eb43b6",
-      "status": "active",
-      "id": "0x7A565284572d03EC50c35396F7d6001252eb43B6",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/dogezillacoin"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/DogeZillaPortal"
         }
       ],
       "chainId": 56
@@ -37634,22 +36156,6 @@
       "chainId": 56
     },
     {
-      "address": "0x7ccE94C0B2C8aE7661f02544E62178377Fe8cF92",
-      "name": "Daddy Doge",
-      "type": "BEP20",
-      "symbol": "DaddyDoge",
-      "decimals": 9,
-      "website": "https://daddydoge.finance/",
-      "description": "Daddy Doge is a deflationary token based on the world renowned Doge meme. Each transaction carries a 9% benefiting holders",
-      "explorer": "https://bscscan.com/token/0x7ccE94C0B2C8aE7661f02544E62178377Fe8cF92",
-      "status": "active",
-      "id": "0x7ccE94C0B2C8aE7661f02544E62178377Fe8cF92",
-      "tags": [
-        "deflationary"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x7ce1e651374ec5324e6f37c4ff312D53428F0D50",
       "name": "Caramel Swap",
       "website": "https://caramelswap.finance",
@@ -37860,19 +36366,6 @@
           "url": "https://t.me/CTCglobal"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x7e4e3BA4675c39FF2863073e171b0a2E93A592E0",
-      "name": "ShibaCash Token",
-      "website": "https://www.shibacashtoken.com/",
-      "description": "We are the original Shiba Cash token on Binance Smart Chain, the same tokenomics as the original Shiba Inu with",
-      "explorer": "https://bscscan.com/token/0x7e4e3BA4675c39FF2863073e171b0a2E93A592E0",
-      "type": "BEP20",
-      "symbol": "SHIBACASH",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x7e4e3BA4675c39FF2863073e171b0a2E93A592E0",
       "chainId": 56
     },
     {
@@ -38260,19 +36753,6 @@
       "chainId": 56
     },
     {
-      "address": "0x80627029d84778BdA93Fe017d00dA70B45f84444",
-      "name": "FAKE United Stables",
-      "type": "BEP20",
-      "symbol": "FAKE UTED",
-      "decimals": 18,
-      "description": "This token is malicious do not interact",
-      "website": "https://bscscan.com/token/0x80627029d84778BdA93Fe017d00dA70B45f84444",
-      "explorer": "https://bscscan.com/token/0x80627029d84778BdA93Fe017d00dA70B45f84444",
-      "status": "spam",
-      "id": "0x80627029d84778BdA93Fe017d00dA70B45f84444",
-      "chainId": 56
-    },
-    {
       "address": "0x8077398Ff2c530f129a6dd8D7F1E8840312440CD",
       "name": "Cloak Coin",
       "website": "https://milotoken.io",
@@ -38310,28 +36790,6 @@
       "explorer": "https://bscscan.com/token/0x8087E4c1735C1373F0D04b88d4Dbe1FAe1149123",
       "status": "active",
       "id": "0x8087E4c1735C1373F0D04b88d4Dbe1FAe1149123",
-      "chainId": 56
-    },
-    {
-      "address": "0x808fac147a9C02723d0BE300AC4753eAf93C0e1F",
-      "name": "BabyFlokiCoin",
-      "type": "BEP20",
-      "symbol": "BabyFlokiCoin",
-      "decimals": 9,
-      "website": "https://babyflokicoin.org/",
-      "description": "Baby Floki Coin is a new crypto coin brought to life by fans & members of the Shiba Inu/Doge community.",
-      "explorer": "https://bscscan.com/token/0x808fac147a9C02723d0BE300AC4753eAf93C0e1F",
-      "status": "active",
-      "id": "0x808fac147a9C02723d0BE300AC4753eAf93C0e1F",
-      "tags": [
-        "deflationary"
-      ],
-      "links": [
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/baby-floki-coin/"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -38886,32 +37344,6 @@
       "chainId": 56
     },
     {
-      "address": "0x825791Bc83A377Ba3931E8a56504a1EACAAE0f76",
-      "name": "MetaHouse",
-      "website": "https://www.metahousebsc.com",
-      "description": "Meta House is part of the meta world.",
-      "explorer": "https://bscscan.com/token/0x825791Bc83A377Ba3931E8a56504a1EACAAE0f76",
-      "type": "BEP20",
-      "symbol": "Meta House",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x825791Bc83A377Ba3931E8a56504a1EACAAE0f76",
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/MetaHouseEN"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/MetaHousebsc?s=09"
-        }
-      ],
-      "tags": [
-        "nft"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x8263CD1601FE73C066bf49cc09841f35348e3be0",
       "name": "Altura",
       "website": "https://www.alturanft.com/",
@@ -39171,19 +37603,6 @@
       "tags": [
         "staking"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x8331cA5D8914b3E89D41344f1B231e4516953BcF",
-      "name": "No one's node HONEYPOT",
-      "website": "https://bscscan.com/token/0x8331cA5D8914b3E89D41344f1B231e4516953BcF",
-      "description": "No one's node HONEYPOT",
-      "explorer": "https://bscscan.com/token/0x8331cA5D8914b3E89D41344f1B231e4516953BcF",
-      "type": "BEP20",
-      "symbol": "NON HONEYPOT",
-      "decimals": 18,
-      "status": "spam",
-      "id": "0x8331cA5D8914b3E89D41344f1B231e4516953BcF",
       "chainId": 56
     },
     {
@@ -40095,19 +38514,6 @@
       "chainId": 56
     },
     {
-      "address": "0x865d0c78d08BD6e5f0db6BCbF36d3F8EB4ad48F8",
-      "name": "KILIMANJARO",
-      "type": "BEP20",
-      "symbol": "KILIMANJARo",
-      "decimals": 4,
-      "website": "https://kilimanjaro.finance/",
-      "description": "BSC Fully deflationary lottery token with original lottery process.",
-      "explorer": "https://bscscan.com/token/0x865d0c78d08BD6e5f0db6BCbF36d3F8EB4ad48F8",
-      "status": "active",
-      "id": "0x865d0c78d08BD6e5f0db6BCbF36d3F8EB4ad48F8",
-      "chainId": 56
-    },
-    {
       "address": "0x8690Cb98496EF0f8c6417D78b5e0E29907668808",
       "name": "Wraith Protocol",
       "type": "BEP20",
@@ -40485,22 +38891,6 @@
       "decimals": 18,
       "status": "active",
       "id": "0x87b1AccE6a1958E522233A737313C086551a5c76",
-      "chainId": 56
-    },
-    {
-      "address": "0x881025D714C587611E47d89B7929c1cB4FF05B51",
-      "name": "Conscious Token",
-      "type": "BEP20",
-      "symbol": "Conscious",
-      "decimals": 18,
-      "website": "https://consciousness.care/#/",
-      "description": "A meme token created to unite consciousness believers, supporting global community gatherings, guru guidance, and mental health institutions—fueling a movement",
-      "explorer": "https://bscscan.com/token/0x881025D714C587611E47d89B7929c1cB4FF05B51",
-      "status": "active",
-      "id": "0x881025D714C587611E47d89B7929c1cB4FF05B51",
-      "tags": [
-        "memes"
-      ],
       "chainId": 56
     },
     {
@@ -41234,19 +39624,6 @@
           "url": "https://t.me/safelaunchpad"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x8A972Ed397bEd7C0Cbc84cc3EFbC760bb07F80bb",
-      "name": "FAKE EuropaCoin",
-      "type": "BEP20",
-      "symbol": "FAKE EURC",
-      "decimals": 18,
-      "description": "This token is malicious do not interact",
-      "website": "https://bscscan.com/token/0x8A972Ed397bEd7C0Cbc84cc3EFbC760bb07F80bb",
-      "explorer": "https://bscscan.com/token/0x8A972Ed397bEd7C0Cbc84cc3EFbC760bb07F80bb",
-      "status": "spam",
-      "id": "0x8A972Ed397bEd7C0Cbc84cc3EFbC760bb07F80bb",
       "chainId": 56
     },
     {
@@ -43860,19 +42237,6 @@
       "chainId": 56
     },
     {
-      "address": "0x94241428E0E36DF628E0C2485bC0e158A5dA3362",
-      "name": "CrazyTime",
-      "symbol": "CrazyTime",
-      "type": "BEP20",
-      "decimals": 9,
-      "description": "CrazyTime is an automatic LP generating lottery token. The lottery function randomly chooses a holder and sends them 5% of",
-      "website": "https://www.moochii.net/crazytime",
-      "explorer": "https://bscscan.com/token/0x94241428E0E36DF628E0C2485bC0e158A5dA3362",
-      "status": "active",
-      "id": "0x94241428E0E36DF628E0C2485bC0e158A5dA3362",
-      "chainId": 56
-    },
-    {
       "address": "0x942Ed7dfA2a564984747420D47C4f49c2b3140F9",
       "name": "Dollar Future",
       "type": "BEP20",
@@ -44044,33 +42408,6 @@
       "chainId": 56
     },
     {
-      "address": "0x94ba29d58D419BD798B282476db3Dd9d97BA8C23",
-      "name": "Frosted Cake",
-      "website": "https://frostedcaketoken.com/",
-      "description": "Frosted Cake is a deflationary passive income token, strategically developed for long term Investments, pushing Smart Contract Capabilities to its",
-      "explorer": "https://bscscan.com/token/0x94ba29d58d419bd798b282476db3dd9d97ba8c23",
-      "type": "BEP20",
-      "symbol": "FROSTEDCAKE",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x94ba29d58D419BD798B282476db3Dd9d97BA8C23",
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/frostedcaketoken"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/FrostedCakeBSC"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/frostedcake/"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x94d7754541B829A87321d56121Bc544167Ac490D",
       "name": "Starbucks (Ondo Tokenized)",
       "website": "https://ondo.finance/",
@@ -44234,29 +42571,6 @@
       ],
       "tags": [
         "dapp"
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x95637d4FbE7153dCc3E26E71bdE7a2D82621F083",
-      "name": "ForeverFOMO",
-      "website": "https://foreverfomo.finance/",
-      "description": "ForeverFOMO is a price-elastic token with adjusting supply, moving towards the price of $1,500.000 per token. Different then just a",
-      "explorer": "https://bscscan.com/token/0x95637d4FbE7153dCc3E26E71bdE7a2D82621F083",
-      "type": "BEP20",
-      "symbol": "ForeverFOMO",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x95637d4FbE7153dCc3E26E71bdE7a2D82621F083",
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/ForeverFOMO"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/FomoForever"
-        }
       ],
       "chainId": 56
     },
@@ -44668,33 +42982,6 @@
       "chainId": 56
     },
     {
-      "address": "0x96aC1E773677FA02726B5A670CA96a7aDf7F8523",
-      "name": "Mini Hollywood Doge",
-      "website": "https://www.minihollywooddoge.com",
-      "description": "Mini Hollywood Doge is BEP20 Token based on a fun meme, but at its heart is a serious mission to",
-      "explorer": "https://bscscan.com/token/0x96aC1E773677FA02726B5A670CA96a7aDf7F8523",
-      "type": "BEP20",
-      "symbol": "MOLLYDOGE ⭐",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x96aC1E773677FA02726B5A670CA96a7aDf7F8523",
-      "links": [
-        {
-          "name": "github",
-          "url": "https://github.com/minihollywooddoge"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/DogeHollywood"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/MiniHollywoodDoge"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x96bbE4376802eCc0eFD330AF76B8873183270671",
       "name": "Kindness Orbit",
       "website": "https://kindnessorbit.com/",
@@ -44856,32 +43143,6 @@
       "decimals": 18,
       "status": "active",
       "id": "0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1",
-      "chainId": 56
-    },
-    {
-      "address": "0x97Ad911101d4285a13A3240Ee35618edC511A435",
-      "name": "Kishu Baby",
-      "type": "BEP20",
-      "symbol": "KISHUBABY",
-      "decimals": 9,
-      "website": "https://kishu.baby/",
-      "description": "The Lovely KISHUBABY was created on June 27th, 2021 with the goal of being a decentralized meme project with a",
-      "explorer": "https://bscscan.com/token/0x97ad911101d4285a13a3240ee35618edc511a435",
-      "status": "active",
-      "id": "0x97Ad911101d4285a13A3240Ee35618edC511A435",
-      "chainId": 56
-    },
-    {
-      "address": "0x97F4e15606cf335B7a6DAEC2BA02449Fb5Da69C6",
-      "name": "VANCATDOG",
-      "website": "https://vancatdogtoken.com",
-      "description": "Token Programmed to Reward Holders",
-      "explorer": "https://bscscan.com/token/0x97F4e15606cf335B7a6DAEC2BA02449Fb5Da69C6",
-      "symbol": "VANCATDOG",
-      "type": "BEP20",
-      "decimals": 0,
-      "status": "active",
-      "id": "0x97F4e15606cf335B7a6DAEC2BA02449Fb5Da69C6",
       "chainId": 56
     },
     {
@@ -45240,37 +43501,6 @@
       "chainId": 56
     },
     {
-      "address": "0x989b8F0219EB7aa0bED22E24f053Eb2B155f4394",
-      "name": "MommyDoge Token",
-      "website": "https://mommydoge.com",
-      "description": "Mommy Doge is fully decentralized, environmental friendly and on a mission to support the Women's rights movement and gender equality",
-      "explorer": "https://bscscan.com/token/0x989b8f0219eb7aa0bed22e24f053eb2b155f4394",
-      "type": "BEP20",
-      "symbol": "MommyDoge",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x989b8F0219EB7aa0bED22E24f053Eb2B155f4394",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/NewMommyDoge"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/MommyDogeCoin"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/mommy-doge-coin/"
-        },
-        {
-          "name": "discord",
-          "url": "https://discord.com/BGkFPN3WzT"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x98A2500A2C3B8877B0eD5ac3ACC300C50Bf7064b",
       "name": "NOOT",
       "type": "BEP20",
@@ -45484,39 +43714,6 @@
       "decimals": 18,
       "status": "active",
       "id": "0x994517e000aa3F117E7Ad61B0e2336C76B4Fd94a",
-      "chainId": 56
-    },
-    {
-      "address": "0x9953170dcAac530AD7D6949c7295207c6ec5669D",
-      "name": "MetaDoge V2",
-      "type": "BEP20",
-      "symbol": "METADOGEV2",
-      "decimals": 18,
-      "website": "https://www.metadoge.live",
-      "description": "MetaDoge is a community-driven project. It is a Memecoin and utility token in the crypto sphere.",
-      "explorer": "https://bscscan.com/token/0x9953170dcAac530AD7D6949c7295207c6ec5669D",
-      "status": "active",
-      "id": "0x9953170dcAac530AD7D6949c7295207c6ec5669D",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/MetaDogeBSC"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/MetaDoge_Official"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/metadoge/"
-        }
-      ],
-      "tags": [
-        "nft",
-        "staking",
-        "memes",
-        "gamefi"
-      ],
       "chainId": 56
     },
     {
@@ -45962,25 +44159,6 @@
       "chainId": 56
     },
     {
-      "address": "0x9B7cb7e046ef80F2E055E0545FEF479618C1879B",
-      "name": "inshallah",
-      "website": "https://x.com/inshallah_bsc",
-      "description": "A crypto meme developed on the @BNBchain network, using #BNB",
-      "explorer": "https://bscscan.com/token/0x9B7cb7e046ef80F2E055E0545FEF479618C1879B",
-      "type": "BEP20",
-      "symbol": "inshallah",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x9B7cb7e046ef80F2E055E0545FEF479618C1879B",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/inshallah_bsc"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x9B9D7eb1816E35Ecf3B3ab58B08257C8d47F15CD",
       "name": "Natronz",
       "type": "BEP20",
@@ -46356,37 +44534,6 @@
       "chainId": 56
     },
     {
-      "address": "0x9DC8Ae7F7f88e1344c289d75cd0D4Ce07Dc4Aae6",
-      "name": "BabyFlokiZilla",
-      "website": "https://babyflokizilla.com/",
-      "description": "BabyFlokiZilla is a Community-driven, Meme token on Binance Smart Chain.",
-      "explorer": "https://bscscan.com/token/0x9dc8ae7f7f88e1344c289d75cd0d4ce07dc4aae6",
-      "type": "BEP20",
-      "symbol": "BabyFlokiZilla",
-      "decimals": 9,
-      "status": "active",
-      "id": "0x9DC8Ae7F7f88e1344c289d75cd0D4Ce07Dc4Aae6",
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/BabyFlokiZillaBSC"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/BFZillaBSC"
-        },
-        {
-          "name": "discord",
-          "url": "https://discord.com/invite/hfkGjSV9qs"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/babyflokizilla/"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x9E1892eD30796FF96aBBb1b6A5e722C6ea9C46eB",
       "name": "CHAD",
       "website": "https://chads.io/",
@@ -46749,41 +44896,6 @@
       "chainId": 56
     },
     {
-      "address": "0x9a95f03A305db3BD25D9C891793118D56C73d012",
-      "name": "Shiba Monk",
-      "type": "BEP20",
-      "symbol": "SHIBAMONK",
-      "decimals": 9,
-      "website": "https://shibamonk.com/",
-      "description": "Shiba Monk's purpose is to create a platform devoted to teaching people mindfulness. By teaching people to take care of",
-      "explorer": "https://bscscan.com/token/0x9a95f03A305db3BD25D9C891793118D56C73d012",
-      "status": "active",
-      "id": "0x9a95f03A305db3BD25D9C891793118D56C73d012",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/shiba_monk"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/shiba_monk"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/SHIBAMONK/shibamonk"
-        },
-        {
-          "name": "discord",
-          "url": "https://discord.com/invite/swQFMMsJ"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/shiba-monk/"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x9a980a084D8D72B219e1C79d91faf06Bec874D51",
       "name": "Anonverse",
       "website": "https://anonverse.space/",
@@ -47136,32 +45248,6 @@
       "decimals": 18,
       "status": "active",
       "id": "0x9d70a3EE3079A6FA2bB16591414678b7Ad91f0b5",
-      "chainId": 56
-    },
-    {
-      "address": "0x9e06E1203BdC3747eE3Ab5fa9488619BcF2A2666",
-      "name": "Industrial",
-      "type": "BEP20",
-      "symbol": "Industrial",
-      "decimals": 18,
-      "description": "Industrial Token (INDUSTRIAL) is a BEP20 token built to transform the industrial sector through blockchain technology, gamification",
-      "website": "https://industrial.game/",
-      "explorer": "https://bscscan.com/token/0x9e06e1203bdc3747ee3ab5fa9488619bcf2a2666",
-      "id": "0x9e06E1203BdC3747eE3Ab5fa9488619BcF2A2666",
-      "status": "active",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/tokenindustrial"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/industrial/"
-        }
-      ],
-      "tags": [
-        "gamefi"
-      ],
       "chainId": 56
     },
     {
@@ -47731,19 +45817,6 @@
       "chainId": 56
     },
     {
-      "address": "0xA1efCe38CB265Af369e891bC3026d0285545D4E5",
-      "name": "Safetesla",
-      "type": "BEP20",
-      "symbol": "SAFETESLA",
-      "decimals": 9,
-      "website": "https://www.safetesla.com/",
-      "description": "Safetesla is frictionless yield & liquidity generation smart contract protocol",
-      "explorer": "https://bscscan.com/token/0xa1efce38cb265af369e891bc3026d0285545d4e5",
-      "status": "active",
-      "id": "0xA1efCe38CB265Af369e891bC3026d0285545D4E5",
-      "chainId": 56
-    },
-    {
       "address": "0xA1fd12820F0c1C492DD87f8a0d12043d8f24f8a6",
       "name": "EUSD",
       "website": "https://e-usd.network",
@@ -47969,33 +46042,6 @@
       "chainId": 56
     },
     {
-      "address": "0xA3b89C5F75C530f33E612177001F5602E9C2830F",
-      "name": "miniBABYDOGE",
-      "type": "BEP20",
-      "symbol": "miniBABYDOGE",
-      "decimals": 18,
-      "website": "https://www.minibabydogeofficial.com/",
-      "description": "miniBabydoge is a BEP20 project that is focused on the entire cryptocurrency community. We plan to build a strong community",
-      "explorer": "https://bscscan.com/token/0xa3b89c5f75c530f33e612177001f5602e9c2830f",
-      "status": "active",
-      "id": "0xA3b89C5F75C530f33E612177001F5602E9C2830F",
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/miniBABYDOGEofficialgroup"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/MBabydoge"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/mini-baby-doge/"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xA4050Aa9b76CcDAe1A6a8b2F3e8627Cdc1546d86",
       "name": "Lepasa",
       "type": "BEP20",
@@ -48102,22 +46148,6 @@
         "governance",
         "staking",
         "defi"
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xA501Cb70CB2beCFfEB5aC491f91E2f7916E5a3fC",
-      "name": "Hurricane",
-      "type": "BEP20",
-      "symbol": "Hurricane",
-      "decimals": 18,
-      "description": "Rip Hurricane, the most decorated dog in US history",
-      "website": "https://www.k9hurricanesheroes.org/",
-      "explorer": "https://bscscan.com/token/0xa501cb70cb2becffeb5ac491f91e2f7916e5a3fc",
-      "id": "0xA501Cb70CB2beCFfEB5aC491f91E2f7916E5a3fC",
-      "status": "active",
-      "tags": [
-        "memes"
       ],
       "chainId": 56
     },
@@ -48358,19 +46388,6 @@
       "tags": [
         "staking"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xA656F993bD14B2B59a28d1e610476AD18849b107",
-      "name": "SAFERMOON",
-      "type": "BEP20",
-      "symbol": "SAFERMOON",
-      "decimals": 9,
-      "website": "https://safermoon.net/",
-      "description": "SAFERMOON is an audited, vetted, and trusted RFI static reward token that benefits investors who hold. 10% trade fees provide",
-      "explorer": "https://bscscan.com/token/0xA656F993bD14B2B59a28d1e610476AD18849b107",
-      "status": "active",
-      "id": "0xA656F993bD14B2B59a28d1e610476AD18849b107",
       "chainId": 56
     },
     {
@@ -49240,19 +47257,6 @@
       "chainId": 56
     },
     {
-      "address": "0xAECf6d1afF214feF70042740054f0f6D0Caa98Ab",
-      "name": "Baby Shiba Inu",
-      "website": "https://www.babyshibatoken.com/",
-      "description": "Baby Shiba Inu offers an innovative mix of a multi-stage rewards system for staking and NFT presence. Anyone holding the",
-      "explorer": "https://bscscan.com/token/0xAECf6d1afF214feF70042740054f0f6D0Caa98Ab",
-      "type": "BEP20",
-      "symbol": "BabyShibaInu",
-      "decimals": 9,
-      "status": "active",
-      "id": "0xAECf6d1afF214feF70042740054f0f6D0Caa98Ab",
-      "chainId": 56
-    },
-    {
       "address": "0xAEb9864bfB718818904e9c70e4aB4e52b50b6481",
       "name": "PEA Token",
       "type": "BEP20",
@@ -49638,19 +47642,6 @@
       "tags": [
         "defi"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xAc4c2903fb2f073e94De57c79D8Bec5155662122",
-      "name": "Lock Chain Finance",
-      "type": "BEP20",
-      "symbol": "LOCKCHAIN",
-      "decimals": 0,
-      "website": "http://lockchainfinance.com/",
-      "description": "Lock Chain Finance is a DeFi platform that lets everyone gain more profit from staking, liquidity mining, yield farming and",
-      "explorer": "https://bscscan.com/token/0xAc4c2903fb2f073e94De57c79D8Bec5155662122",
-      "status": "active",
-      "id": "0xAc4c2903fb2f073e94De57c79D8Bec5155662122",
       "chainId": 56
     },
     {
@@ -50275,36 +48266,6 @@
       "chainId": 56
     },
     {
-      "address": "0xB1CeD2e320E3f4C8e3511B1DC59203303493F382",
-      "name": "Moonlight Token",
-      "type": "BEP20",
-      "symbol": "MOONLIGHT",
-      "decimals": 9,
-      "website": "https://bubblemaps.io",
-      "description": "Hold Moonlight Token to get premium access to Bubblemaps",
-      "explorer": "https://bscscan.com/token/0xB1CeD2e320E3f4C8e3511B1DC59203303493F382",
-      "status": "active",
-      "id": "0xB1CeD2e320E3f4C8e3511B1DC59203303493F382",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/bubblemaps"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/bubblemaps"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/moonlight-token/"
-        }
-      ],
-      "tags": [
-        "dapp"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xB20568B5DE8AbE668062710D785D292f686541e6",
       "name": "Moongate Fun",
       "type": "BEP20",
@@ -50662,23 +48623,6 @@
       "explorer": "https://bscscan.com/token/0xB64E638E60D154B43f660a6BF8fD8a3b249a6a21",
       "status": "active",
       "id": "0xB64E638E60D154B43f660a6BF8fD8a3b249a6a21",
-      "chainId": 56
-    },
-    {
-      "address": "0xB667bbfE0DcEdae1a53555a0e8B0a14EAf0d5231",
-      "name": "SafeComet",
-      "website": "https://safecometcrypto.com",
-      "description": "Self generating liquidity token - Reflection paid back to holders.",
-      "explorer": "https://bscscan.com/token/0xB667bbfE0DcEdae1a53555a0e8B0a14EAf0d5231",
-      "research": "",
-      "type": "BEP20",
-      "symbol": "SAFECOMET",
-      "decimals": 9,
-      "status": "active",
-      "id": "0xB667bbfE0DcEdae1a53555a0e8B0a14EAf0d5231",
-      "tags": [
-        "deflationary"
-      ],
       "chainId": 56
     },
     {
@@ -52487,19 +50431,6 @@
       "chainId": 56
     },
     {
-      "address": "0xC30F12CD65f61ded24db6C415C84F999C9704eBC",
-      "name": "Sabaka Inu",
-      "website": "https://sabakatoken.com/",
-      "description": "Earning money and helping dogs at the same time.",
-      "explorer": "https://bscscan.com/token/0xC30F12CD65f61ded24db6C415C84F999C9704eBC",
-      "type": "BEP20",
-      "symbol": "SABAKA INU",
-      "decimals": 9,
-      "status": "active",
-      "id": "0xC30F12CD65f61ded24db6C415C84F999C9704eBC",
-      "chainId": 56
-    },
-    {
       "address": "0xC3137c696796D69F783CD0Be4aB4bB96814234Aa",
       "name": "Pepa Inu",
       "type": "BEP20",
@@ -52671,19 +50602,6 @@
           "url": "https://x.com/CryptonlyFanz"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xC481E366aaD63dF7304DF888705B86523c3E8681",
-      "name": "Film Vault Protocol",
-      "website": "https://filmvault.io",
-      "description": "The Film Vault protocol is a dApp/Smart Contract to Learn, Invest and Profit from the Independent Film Industry. Built with",
-      "explorer": "https://bscscan.com/token/0xc481e366aad63df7304df888705b86523c3e8681",
-      "type": "BEP20",
-      "symbol": "FILMVAULT",
-      "decimals": 9,
-      "status": "active",
-      "id": "0xC481E366aaD63dF7304DF888705B86523c3E8681",
       "chainId": 56
     },
     {
@@ -52914,19 +50832,6 @@
       "chainId": 56
     },
     {
-      "address": "0xC563Ad73d229Ac33fbDC64Ab34AB27657B04158c",
-      "name": "FAKE EURC Coin",
-      "type": "BEP20",
-      "symbol": "FAKE EURC",
-      "decimals": 18,
-      "description": "This token is malicious do not interact",
-      "website": "https://bscscan.com/token/0xC563Ad73d229Ac33fbDC64Ab34AB27657B04158c",
-      "explorer": "https://bscscan.com/token/0xC563Ad73d229Ac33fbDC64Ab34AB27657B04158c",
-      "status": "spam",
-      "id": "0xC563Ad73d229Ac33fbDC64Ab34AB27657B04158c",
-      "chainId": 56
-    },
-    {
       "address": "0xC598275452fA319d75ee5f176FD3B8384925b425",
       "name": "Stream",
       "type": "BEP20",
@@ -53051,25 +50956,6 @@
       ],
       "tags": [
         "defi"
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xC64B6aF2D11AE5F908Ea12F1C3D1888eB8Ee5639",
-      "name": "Mashallah",
-      "website": "https://mashallahcto.site/",
-      "description": "#Mashallah - a crypto meme launched on the @Four_meme_ platform, now taken over and developed by the community!",
-      "explorer": "https://bscscan.com/token/0xc64b6af2d11ae5f908ea12f1c3d1888eb8ee5639",
-      "type": "BEP20",
-      "symbol": "Mashallah",
-      "decimals": 18,
-      "status": "active",
-      "id": "0xC64B6aF2D11AE5F908Ea12F1C3D1888eB8Ee5639",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/Mashallah_CTO"
-        }
       ],
       "chainId": 56
     },
@@ -53926,40 +51812,6 @@
       "chainId": 56
     },
     {
-      "address": "0xCE1b3e5087e8215876aF976032382dd338cF8401",
-      "name": "Thoreum V4 (Thoreum.AI)",
-      "website": "https://thoreum.capital/",
-      "description": "THOREUM v4 is upgraded from Thoreum V3 with even more deflationary and value building features: AI Powered Collective Burning, Deepening",
-      "explorer": "https://bscscan.com/token/0xCE1b3e5087e8215876aF976032382dd338cF8401",
-      "type": "BEP20",
-      "symbol": "THOREUMv4",
-      "decimals": 18,
-      "status": "active",
-      "id": "0xCE1b3e5087e8215876aF976032382dd338cF8401",
-      "tags": [
-        "defi"
-      ],
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/ThoreumFinance"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/Thoreum"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/thoreum-v2/"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/ThoreumFinance/ThoreumCapital"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xCE262761DF57c72999146b7A6a752da03835db4a",
       "name": "Mu Continent",
       "website": "https://www.mucoin.us",
@@ -54080,19 +51932,6 @@
       "tags": [
         "memes"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xCF9f991b14620f5ad144Eec11f9bc7Bf08987622",
-      "name": "PORNROCKET",
-      "website": "https://pornrocket.co/",
-      "description": "$PORNROCKET is revolutionizing the way adult entertainers share their saucy content with their fans and monetize their influence through a",
-      "explorer": "https://bscscan.com/token/0xcf9f991b14620f5ad144eec11f9bc7bf08987622",
-      "type": "BEP20",
-      "symbol": "PORNROCKET",
-      "decimals": 9,
-      "status": "active",
-      "id": "0xCF9f991b14620f5ad144Eec11f9bc7Bf08987622",
       "chainId": 56
     },
     {
@@ -54447,37 +52286,6 @@
           "name": "telegram",
           "url": "https://t.me/shibzillaofficial"
         }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xD024Ac1195762F6F13f8CfDF3cdd2c97b33B248b",
-      "name": "MiniFootball",
-      "type": "BEP20",
-      "symbol": "MiniFootball",
-      "decimals": 9,
-      "website": "https://minifootballtoken.com",
-      "description": "MiniFootball is a new crypto that combines the greatest fans from Football and Doge, creating the greatest community in the",
-      "explorer": "https://bscscan.com/token/0xd024ac1195762f6f13f8cfdf3cdd2c97b33b248b",
-      "status": "active",
-      "id": "0xD024Ac1195762F6F13f8CfDF3cdd2c97b33B248b",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/minifootballbsc"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/minifootballtoken"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/minifootball/"
-        }
-      ],
-      "tags": [
-        "gamefi",
-        "governance"
       ],
       "chainId": 56
     },
@@ -54846,42 +52654,6 @@
       "chainId": 56
     },
     {
-      "address": "0xD2Df38F3A7Cbc24FfB78322aB272Ce58c4604444",
-      "name": "SPAM KLIP",
-      "type": "BEP20",
-      "symbol": "SPAM KLIP",
-      "decimals": 18,
-      "website": "https://bscscan.com/address/0xD2Df38F3A7Cbc24FfB78322aB272Ce58c4604444",
-      "description": "SPAM KLIP",
-      "explorer": "https://bscscan.com/token/0xD2Df38F3A7Cbc24FfB78322aB272Ce58c4604444",
-      "status": "spam",
-      "id": "0xD2Df38F3A7Cbc24FfB78322aB272Ce58c4604444",
-      "chainId": 56
-    },
-    {
-      "address": "0xD2f9B51C6a1b5598f0ea51eF95d70cB045692D0F",
-      "name": "Safeicarus",
-      "website": "https://www.safeicarus.io/",
-      "description": "Safeicarus is programmed to reward holders while increasing in both liquidity and value. It does this by applying a 13%",
-      "explorer": "https://bscscan.com/token/0xD2f9B51C6a1b5598f0ea51eF95d70cB045692D0F",
-      "type": "BEP20",
-      "symbol": "SAFEICARUS",
-      "decimals": 9,
-      "status": "active",
-      "id": "0xD2f9B51C6a1b5598f0ea51eF95d70cB045692D0F",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/safeicarus"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/safeicarus"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xD30e25a8BeAC6E4E69EEeD90FF94A9105b5A08b8",
       "name": "UNICAT",
       "type": "BEP20",
@@ -54992,19 +52764,6 @@
       "chainId": 56
     },
     {
-      "address": "0xD3aBd3fdc3463F3a82c80adc581DA2432e42c215",
-      "name": "Golden Shiba Inu Token",
-      "type": "BEP20",
-      "symbol": "GOLDEN INU",
-      "decimals": 8,
-      "website": "https://goldenshibainu.com/",
-      "description": "Golden Shiba Inu. Projects built on the foundation of community involvement are the untamed wilderness of our future.",
-      "explorer": "https://bscscan.com/token/0xD3aBd3fdc3463F3a82c80adc581DA2432e42c215",
-      "status": "active",
-      "id": "0xD3aBd3fdc3463F3a82c80adc581DA2432e42c215",
-      "chainId": 56
-    },
-    {
       "address": "0xD3b77Ac07c963b8cEAD47000A5208434D9A8734d",
       "name": "SAFETREES",
       "type": "BEP20",
@@ -55081,33 +52840,6 @@
       "explorer": "https://bscscan.com/token/0xD40bEDb44C081D2935eebA6eF5a3c8A31A1bBE13",
       "status": "active",
       "id": "0xD40bEDb44C081D2935eebA6eF5a3c8A31A1bBE13",
-      "chainId": 56
-    },
-    {
-      "address": "0xD41C4805A9A3128f9F7A7074Da25965371Ba50d5",
-      "name": "Coinscope",
-      "website": "https://coinscope.co",
-      "description": "Coinscope is the leading early coin listing and voting website. It is aiming to make crypto discoverable and efficient globally.",
-      "explorer": "https://bscscan.com/token/0xd41c4805a9a3128f9f7a7074da25965371ba50d5",
-      "type": "BEP20",
-      "symbol": "COINSCOPE",
-      "decimals": 18,
-      "status": "active",
-      "id": "0xD41C4805A9A3128f9F7A7074Da25965371Ba50d5",
-      "links": [
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/coinscope"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/coinscope_co"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/@coinscopecrypto"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -55203,20 +52935,6 @@
       "explorer": "https://bscscan.com/token/0xD48474E7444727bF500a32D5AbE01943f3A59A64",
       "status": "active",
       "id": "0xD48474E7444727bF500a32D5AbE01943f3A59A64",
-      "chainId": 56
-    },
-    {
-      "address": "0xD50787A5f21bcC10C1a738E7DE33001786c5fc24",
-      "name": "SMARTWORTH",
-      "website": "https://smartworth.org",
-      "description": "A token with its own digital ecosystem, that reinvests in both the platform and the community with each transaction.",
-      "explorer": "https://bscscan.com/token/0xd50787a5f21bcc10c1a738e7de33001786c5fc24",
-      "research": "https://smartworth.org",
-      "type": "BEP20",
-      "symbol": "SMARTWORTH",
-      "decimals": 18,
-      "status": "active",
-      "id": "0xD50787A5f21bcC10C1a738E7DE33001786c5fc24",
       "chainId": 56
     },
     {
@@ -56474,37 +54192,6 @@
         {
           "name": "telegram",
           "url": "https://t.me/bakeryswap"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xE03495fCa9e644d55B65c30ed9fdC3321C260126",
-      "name": "WhenLambo",
-      "type": "BEP20",
-      "symbol": "WHENLAMBO",
-      "decimals": 18,
-      "website": "https://whenlambo.vip/",
-      "description": "WhenLambo is a fully decentralized reflection & automated liquidity token with CAKE rewards for token holders and a unique chance",
-      "explorer": "https://bscscan.com/token/0xE03495fCa9e644d55B65c30ed9fdC3321C260126",
-      "status": "active",
-      "id": "0xE03495fCa9e644d55B65c30ed9fdC3321C260126",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/@WhenLamboTokens"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/whenlambotoken/whenlambo-protocol"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/WhenLamboTokens"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/whenlambo/"
         }
       ],
       "chainId": 56
@@ -58045,46 +55732,6 @@
       "chainId": 56
     },
     {
-      "address": "0xEB2DFCdB56Cf568B3Da3927C6DE97b0849b329D8",
-      "name": "NFT Classic",
-      "website": "https://nftclassic.finance/",
-      "description": "NFT Classic employs functions : Automatic Farm. In each trade , the contract takes tokens from sellers and buyers by",
-      "explorer": "https://bscscan.com/token/0xeb2dfcdb56cf568b3da3927c6de97b0849b329d8",
-      "type": "BEP20",
-      "symbol": "NFTClassic",
-      "decimals": 9,
-      "status": "active",
-      "id": "0xEB2DFCdB56Cf568B3Da3927C6DE97b0849b329D8",
-      "chainId": 56
-    },
-    {
-      "address": "0xEB35aCBD23CF9D1C13D276815B9969eFfC5c878f",
-      "name": "MiniShibaInu",
-      "type": "BEP20",
-      "symbol": "MiniSHIBA",
-      "decimals": 9,
-      "website": "https://www.minishibatoken.com/",
-      "description": "MiniShiba is built by a strong team of crypto experts that aim to build a sustainable, long term token bringing",
-      "explorer": "https://bscscan.com/token/0xEB35aCBD23CF9D1C13D276815B9969eFfC5c878f",
-      "status": "active",
-      "id": "0xEB35aCBD23CF9D1C13D276815B9969eFfC5c878f",
-      "links": [
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/mini-shiba/"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/MiniShibaInu"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/MiniShiba_Token"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xEC126e20e7cb114dd3BA356100eaca2Cc2921322",
       "name": "Solar Energy",
       "website": "https://www.solarenergycoin.tech",
@@ -58440,33 +56087,6 @@
       "chainId": 56
     },
     {
-      "address": "0xEFEa4829b1bc90658784f15116C2dFD0E0929B0d",
-      "name": "Baby DeFido",
-      "type": "BEP20",
-      "symbol": "BabyDeFido",
-      "decimals": 9,
-      "website": "https://www.babydefido.finance/",
-      "description": "BabyDeFido is a memecoin based on Coinbase's Dog mascot DeFido, a french dogge. BabyDeFido is a low tax coin with",
-      "explorer": "https://bscscan.com/token/0xEFEa4829b1bc90658784f15116C2dFD0E0929B0d",
-      "status": "active",
-      "id": "0xEFEa4829b1bc90658784f15116C2dFD0E0929B0d",
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/BabyDeFido_BSC"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/Baby_Defido"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/baby-defido/"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xEFbA8b41e3495ad52258DFe916199Dc643F99dA2",
       "name": "SWASS.Finance",
       "website": "https://swass.finance",
@@ -58546,36 +56166,6 @@
         {
           "name": "coinmarketcap",
           "url": "https://coinmarketcap.com/currencies/crir-msh"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xEc3D04C82aF8C4b97Ecd058D543c2c0673ca72dC",
-      "name": "Baby Doge Money Maker",
-      "website": "https://babydogemoneymaker.com/",
-      "description": "The One And Only Doge And Lucky Cat Hybrid In Crypto World!",
-      "explorer": "https://bscscan.com/token/0xEc3D04C82aF8C4b97Ecd058D543c2c0673ca72dC",
-      "type": "BEP20",
-      "symbol": "BABYDOGEMM",
-      "decimals": 8,
-      "status": "active",
-      "id": "0xEc3D04C82aF8C4b97Ecd058D543c2c0673ca72dC",
-      "tags": [
-        "deflationary"
-      ],
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/BabyDogeMoneyMaker"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/BabyDMoneyMaker"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/baby-doge-money-maker/"
         }
       ],
       "chainId": 56
@@ -58885,33 +56475,6 @@
       "decimals": 9,
       "status": "active",
       "id": "0xEfd39883aDb365fbf591bC0d624c9e1b12AEA35f",
-      "chainId": 56
-    },
-    {
-      "address": "0xF017E2773e4ee0590C81D79ccbcF1B2De1D22877",
-      "name": "SAFEMOONCASH",
-      "website": "https://safemooncash.org",
-      "description": "Safemoon Cash is – in short – a rug proof, ownership renounced community driven project that will bring rivalry to",
-      "explorer": "https://bscscan.com/token/0xF017E2773e4ee0590C81D79ccbcF1B2De1D22877",
-      "type": "BEP20",
-      "symbol": "SAFEMOONCASH",
-      "decimals": 9,
-      "status": "active",
-      "id": "0xF017E2773e4ee0590C81D79ccbcF1B2De1D22877",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/safemooncash"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/safemooncash"
-        },
-        {
-          "name": "discord",
-          "url": "https://discord.com/invite/fDp6pQ4Hbd"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -59503,33 +57066,6 @@
       "decimals": 18,
       "status": "active",
       "id": "0xF4Ed363144981D3A65f42e7D0DC54FF9EEf559A1",
-      "chainId": 56
-    },
-    {
-      "address": "0xF520f5D709dCD40529caaFc02B297e7225ff8372",
-      "name": "MoonWilly",
-      "website": "https://moonwilly.com",
-      "description": "MoonWilly is Certificate Of Deposit on Binance Smart Chain. Holders Earn Passive Rewards in DAI (USD Stablecoin) every Hour, Forever.",
-      "explorer": "https://bscscan.com/token/0xf520f5d709dcd40529caafc02b297e7225ff8372",
-      "type": "BEP20",
-      "symbol": "MoonWilly",
-      "decimals": 18,
-      "status": "active",
-      "id": "0xF520f5D709dCD40529caaFc02B297e7225ff8372",
-      "links": [
-        {
-          "name": "github",
-          "url": "https://github.com/top1st/Moonwilly-Protocal/"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/Moonwillycoin"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/moonwillyproject"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -60667,63 +58203,6 @@
       "chainId": 56
     },
     {
-      "address": "0xFbC37a1865DD46091A45221F575062A3b8b2e676",
-      "name": "Hyperboost",
-      "type": "BEP20",
-      "symbol": "Hyperboost",
-      "decimals": 9,
-      "website": "https://hyperboostworld.com/",
-      "description": "HyperBoost was birthed by the community seeking a new opportunity to start with. You would also be happy to know",
-      "explorer": "https://bscscan.com/token/0xFbC37a1865DD46091A45221F575062A3b8b2e676",
-      "status": "active",
-      "id": "0xFbC37a1865DD46091A45221F575062A3b8b2e676",
-      "links": [
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/hyperboost/"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/HyperBoostBSC"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xFbDB1Fa163a0e8d90DD88104F44C093882A71914",
-      "name": "FRZ Solar System Coin",
-      "type": "BEP20",
-      "symbol": "FRZSSCOIN",
-      "decimals": 18,
-      "website": "https://frzss.com/",
-      "description": "FRZSSCOIN is the native asset of the FRZ ecosystem and will be used for listing and staking on exchanges, airdrops,",
-      "explorer": "https://bscscan.com/token/0xfbdb1fa163a0e8d90dd88104f44c093882a71914",
-      "status": "active",
-      "id": "0xFbDB1Fa163a0e8d90DD88104F44C093882A71914",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/frztoken"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/frzss-dev"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/frzsstoken"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/frz-solar-system-coin/"
-        }
-      ],
-      "tags": [
-        "defi"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xFcB5B3AE51629b78f253B9cC8e4e1E4EFf90CbB0",
       "symbol": "INFI",
       "decimals": 18,
@@ -61025,19 +58504,6 @@
       "chainId": 56
     },
     {
-      "address": "0xa016F295A5957cB80D03d8E5464A429007555124",
-      "name": "SafeHamsters",
-      "website": "https://safehamsters.io",
-      "description": "Welcome to the hamster army! The time has come when it is worth rewriting history.",
-      "explorer": "https://bscscan.com/token/0xa016F295A5957cB80D03d8E5464A429007555124",
-      "type": "BEP20",
-      "symbol": "SAFEHAMSTERS",
-      "decimals": 9,
-      "status": "active",
-      "id": "0xa016F295A5957cB80D03d8E5464A429007555124",
-      "chainId": 56
-    },
-    {
       "address": "0xa026Ad2ceDa16Ca5FC28fd3C72f99e2C332c8a26",
       "name": "XCAD",
       "type": "BEP20",
@@ -61155,19 +58621,6 @@
       "chainId": 56
     },
     {
-      "address": "0xa0Af324cC24ad0060bcE52dE359aFfD6deCb5cF2",
-      "name": "FAKE USDT",
-      "type": "BEP20",
-      "symbol": "FAKE USDT",
-      "decimals": 18,
-      "website": "https://bscscan.com/address/0xa0af324cc24ad0060bce52de359affd6decb5cf2",
-      "description": "FAKE USDT",
-      "explorer": "https://bscscan.com/token/0xa0Af324cC24ad0060bcE52dE359aFfD6deCb5cF2",
-      "status": "spam",
-      "id": "0xa0Af324cC24ad0060bcE52dE359aFfD6deCb5cF2",
-      "chainId": 56
-    },
-    {
       "address": "0xa0CC3A881AEf241d6cB3B7Db3168BD26094560BE",
       "name": "Crypto Inu",
       "type": "BEP20",
@@ -61226,19 +58679,6 @@
           "url": "https://t.me/catboybscofficial"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xa178398a3A816d049588cC46D431f5EEC4dd7e96",
-      "name": "ClearMoon",
-      "type": "BEP20",
-      "symbol": "CLEARMOON",
-      "decimals": 9,
-      "website": "https://clearmoon.io",
-      "description": "The ClearMoon Network is a community-driven, viral networking project dedicated to Crypto Education in DeFi.",
-      "explorer": "https://bscscan.com/token/0xa178398a3A816d049588cC46D431f5EEC4dd7e96",
-      "status": "active",
-      "id": "0xa178398a3A816d049588cC46D431f5EEC4dd7e96",
       "chainId": 56
     },
     {
@@ -61678,20 +59118,6 @@
       "tags": [
         "defi"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xa5360c2070FaECFc231fd6bd743FE88382F2991d",
-      "name": "SafeLight",
-      "website": "https://www.safelightcrypto.com/",
-      "description": "Self generating liquidity token - Reflection paid back to holders.",
-      "explorer": "https://bscscan.com/token/0xa5360c2070faecfc231fd6bd743fe88382f2991d",
-      "research": "",
-      "type": "BEP20",
-      "symbol": "SafeLight",
-      "decimals": 9,
-      "status": "active",
-      "id": "0xa5360c2070FaECFc231fd6bd743FE88382F2991d",
       "chainId": 56
     },
     {
@@ -62334,32 +59760,6 @@
       "chainId": 56
     },
     {
-      "address": "0xaDAaE082237cB1772c9e079dB95c117E6Dd0C5aF",
-      "name": "VizslaSwap",
-      "type": "BEP20",
-      "symbol": "VIZSLASWAP",
-      "decimals": 18,
-      "website": "https://www.vizslaswap.com/",
-      "description": "VizslaSwap is a decentralized exchange running on BNB Smart Chain with lots of features that let you trade and earn",
-      "explorer": "https://bscscan.com/token/0xadaae082237cb1772c9e079db95c117e6dd0c5af",
-      "status": "active",
-      "id": "0xaDAaE082237cB1772c9e079dB95c117E6Dd0C5aF",
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/hungarianvizslainucoin"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/HunVizslainu"
-        }
-      ],
-      "tags": [
-        "defi"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xaE90CA218f9c3b1AA84af33A7907E4890Ec6A167",
       "name": "ECLAT",
       "type": "BEP20",
@@ -62589,19 +59989,6 @@
       "tags": [
         "defi"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xaa2C290bF62B7d100D2D7f87b7223e3A71b737F7",
-      "name": "SaveAnimal",
-      "website": "https://saveanimal.io/",
-      "description": "SaveAnimal is a charity token helping animals in need by donating 2% of every transaction",
-      "explorer": "https://bscscan.com/token/0xaa2C290bF62B7d100D2D7f87b7223e3A71b737F7",
-      "type": "BEP20",
-      "symbol": "SAVEANIMAL",
-      "decimals": 9,
-      "status": "active",
-      "id": "0xaa2C290bF62B7d100D2D7f87b7223e3A71b737F7",
       "chainId": 56
     },
     {
@@ -63498,36 +60885,6 @@
       "chainId": 56
     },
     {
-      "address": "0xb78e41AE7fc8121978168557bB096e1A858be2Ea",
-      "name": "MicroSHIBA",
-      "type": "BEP20",
-      "symbol": "MICROSHIB",
-      "decimals": 9,
-      "website": "https://www.microshiba.net/",
-      "description": "MicroSHIBA is a brand new token from a very experienced team that has implemented a manual buy back system to",
-      "explorer": "https://bscscan.com/token/0xb78e41AE7fc8121978168557bB096e1A858be2Ea",
-      "status": "active",
-      "id": "0xb78e41AE7fc8121978168557bB096e1A858be2Ea",
-      "tags": [
-        "deflationary"
-      ],
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/MicroshibaEN"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/MicroShibaBSC"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/microshib/"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xb7CEF49d89321e22dd3F51a212d58398Ad542640",
       "name": "Milk",
       "type": "BEP20",
@@ -63592,33 +60949,6 @@
         {
           "name": "coinmarketcap",
           "url": "https://coinmarketcap.com/currencies/jen-coin/"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xb84ddc645c27D4Dc4bFA325c946f9d89d3AfCc7a",
-      "name": "Bonus Cake",
-      "website": "https://bonuscake.com",
-      "description": "Bonus Cake is the first dividend and lucky draw CAKE reflection token.",
-      "explorer": "https://bscscan.com/token/0xb84ddc645c27D4Dc4bFA325c946f9d89d3AfCc7a",
-      "type": "BEP20",
-      "symbol": "BonusCake",
-      "decimals": 18,
-      "status": "active",
-      "id": "0xb84ddc645c27D4Dc4bFA325c946f9d89d3AfCc7a",
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/BonusCake"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/BonusCakeBSC"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/bonus-cake/"
         }
       ],
       "chainId": 56
@@ -63773,33 +61103,6 @@
       "id": "0xb93ba7DC61ECFced69067151FC00C41cA369A797",
       "tags": [
         "deflationary"
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xb9654A42f0F5dCDEf5617DebF8bd048E33F180E7",
-      "name": "ThunderBNB Token",
-      "website": "https://thunderbnb.app/",
-      "description": "The next evolution of a reflection token on the BSC with double reward reflection token using the power of 80/20",
-      "explorer": "https://bscscan.com/token/0xb9654A42f0F5dCDEf5617DebF8bd048E33F180E7",
-      "type": "BEP20",
-      "symbol": "THUNDERBNB",
-      "decimals": 18,
-      "status": "active",
-      "id": "0xb9654A42f0F5dCDEf5617DebF8bd048E33F180E7",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/ThunderBNBapp"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/ThunderBNB"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/ThunderBnb/contracts"
-        }
       ],
       "chainId": 56
     },
@@ -63970,42 +61273,6 @@
       "chainId": 56
     },
     {
-      "address": "0xbB21c4A6257f3306d0458E92aD0FE583AD0cE858",
-      "name": "CryptoPeso",
-      "website": "https://cryptopesos.pro/index.html",
-      "description": "It is an innovative initiative that seeks to revolutionize the financial landscape in Latin America through the implementation of a",
-      "explorer": "https://bscscan.com/token/0xbB21c4A6257f3306d0458E92aD0FE583AD0cE858",
-      "research": "https://cryptopesos.pro/index.html",
-      "symbol": "CryptoPesos",
-      "type": "BEP20",
-      "decimals": 18,
-      "status": "active",
-      "id": "0xbB21c4A6257f3306d0458E92aD0FE583AD0cE858",
-      "tags": [
-        "staking-native",
-        "defi"
-      ],
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/Crypto_Pesos"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/CryptoPesoColombia"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/CryptoPesos"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/dexscan/bsc/0x6c7336d6dd9947481bc6f81f670a104cb963ea39/"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xbB3837Fa11d4B789717C8f622Ec4f6eee5375C49",
       "name": "BSCView",
       "type": "BEP20",
@@ -64096,56 +61363,6 @@
       "tags": [
         "stablecoin"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xbBD7B847C6d0d0B5691518a363194D71426475F1",
-      "name": "EverRise Rewards",
-      "type": "BEP20",
-      "symbol": "claimRISE",
-      "decimals": 18,
-      "website": "https://www.everrise.com/",
-      "description": "Virtual token that allows unclaimed rewards from EverRise Staking NFTs and its Vote Escrowed (ve) EverRise to display in wallet",
-      "explorer": "https://bscscan.com/token/0xbBD7B847C6d0d0B5691518a363194D71426475F1",
-      "status": "active",
-      "id": "0xbBD7B847C6d0d0B5691518a363194D71426475F1",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/everrise"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/everriseofficial"
-        },
-        {
-          "name": "discord",
-          "url": "https://discord.com/invite/everrise"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/everrise-ecosystem"
-        }
-      ],
-      "tags": [
-        "defi",
-        "staking",
-        "nft",
-        "deflationary"
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xbBeA1AC815E5402DF5Ee9c80A93FC3e72119469D",
-      "name": "MOONSTORM",
-      "type": "BEP20",
-      "symbol": "MOONSTORM",
-      "decimals": 9,
-      "website": "https://moonstorm.io/",
-      "description": "A community owned protocol that rewards holders.",
-      "explorer": "https://bscscan.com/token/0xbBeA1AC815E5402DF5Ee9c80A93FC3e72119469D",
-      "status": "active",
-      "id": "0xbBeA1AC815E5402DF5Ee9c80A93FC3e72119469D",
       "chainId": 56
     },
     {
@@ -65711,33 +62928,6 @@
       "chainId": 56
     },
     {
-      "address": "0xc4a54699d24C5C130cf866974181E41e22bb3b07",
-      "name": "Floki Elon",
-      "type": "BEP20",
-      "symbol": "FlokiElon",
-      "decimals": 9,
-      "website": "https://www.flokielon.net/",
-      "description": "World's Best Community Meme Token",
-      "explorer": "https://bscscan.com/token/0xc4a54699d24C5C130cf866974181E41e22bb3b07",
-      "status": "active",
-      "id": "0xc4a54699d24C5C130cf866974181E41e22bb3b07",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/floki_real"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/flokielonreal"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/Floki_Real"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xc5137E8e017799e71A65e0cFe3F340d719AF17D3",
       "name": "ETHb",
       "website": "https://ethbridge.justliquidity.org/",
@@ -66011,41 +63201,6 @@
         {
           "name": "discord",
           "url": "https://discord.com/invite/babydogecoin"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xc74cD0042c837Ce59210857504eBb0859E06aA22",
-      "name": "SafuYield",
-      "type": "BEP20",
-      "symbol": "SAFUYIELD",
-      "decimals": 9,
-      "website": "https://safuyield.com",
-      "description": "SAFUYIELD is the native ecosystem token of the www.SAFU.net platform and utility for all its projects.",
-      "explorer": "https://bscscan.com/token/0xc74cD0042c837Ce59210857504eBb0859E06aA22",
-      "status": "active",
-      "id": "0xc74cD0042c837Ce59210857504eBb0859E06aA22",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/safuyield"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/safuyield"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/safuyield"
-        },
-        {
-          "name": "discord",
-          "url": "https://discord.com/invite/h57WyJuqEp"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/safuyield-protocol"
         }
       ],
       "chainId": 56
@@ -67109,29 +64264,6 @@
       "chainId": 56
     },
     {
-      "address": "0xce4A4A15FcCD532eAd67BE3ECf7e6122c61D06bb",
-      "name": "ThunderCake Token",
-      "website": "https://www.thundercake.app/",
-      "description": "The world 1st double reward reflection token using the power of 80% CAKE / 20% THOREUM.",
-      "explorer": "https://bscscan.com/token/0xce4A4A15FcCD532eAd67BE3ECf7e6122c61D06bb",
-      "type": "BEP20",
-      "symbol": "THUNDERCAKE",
-      "decimals": 18,
-      "status": "active",
-      "id": "0xce4A4A15FcCD532eAd67BE3ECf7e6122c61D06bb",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/ThunderCakeApp"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/ThunderCakeOfficial"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xce666D0e507C5F2Afe0671Ee29A99cfa97954c48",
       "name": "Addax",
       "website": "https://addaxtoken.com/",
@@ -67740,19 +64872,6 @@
       "chainId": 56
     },
     {
-      "address": "0xd4923eC79415741736aD2a6390c067D3a7e605d3",
-      "name": "Capsule Decentralized Protocol",
-      "type": "BEP20",
-      "symbol": "CAPSULE DEFI",
-      "decimals": 9,
-      "website": "https://www.capsuledefi.com/",
-      "description": "Capsule DEFI - Unites decentralized protocols whose synergy enables the most lucrative, fastest and protected operations in the DeFi space.",
-      "explorer": "https://bscscan.com/token/0xd4923eC79415741736aD2a6390c067D3a7e605d3",
-      "status": "active",
-      "id": "0xd4923eC79415741736aD2a6390c067D3a7e605d3",
-      "chainId": 56
-    },
-    {
       "address": "0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888",
       "name": "CREAM",
       "website": "https://cream.finance",
@@ -68252,40 +65371,6 @@
       "chainId": 56
     },
     {
-      "address": "0xd8Fa690304D2B2824D918C0c7376e2823704557A",
-      "name": "SquidGrow",
-      "type": "BEP20",
-      "symbol": "SquidGrow",
-      "decimals": 9,
-      "website": "https://squidgrow.wtf",
-      "description": "SquidGrow is the next big meme utility token in the cryptocurrency space! Created by the biggest Shiba Inu whale, SquidGrow",
-      "explorer": "https://bscscan.com/token/0xd8fa690304d2b2824d918c0c7376e2823704557a",
-      "status": "active",
-      "id": "0xd8Fa690304D2B2824D918C0c7376e2823704557A",
-      "links": [
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/squid-grow/"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/SquidGrowPortal"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/Squid_Grow"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/shibtoshi"
-        }
-      ],
-      "tags": [
-        "defi"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xd8a2aE43Fd061d24acd538e3866Ffc2c05151b53",
       "name": "AIR",
       "website": "https://aircoin.cool",
@@ -68415,19 +65500,6 @@
           "url": "https://coinmarketcap.com/currencies/ava/"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xd948A2c11626a0EFC25f4e0ceA4986056AC41feD",
-      "name": "SAFEMARSCASH",
-      "website": "https://safemarscash.org",
-      "description": "Auto liquidity for an ever-increasing price floor, Deflationary tokenomics, 100% safe and unruggable (liquidity will be locked forever).",
-      "explorer": "https://bscscan.com/token/0xd948a2c11626a0efc25f4e0cea4986056ac41fed",
-      "type": "BEP20",
-      "symbol": "SAFEMARSCASH",
-      "decimals": 8,
-      "status": "active",
-      "id": "0xd948A2c11626a0EFC25f4e0ceA4986056AC41feD",
       "chainId": 56
     },
     {
@@ -68727,33 +65799,6 @@
       "chainId": 56
     },
     {
-      "address": "0xdC419cfe5454bF58001f131E98CF2065E11936A7",
-      "name": "bscSUNDOG",
-      "symbol": "bscSUNDOG",
-      "type": "BEP20",
-      "decimals": 18,
-      "description": "SUN DOG, THE BIGGEST DOG MEME ON TRON, EVERY CHAIN NEEDS ITS DOG, EVERY DOG HAS ITS DAY. EVERYTHING IS",
-      "website": "https://www.sundog.meme/",
-      "explorer": "https://bscscan.com/token/0xdC419cfe5454bF58001f131E98CF2065E11936A7",
-      "status": "active",
-      "id": "0xdC419cfe5454bF58001f131E98CF2065E11936A7",
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/SUNDOG_TRX"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/sundog_trx"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/sundog/"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xdC523d12b98e943EA1198eEC84891440b8399354",
       "symbol": "JAG",
       "decimals": 12,
@@ -69027,19 +66072,6 @@
       "chainId": 56
     },
     {
-      "address": "0xdEe89763124Cd649B7aAaEedE8fa8D75b5454444",
-      "name": "FAKE United Stables",
-      "type": "BEP20",
-      "symbol": "FAKE UTED",
-      "decimals": 18,
-      "description": "This token is malicious do not interact",
-      "website": "https://bscscan.com/token/0xdEe89763124Cd649B7aAaEedE8fa8D75b5454444",
-      "explorer": "https://bscscan.com/token/0xdEe89763124Cd649B7aAaEedE8fa8D75b5454444",
-      "status": "spam",
-      "id": "0xdEe89763124Cd649B7aAaEedE8fa8D75b5454444",
-      "chainId": 56
-    },
-    {
       "address": "0xdF0816CC717216c8B0863aF8d4f0fC20Bc65d643",
       "name": "SHIBA BSC",
       "website": "https://shibsc.com/#/",
@@ -69102,19 +66134,6 @@
       "tags": [
         "gamefi"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xdF6d9fC61Bd8163b59d6381EC93aE1D3a4D95bB2",
-      "name": "BlimpsRock",
-      "website": "https://blimpsrock.net",
-      "description": "$BlimpsRock is a yield and liquidity generating protocol token that works by applying a 10% fee to every transaction and",
-      "explorer": "https://bscscan.com/token/0xdF6d9fC61Bd8163b59d6381EC93aE1D3a4D95bB2",
-      "type": "BEP20",
-      "symbol": "BLIMPSROCK",
-      "decimals": 9,
-      "status": "active",
-      "id": "0xdF6d9fC61Bd8163b59d6381EC93aE1D3a4D95bB2",
       "chainId": 56
     },
     {
@@ -69517,13 +66536,6 @@
       "chainId": 56
     },
     {
-      "address": "0xe05207A432f6B06Fe9f78B598c1f890b260Dec45",
-      "symbol": "Cheese-LP",
-      "decimals": 18,
-      "name": "CheeseSwap LPs",
-      "chainId": 56
-    },
-    {
       "address": "0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3",
       "name": "Ankr Staked ETH",
       "type": "BEP20",
@@ -69696,32 +66708,6 @@
       "chainId": 56
     },
     {
-      "address": "0xe1DB3d1eE5CfE5C6333BE96e6421f9Bd5b85c987",
-      "name": "SAFESPACE",
-      "type": "BEP20",
-      "symbol": "SAFESPACE",
-      "decimals": 9,
-      "website": "https://safespacecrypto.net/",
-      "description": "Autonomous yield and liquidity generation protocol. Simply hold SAFESPACE in your wallet and you will get more. On each transaction",
-      "explorer": "https://bscscan.com/token/0xe1DB3d1eE5CfE5C6333BE96e6421f9Bd5b85c987",
-      "status": "active",
-      "id": "0xe1DB3d1eE5CfE5C6333BE96e6421f9Bd5b85c987",
-      "chainId": 56
-    },
-    {
-      "address": "0xe1F8C6ce0D69CbEB67c6bc3685e52C96291394a8",
-      "name": "TeamTreesToken",
-      "type": "BEP20",
-      "symbol": "TeamTrees",
-      "decimals": 9,
-      "website": "https://www.teamtreestoken.org",
-      "description": "TeamTreesToken is the first community token built on Binance Smart Chain aimed at providing support to the global pandemic in",
-      "explorer": "https://bscscan.com/token/0xe1F8C6ce0D69CbEB67c6bc3685e52C96291394a8",
-      "status": "active",
-      "id": "0xe1F8C6ce0D69CbEB67c6bc3685e52C96291394a8",
-      "chainId": 56
-    },
-    {
       "address": "0xe24F6Bc7635501d5684a963f7e75C8062b9c0eA4",
       "name": "Baby Floki Doge Token",
       "website": "https://www.babyflokidoge.info",
@@ -69782,13 +66768,6 @@
       "explorer": "https://bscscan.com/token/0xe26DFa937315592011fA90baF99B164f9F61bd08",
       "status": "active",
       "id": "0xe26DFa937315592011fA90baF99B164f9F61bd08",
-      "chainId": 56
-    },
-    {
-      "address": "0xe2BfDc2e02B9A8AA5Aa0EcAB17e115e1e742b834",
-      "symbol": "Cheese-LP",
-      "decimals": 18,
-      "name": "CheeseSwap LPs",
       "chainId": 56
     },
     {
@@ -70029,19 +67008,6 @@
           "url": "https://coinmarketcap.com/currencies/e-money-io/"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xe472f729aC326C1B49921CFD492008c8586e50B9",
-      "name": "PiggyBank Coins",
-      "website": "https://piggybankdefi.com",
-      "description": "Whoever said pigs can't fly? Let this pig take you to the moon.",
-      "explorer": "https://bscscan.com/token/0xe472f729aC326C1B49921CFD492008c8586e50B9",
-      "type": "BEP20",
-      "symbol": "PIGGYBANK",
-      "decimals": 9,
-      "status": "active",
-      "id": "0xe472f729aC326C1B49921CFD492008c8586e50B9",
       "chainId": 56
     },
     {
@@ -70577,19 +67543,6 @@
           "url": "https://discord.com/channels/857269136328622081/857276302489681980"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xe6ad583f6b4Dd429889F2307CbB80D53BC684444",
-      "name": "SPAM KLIP",
-      "type": "BEP20",
-      "symbol": "SPAM KLIP",
-      "decimals": 18,
-      "website": "https://bscscan.com/address/0xe6ad583f6b4dd429889f2307cbb80d53bc684444",
-      "description": "SPAM KLIP",
-      "explorer": "https://bscscan.com/token/0xe6ad583f6b4Dd429889F2307CbB80D53BC684444",
-      "status": "spam",
-      "id": "0xe6ad583f6b4Dd429889F2307CbB80D53BC684444",
       "chainId": 56
     },
     {
@@ -71195,19 +68148,6 @@
       "chainId": 56
     },
     {
-      "address": "0xeDAF1F5B8078d4feb4E13c8d5A2c8dE1365be7b6",
-      "name": "Altrucoin",
-      "website": "https://altrucoin.io",
-      "description": "Altrucoin is a decentralized finance token built for yield generation, charitable donations, decentralized governance, and defi lending.",
-      "explorer": "https://bscscan.com/token/0xeDAF1F5B8078d4feb4E13c8d5A2c8dE1365be7b6",
-      "type": "BEP20",
-      "symbol": "ALTRUCOIN",
-      "decimals": 9,
-      "status": "active",
-      "id": "0xeDAF1F5B8078d4feb4E13c8d5A2c8dE1365be7b6",
-      "chainId": 56
-    },
-    {
       "address": "0xeDF3ce4Dd6725650a8e9398e5C6398D061Fa7955",
       "name": "vEmpire DDAO",
       "type": "BEP20",
@@ -71235,19 +68175,6 @@
       "tags": [
         "defi"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xeDbA2206655d5842Dd51A125df89E0189cECD6e3",
-      "name": "Meme10000x",
-      "website": "https://meme10000x.finance/",
-      "description": "What is #meme10000x ? meme10000x is a defi project that automatically distributes rewards to holders platform based on the Binance",
-      "explorer": "https://bscscan.com/token/0xeDbA2206655d5842Dd51A125df89E0189cECD6e3",
-      "type": "BEP20",
-      "symbol": "Meme10000x",
-      "decimals": 9,
-      "status": "active",
-      "id": "0xeDbA2206655d5842Dd51A125df89E0189cECD6e3",
       "chainId": 56
     },
     {
@@ -71304,19 +68231,6 @@
       "explorer": "https://bscscan.com/token/0xeE8feAeE52CE378BA356A5772BBa29d08AF25cdB",
       "id": "0xeE8feAeE52CE378BA356A5772BBa29d08AF25cdB",
       "status": "active",
-      "chainId": 56
-    },
-    {
-      "address": "0xeE9cf3c78EAC6dD85E3abbC14616042e107E4444",
-      "name": "FAKE Digital Euro",
-      "type": "BEP20",
-      "symbol": "FAKE EURC",
-      "decimals": 18,
-      "description": "This token is malicious do not interact",
-      "website": "https://bscscan.com/token/0xeE9cf3c78EAC6dD85E3abbC14616042e107E4444",
-      "explorer": "https://bscscan.com/token/0xeE9cf3c78EAC6dD85E3abbC14616042e107E4444",
-      "status": "spam",
-      "id": "0xeE9cf3c78EAC6dD85E3abbC14616042e107E4444",
       "chainId": 56
     },
     {
@@ -71552,19 +68466,6 @@
       "chainId": 56
     },
     {
-      "address": "0xecc62bd353EDd64Ed31595DbC4C92801aF1e2af0",
-      "name": "CyberDoge",
-      "website": "https://www.cyber-doge.net",
-      "description": "Deflationary Defi token built on the BSC Chain that automates the earning process by creating an autonomous friction less yield",
-      "explorer": "https://bscscan.com/token/0xecc62bd353EDd64Ed31595DbC4C92801aF1e2af0",
-      "type": "BEP20",
-      "symbol": "CybrrrDOGE",
-      "decimals": 9,
-      "status": "active",
-      "id": "0xecc62bd353EDd64Ed31595DbC4C92801aF1e2af0",
-      "chainId": 56
-    },
-    {
       "address": "0xee1ae38BE4Ce0074C4A4A8DC821CC784778f378c",
       "name": "VYNK CHAIN",
       "type": "BEP20",
@@ -71782,25 +68683,6 @@
       "chainId": 56
     },
     {
-      "address": "0xf09b7B6bA6dAb7CccC3AE477a174b164c39f4C66",
-      "name": "MoonPirate",
-      "website": "https://www.moonpirate.finance",
-      "description": "Autonomous yield and liquidity generation protocol on BSC",
-      "explorer": "https://bscscan.com/token/0xf09b7B6bA6dAb7CccC3AE477a174b164c39f4C66",
-      "type": "BEP20",
-      "symbol": "MOONPIRATE",
-      "decimals": 9,
-      "status": "active",
-      "id": "0xf09b7B6bA6dAb7CccC3AE477a174b164c39f4C66",
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/MoonPirate"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xf0AB4b8Daa51F6Abf6b4C9FEf0ccA5d127029AA9",
       "name": "Scooby",
       "website": "https://scooby.finance",
@@ -71957,33 +68839,6 @@
       "chainId": 56
     },
     {
-      "address": "0xf2673f49d2737f97d70995eD43D128E0B8E560c5",
-      "name": "Buff Shiba Inu",
-      "type": "BEP20",
-      "symbol": "BUFFSHIBA",
-      "decimals": 9,
-      "website": "https://buffshibainu.io",
-      "description": "Buff Shiba Inu, a community-driven token that empowers small and non-private investors to build stronger portfolios.",
-      "explorer": "https://bscscan.com/token/0xf2673f49d2737f97d70995eD43D128E0B8E560c5",
-      "status": "active",
-      "id": "0xf2673f49d2737f97d70995eD43D128E0B8E560c5",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/buffshibainu"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/buffshibainu"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/buffshibainu"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xf275e1AC303a4C9D987a2c48b8E555A77FeC3F1C",
       "name": "DEEPSPACE",
       "type": "BEP20",
@@ -72046,19 +68901,6 @@
           "url": "https://coinmarketcap.com/currencies/tbcc-labs/"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xf2E00684457de1a3C87361bC4BfE2DE92342306C",
-      "name": "Shield Network",
-      "type": "BEP20",
-      "symbol": "SHIELDNET",
-      "decimals": 18,
-      "website": "https://www.shieldnetwork.io/",
-      "description": "Shield Network, a token audit platform where every token is thoroughly audited to ensure safety and avoid scams.",
-      "explorer": "https://bscscan.com/token/0xf2E00684457de1a3C87361bC4BfE2DE92342306C",
-      "status": "active",
-      "id": "0xf2E00684457de1a3C87361bC4BfE2DE92342306C",
       "chainId": 56
     },
     {
@@ -72723,19 +69565,6 @@
       "chainId": 56
     },
     {
-      "address": "0xf818D092BeAF21BEaFe6aCDd8230BD5F7b861D9C",
-      "name": "MoonGhost",
-      "type": "BEP20",
-      "symbol": "MOONGHOST",
-      "decimals": 9,
-      "website": "http://moonghost.finance/",
-      "description": "MoonGhost was created with the sole purpose of investor's being able to collect BNB by holding MOONGHOST.",
-      "explorer": "https://bscscan.com/token/0xf818D092BeAF21BEaFe6aCDd8230BD5F7b861D9C",
-      "status": "active",
-      "id": "0xf818D092BeAF21BEaFe6aCDd8230BD5F7b861D9C",
-      "chainId": 56
-    },
-    {
       "address": "0xf834673D496AEAcb5E99Dfbfc34f1bDCdf81D7Bd",
       "name": "Aegis Launchpad",
       "website": "https://aegislaunchpad.com/",
@@ -72925,13 +69754,6 @@
           "url": "https://t.me/VenusProtocol"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xf964aDC986534842DBEAE7A5296906912115B9fc",
-      "symbol": "SAFEYOGHI",
-      "decimals": 9,
-      "name": "SAFEYOGHI",
       "chainId": 56
     },
     {
@@ -73681,33 +70503,6 @@
       "explorer": "https://bscscan.com/token/0xfaFf5251EA98f90540D6BacDf7A458f61b456C06",
       "status": "active",
       "id": "0xfaFf5251EA98f90540D6BacDf7A458f61b456C06",
-      "chainId": 56
-    },
-    {
-      "address": "0xfb16B31FA8a6Edcd2dDE78654CB0668c724C1dAc",
-      "name": "SafePokeman Token",
-      "type": "BEP20",
-      "symbol": "SAFEPOKEMAN",
-      "decimals": 18,
-      "website": "https://www.safepokeman.com",
-      "description": "Upload logo for SafePokeman Token",
-      "explorer": "https://bscscan.com/token/0xfb16B31FA8a6Edcd2dDE78654CB0668c724C1dAc",
-      "status": "active",
-      "id": "0xfb16B31FA8a6Edcd2dDE78654CB0668c724C1dAc",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/safepokeman"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/safepokemanofficialchat"
-        },
-        {
-          "name": "discord",
-          "url": "https://discord.com/invite/GGUbG666x2"
-        }
-      ],
       "chainId": 56
     },
     {
