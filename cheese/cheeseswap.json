@@ -1557,19 +1557,6 @@
       "chainId": 56
     },
     {
-      "address": "0x8d715f8e33CA31d00936E04addE913176df94fE5",
-      "name": "FAKE MYX",
-      "website": "https://bscscan.com/address/0x8d715f8e33CA31d00936E04addE913176df94fE5",
-      "description": "FAKE MYX FOR BLACKLISTING",
-      "explorer": "https://bscscan.com/token/0x8d715f8e33CA31d00936E04addE913176df94fE5",
-      "type": "BEP20",
-      "symbol": "MYX",
-      "decimals": 18,
-      "status": "spam",
-      "id": "0x8d715f8e33CA31d00936E04addE913176df94fE5",
-      "chainId": 56
-    },
-    {
       "address": "0x882C173bC7Ff3b7786CA16dfeD3DFFfb9Ee7847B",
       "name": "Venus BTC",
       "website": "https://venus.io/",
@@ -2232,32 +2219,6 @@
       "chainId": 56
     },
     {
-      "address": "0x02a6c1789c3B4FDb1a7a3DfA39F90e5d3c94F4F9",
-      "name": "Philip Morris tokenized stock (xStock)",
-      "website": "https://assets.backed.fi/products",
-      "description": "Phillip Morris xStock (PMx) is a tracker certificate issued as Solana SPL and ERC-20 tokens. PMx tracks the price of",
-      "explorer": "https://bscscan.com/token/0x02a6c1789c3B4FDb1a7a3DfA39F90e5d3c94F4F9",
-      "type": "BEP20",
-      "symbol": "PMX",
-      "decimals": 18,
-      "status": "active",
-      "id": "0x02a6c1789c3B4FDb1a7a3DfA39F90e5d3c94F4F9",
-      "tags": [
-        "RWA"
-      ],
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/xstocksfi"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/philip-morris-tokenized-stock-xstock/"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x02a9D7162BD73c2b35c5Cf6cDD585e91928c850A",
       "name": "Baby Floki Inu",
       "symbol": "BFLOKI",
@@ -2398,32 +2359,6 @@
       "chainId": 56
     },
     {
-      "address": "0x034e3d48c7d742ff7Eb40365aC7366A35ECB1EF6",
-      "name": "TEST",
-      "type": "BEP20",
-      "symbol": "TST",
-      "decimals": 12,
-      "description": "$TST is all about community! While it started as a fun test, it’s evolving into something much bigger. We want",
-      "website": "https://testtoken.me/",
-      "explorer": "https://bscscan.com/token/0x034e3d48c7d742ff7Eb40365aC7366A35ECB1EF6",
-      "id": "0x034e3d48c7d742ff7Eb40365aC7366A35ECB1EF6",
-      "status": "spam",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/testtstx"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/testtoken-me/"
-        }
-      ],
-      "tags": [
-        "memes"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x035aD59058c557be4532141FBCD60f0998fCE413",
       "name": "BabyApeFunClub",
       "type": "BEP20",
@@ -2490,41 +2425,6 @@
           "name": "x",
           "url": "https://x.com/LightningDeFi"
         }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x039cB485212f996A9DBb85A9a75d898F94d38dA6",
-      "name": "DeXe (Old)",
-      "type": "BEP20",
-      "symbol": "DEXE",
-      "decimals": 18,
-      "website": "https://dexe.network/",
-      "description": "DeXe Protocol is a decentralized suite of permissionless tools for managing assets, products, and communities governed by $DEXE holders within",
-      "explorer": "https://bscscan.com/token/0x039cb485212f996a9dbb85a9a75d898f94d38da6",
-      "id": "0x039cB485212f996A9DBb85A9a75d898F94d38dA6",
-      "status": "active",
-      "links": [
-        {
-          "name": "github",
-          "url": "https://github.com/dexe-network/DeXe-Protocol"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/DexeNetwork"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/dexe/"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/dexe_network_official_chat"
-        }
-      ],
-      "tags": [
-        "governance",
-        "defi"
       ],
       "chainId": 56
     },
@@ -6613,6 +6513,27 @@
       "chainId": 56
     },
     {
+      "address": "0x2f03F417496c956E64fd0B3D9323f0619D26f788",
+      "symbol": "Cheese-LP",
+      "decimals": 18,
+      "name": "CheeseSwap LPs",
+      "chainId": 56
+    },
+    {
+      "address": "0xe05207A432f6B06Fe9f78B598c1f890b260Dec45",
+      "symbol": "Cheese-LP",
+      "decimals": 18,
+      "name": "CheeseSwap LPs",
+      "chainId": 56
+    },
+    {
+      "address": "0xe2BfDc2e02B9A8AA5Aa0EcAB17e115e1e742b834",
+      "symbol": "Cheese-LP",
+      "decimals": 18,
+      "name": "CheeseSwap LPs",
+      "chainId": 56
+    },
+    {
       "address": "0x1382A2Fd1b9F5607D956b68491babA00e21bE472",
       "name": "Bamboo",
       "website": "https://pinkpanda.io",
@@ -8288,19 +8209,6 @@
           "url": "https://coinmarketcap.com/currencies/hodl-finance/"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x189b0199c9ACE4C9C0e3Ae36d417c81609Bc4444",
-      "name": "SCAM United Stable",
-      "type": "BEP20",
-      "symbol": "SCAM U",
-      "decimals": 18,
-      "description": "This token is malicious do not interact",
-      "website": "https://bscscan.com/token/0x189b0199c9ACE4C9C0e3Ae36d417c81609Bc4444",
-      "explorer": "https://bscscan.com/token/0x189b0199c9ACE4C9C0e3Ae36d417c81609Bc4444",
-      "status": "spam",
-      "id": "0x189b0199c9ACE4C9C0e3Ae36d417c81609Bc4444",
       "chainId": 56
     },
     {
@@ -10205,19 +10113,6 @@
       "explorer": "https://bscscan.com/token/0x1e5F009d4f8cA44b5FcC4963dD301Da82b4eed09",
       "status": "active",
       "id": "0x1e5F009d4f8cA44b5FcC4963dD301Da82b4eed09",
-      "chainId": 56
-    },
-    {
-      "address": "0x1e7045bF57d7316069AC248f1939E4Df8AFd4444",
-      "name": "FAKE United Stables",
-      "type": "BEP20",
-      "symbol": "FAKE U",
-      "decimals": 18,
-      "description": "This token is malicious do not interact",
-      "website": "https://bscscan.com/token/0x1e7045bF57d7316069AC248f1939E4Df8AFd4444",
-      "explorer": "https://bscscan.com/token/0x1e7045bF57d7316069AC248f1939E4Df8AFd4444",
-      "status": "spam",
-      "id": "0x1e7045bF57d7316069AC248f1939E4Df8AFd4444",
       "chainId": 56
     },
     {
@@ -15961,13 +15856,6 @@
       "tags": [
         "staking"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x333e86B615A8DC2B9aF02901f029f3A805517C94",
-      "symbol": "001",
-      "decimals": 18,
-      "name": "001",
       "chainId": 56
     },
     {
@@ -24604,36 +24492,6 @@
       "chainId": 56
     },
     {
-      "address": "0x53c17Ecaa2C662cff7C380729c7E9f7989280b2A",
-      "name": "WINPRO",
-      "type": "BEP20",
-      "symbol": "WPT",
-      "decimals": 18,
-      "website": "https://winprotoken.io/",
-      "description": "Winpro (WPT) is a digital asset designed to revolutionize the sports and entertainment industries through blockchain technology. By leveraging the",
-      "explorer": "https://bscscan.com/token/0x53c17Ecaa2C662cff7C380729c7E9f7989280b2A",
-      "status": "spam",
-      "id": "0x53c17Ecaa2C662cff7C380729c7E9f7989280b2A",
-      "links": [
-        {
-          "name": "github",
-          "url": "https://github.com/Winprotoken"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/Winprotoken"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/vrtrinity/"
-        }
-      ],
-      "tags": [
-        "defi"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x5419291D81C68c103363E06046F40a9056ab2B7f",
       "name": "DogeZoo",
       "website": "https://dogezoo.com/",
@@ -28198,19 +28056,6 @@
       "chainId": 56
     },
     {
-      "address": "0x5fE14597f02d58bE66E399f7389E2eD66F5c4444",
-      "name": "FAKE United Stables",
-      "type": "BEP20",
-      "symbol": "FAKE U",
-      "decimals": 18,
-      "description": "This token is malicious do not interact",
-      "website": "https://bscscan.com/token/0x5fE14597f02d58bE66E399f7389E2eD66F5c4444",
-      "explorer": "https://bscscan.com/token/0x5fE14597f02d58bE66E399f7389E2eD66F5c4444",
-      "status": "spam",
-      "id": "0x5fE14597f02d58bE66E399f7389E2eD66F5c4444",
-      "chainId": 56
-    },
-    {
       "address": "0x5fE80d2CD054645b9419657d3d10d26391780A7B",
       "name": "MCB",
       "website": "https://mcdex.io",
@@ -30685,19 +30530,6 @@
       "chainId": 56
     },
     {
-      "address": "0x698Ef24be9D5b898BbB9d5a583A8c525B8c84444",
-      "name": "FAKE United Stables",
-      "type": "BEP20",
-      "symbol": "FAKE U",
-      "decimals": 18,
-      "description": "This token is malicious do not interact",
-      "website": "https://bscscan.com/token/0x698Ef24be9D5b898BbB9d5a583A8c525B8c84444",
-      "explorer": "https://bscscan.com/token/0x698Ef24be9D5b898BbB9d5a583A8c525B8c84444",
-      "status": "spam",
-      "id": "0x698Ef24be9D5b898BbB9d5a583A8c525B8c84444",
-      "chainId": 56
-    },
-    {
       "address": "0x69C2fcAe7e30b429166BD616A322e32BeC036bCf",
       "name": "MuratiAI",
       "type": "BEP20",
@@ -31896,19 +31728,6 @@
       "tags": [
         "defi"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x6c3e8c948bDdE791f4261AC9887cC53B18174444",
-      "name": "FAKE United Stables",
-      "type": "BEP20",
-      "symbol": "FAKE U",
-      "decimals": 18,
-      "description": "This token is malicious do not interact",
-      "website": "https://bscscan.com/token/0x6c3e8c948bDdE791f4261AC9887cC53B18174444",
-      "explorer": "https://bscscan.com/token/0x6c3e8c948bDdE791f4261AC9887cC53B18174444",
-      "status": "spam",
-      "id": "0x6c3e8c948bDdE791f4261AC9887cC53B18174444",
       "chainId": 56
     },
     {
@@ -38394,19 +38213,6 @@
       "chainId": 56
     },
     {
-      "address": "0x85A0264de971FD7EA2c87D39dD778F957E904444",
-      "name": "FAKE United Stables",
-      "type": "BEP20",
-      "symbol": "FAKE 良心U",
-      "decimals": 18,
-      "description": "This token is malicious do not interact",
-      "website": "https://bscscan.com/token/0x85A0264de971FD7EA2c87D39dD778F957E904444",
-      "explorer": "https://bscscan.com/token/0x85A0264de971FD7EA2c87D39dD778F957E904444",
-      "status": "spam",
-      "id": "0x85A0264de971FD7EA2c87D39dD778F957E904444",
-      "chainId": 56
-    },
-    {
       "address": "0x85EE8e3E0068EdeeEE960979958d7F61416a9d84",
       "name": "Story",
       "website": "https://storytoken.app",
@@ -40827,19 +40633,6 @@
       "tags": [
         "stablecoin"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x8d13daD81e66d55aEE6320BcBdB3a355fC804444",
-      "name": "FAKE United Stables",
-      "type": "BEP20",
-      "symbol": "FAKE U",
-      "decimals": 18,
-      "description": "This token is malicious do not interact",
-      "website": "https://bscscan.com/token/0x8d13daD81e66d55aEE6320BcBdB3a355fC804444",
-      "explorer": "https://bscscan.com/token/0x8d13daD81e66d55aEE6320BcBdB3a355fC804444",
-      "status": "spam",
-      "id": "0x8d13daD81e66d55aEE6320BcBdB3a355fC804444",
       "chainId": 56
     },
     {
@@ -47460,22 +47253,6 @@
           "url": "https://coinmarketcap.com/currencies/bondx/"
         }
       ],
-      "tags": [
-        "memes"
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xAaBb6066809a1B25e34Da5D130A84A15b47FDCD0",
-      "name": "4",
-      "type": "BEP20",
-      "symbol": "4",
-      "decimals": 18,
-      "description": "https://x.com/blockRambo/status/1892099794988040512",
-      "website": "https://gmgn.ai/bsc/token/2rOJVwau_0xaabb6066809a1b25e34da5d130a84a15b47fdcd0",
-      "explorer": "https://bscscan.com/token/0xaabb6066809a1b25e34da5d130a84a15b47fdcd0",
-      "id": "0xAaBb6066809a1B25e34Da5D130A84A15b47FDCD0",
-      "status": "active",
       "tags": [
         "memes"
       ],
@@ -64135,19 +63912,6 @@
       "chainId": 56
     },
     {
-      "address": "0xcb74695a4343dEa214CE9C31d40D59c6f6304444",
-      "name": "FAKE United Stables",
-      "type": "BEP20",
-      "symbol": "FAKE U",
-      "decimals": 18,
-      "description": "This token is malicious do not interact",
-      "website": "https://bscscan.com/token/0xcb74695a4343dEa214CE9C31d40D59c6f6304444",
-      "explorer": "https://bscscan.com/token/0xcb74695a4343dEa214CE9C31d40D59c6f6304444",
-      "status": "spam",
-      "id": "0xcb74695a4343dEa214CE9C31d40D59c6f6304444",
-      "chainId": 56
-    },
-    {
       "address": "0xcbcCf14B051947BDcd1E20b77015208a1AD5EA25",
       "name": "Promise",
       "type": "BEP20",
@@ -64942,25 +64706,6 @@
       "chainId": 56
     },
     {
-      "address": "0xd533fa739d24871108cD868064b71D9c705a5126",
-      "name": "Beers",
-      "type": "BEP20",
-      "symbol": "BEER",
-      "decimals": 18,
-      "description": "EURO 2024 is a vibrant crypto community that celebrates football, camaraderie, and the love of the game.",
-      "website": "https://uefaeuro2024.top/",
-      "explorer": "https://bscscan.com/token/0xd533fa739d24871108cD868064b71D9c705a5126",
-      "id": "0xd533fa739d24871108cD868064b71D9c705a5126",
-      "status": "spam",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/euro2024Beers"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xd5369a3CaC0f4448A9A96bb98AF9c887c92fC37B",
       "name": "Bubb",
       "type": "BEP20",
@@ -65574,19 +65319,6 @@
       "chainId": 56
     },
     {
-      "address": "0xd9dF708C6BF28A94251356852e27490d20f74444",
-      "name": "FAKE United Stables",
-      "type": "BEP20",
-      "symbol": "FAKE U",
-      "decimals": 18,
-      "description": "This token is malicious do not interact",
-      "website": "https://bscscan.com/token/0xd9dF708C6BF28A94251356852e27490d20f74444",
-      "explorer": "https://bscscan.com/token/0xd9dF708C6BF28A94251356852e27490d20f74444",
-      "status": "spam",
-      "id": "0xd9dF708C6BF28A94251356852e27490d20f74444",
-      "chainId": 56
-    },
-    {
       "address": "0xdA0638EA374c4c5bF2914E6F4D5B2335dEb8D80D",
       "name": "GBANK APY",
       "type": "BEP20",
@@ -65709,19 +65441,6 @@
       "explorer": "https://bscscan.com/token/0xdB29192Fc2B487BB5185e155752328d4f249743C",
       "status": "active",
       "id": "0xdB29192Fc2B487BB5185e155752328d4f249743C",
-      "chainId": 56
-    },
-    {
-      "address": "0xdB66A10d99501034D8680E02B38Dd69076904444",
-      "name": "FAKE United Stables",
-      "type": "BEP20",
-      "symbol": "FAKE U",
-      "decimals": 18,
-      "description": "This token is malicious do not interact",
-      "website": "https://bscscan.com/token/0xdB66A10d99501034D8680E02B38Dd69076904444",
-      "explorer": "https://bscscan.com/token/0xdB66A10d99501034D8680E02B38Dd69076904444",
-      "status": "spam",
-      "id": "0xdB66A10d99501034D8680E02B38Dd69076904444",
       "chainId": 56
     },
     {
@@ -68693,29 +68412,6 @@
       "decimals": 18,
       "status": "active",
       "id": "0xf0AB4b8Daa51F6Abf6b4C9FEf0ccA5d127029AA9",
-      "chainId": 56
-    },
-    {
-      "address": "0xf0C99B0288508D004F4aBeCa34d830CE7682977C",
-      "name": "GameStop Coin",
-      "symbol": "GME",
-      "type": "BEP20",
-      "decimals": 18,
-      "description": "Power to the GameStop, Stop Wall St.",
-      "website": "https://gamestopcoin.net/",
-      "explorer": "https://bscscan.com/token/0xf0C99B0288508D004F4aBeCa34d830CE7682977C",
-      "status": "spam",
-      "id": "0xf0C99B0288508D004F4aBeCa34d830CE7682977C",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/GameStopfun"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/gamestopcoin-net/"
-        }
-      ],
       "chainId": 56
     },
     {

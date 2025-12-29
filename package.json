@@ -1,6 +1,7 @@
 {
   "name": "assets",
   "version": "1.0.0",
+  "private": true,
   "description": "CheeseSwap listed tokens",
   "main": "index.js",
   "scripts": {
@@ -8,7 +9,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "web3": "^1.10.4"
   }
