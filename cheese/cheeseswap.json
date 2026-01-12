@@ -291,7 +291,7 @@
       "symbol": "SCOTTY",
       "decimals": 18,
       "website": "https://scottybeam.io/",
-      "description": "Scotty Beam is the world's first cross-chain NFT platform – here to help cryptonians move NFTs across blockchain galaxies; exchange",
+      "description": "Scotty Beam is the world's first cross-chain NFT platform \u2013 here to help cryptonians move NFTs across blockchain galaxies; exchange",
       "explorer": "https://bscscan.com/token/0x000351d035d8bbf2aa3131ebfecd66fb21836f6c",
       "status": "active",
       "id": "0x000351d035D8BBf2aa3131EbFECD66Fb21836f6c",
@@ -361,7 +361,7 @@
       "symbol": "SHEEP",
       "decimals": 9,
       "website": "https://SheepToken.Cash/",
-      "description": "Sheep Token is a deflationary token that allows for passive income generation for investors. Here’s how it works. 6% on",
+      "description": "Sheep Token is a deflationary token that allows for passive income generation for investors. Here\u2019s how it works. 6% on",
       "explorer": "https://bscscan.com/token/0x0025B42bfc22CbbA6c02d23d4Ec2aBFcf6E014d4",
       "status": "active",
       "id": "0x0025B42bfc22CbbA6c02d23d4Ec2aBFcf6E014d4",
@@ -429,19 +429,6 @@
         "gamefi",
         "deflationary"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x00aa85e010204068b7CC2235800B2d8036bdbF2E",
-      "name": "Simple Cool Autommatic Money",
-      "website": "https://scamily.io/token",
-      "description": "SCAM is the native token for the project Simple.",
-      "explorer": "https://bscscan.com/token/0x00aa85e010204068b7CC2235800B2d8036bdbF2E",
-      "type": "BEP20",
-      "symbol": "SCAM",
-      "decimals": 10,
-      "status": "active",
-      "id": "0x00aa85e010204068b7CC2235800B2d8036bdbF2E",
       "chainId": 56
     },
     {
@@ -869,13 +856,6 @@
       "decimals": 18,
       "status": "active",
       "id": "0x0288D3E353fE2299F11eA2c2e1696b4A648eCC07",
-      "chainId": 56
-    },
-    {
-      "address": "0x028a81F741E1DD0AEf8524D5864eDa461Bb78d24",
-      "symbol": "MANC",
-      "decimals": 2,
-      "name": "THE MANC COIN",
       "chainId": 56
     },
     {
@@ -1449,7 +1429,7 @@
       "address": "0x6FDcdfef7c496407cCb0cEC90f9C5Aaa1Cc8D888",
       "name": "VeChain",
       "website": "https://vechain.org",
-      "description": "VeChain is the world’s leading blockchain platform offering Blockchain-as-a-Service to enterprises for products and information. VeChain strives to build a",
+      "description": "VeChain is the world\u2019s leading blockchain platform offering Blockchain-as-a-Service to enterprises for products and information. VeChain strives to build a",
       "explorer": "https://bscscan.com/token/0x6FDcdfef7c496407cCb0cEC90f9C5Aaa1Cc8D888",
       "research": "https://research.binance.com/en/projects/vechain",
       "symbol": "VET",
@@ -2474,7 +2454,7 @@
       "address": "0x03C580eecf2c36Ab8a77a71d56d867EcD495552D",
       "name": "NUKE",
       "website": "https://nukewars.io",
-      "description": "Nuke Wars is an NFT-based Metaverse game on the Binance Smart Chain, powered by radioactive deflation. In Nuke’s universe tokens",
+      "description": "Nuke Wars is an NFT-based Metaverse game on the Binance Smart Chain, powered by radioactive deflation. In Nuke\u2019s universe tokens",
       "explorer": "https://bscscan.com/token/0x03c580eecf2c36ab8a77a71d56d867ecd495552d",
       "type": "BEP20",
       "symbol": "NUKE",
@@ -2671,7 +2651,7 @@
       "address": "0x043b49749e0016E965600d502E2177cA2d95B3d9",
       "name": "Radio Caca Token",
       "website": "https://www.radiocaca.com/",
-      "description": "Radio Caca is the payment token for NFTs. Radio Caca (as “RACA”), is expected to gain rapid worldwide adoption in",
+      "description": "Radio Caca is the payment token for NFTs. Radio Caca (as \u201cRACA\u201d), is expected to gain rapid worldwide adoption in",
       "explorer": "https://bscscan.com/token/0x043b49749e0016E965600d502E2177cA2d95B3d9",
       "type": "BEP20",
       "symbol": "RACA",
@@ -3218,7 +3198,7 @@
       "symbol": "PAWS",
       "decimals": 9,
       "website": "https://animaladoptionadvocacy.com/",
-      "description": "PAWS’ Primary goal is to help streamline the donations towards animal shelters, conservation, and charities through a centralized platform that",
+      "description": "PAWS\u2019 Primary goal is to help streamline the donations towards animal shelters, conservation, and charities through a centralized platform that",
       "explorer": "https://bscscan.com/token/0x066fc8DD5955534A01a9f892314c9B01b59A9C11",
       "status": "active",
       "id": "0x066fc8DD5955534A01a9f892314c9B01b59A9C11",
@@ -3591,7 +3571,7 @@
       "symbol": "DATA",
       "decimals": 18,
       "website": "https://streamr.network",
-      "description": "Streamr is a decentralized real‑time data network for web3. Create, share and consume data streams on an open, scalable P2P",
+      "description": "Streamr is a decentralized real\u2011time data network for web3. Create, share and consume data streams on an open, scalable P2P",
       "explorer": "https://bscscan.com/token/0x0864c156b3C5F69824564dEC60c629aE6401bf2a",
       "status": "active",
       "id": "0x0864c156b3C5F69824564dEC60c629aE6401bf2a",
@@ -3800,19 +3780,6 @@
           "url": "https://coinmarketcap.com/currencies/ishares-core-us-aggregate-bond-tokenized-etf-ondo"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x0901d1aca07aa728df1C45a29a90b86552909538",
-      "name": "Ethereum SV",
-      "website": "https://ethereumsv.com",
-      "description": "EthereumSV Protocol on Binance Smart Chain",
-      "explorer": "https://bscscan.com/token/0x0901d1aca07aa728df1C45a29a90b86552909538",
-      "symbol": "ETHSV",
-      "type": "BEP20",
-      "decimals": 0,
-      "status": "active",
-      "id": "0x0901d1aca07aa728df1C45a29a90b86552909538",
       "chainId": 56
     },
     {
@@ -4057,19 +4024,6 @@
       "chainId": 56
     },
     {
-      "address": "0x09F956f1E0C28f0b436663D44e0830B7853203d4",
-      "name": "SHIBA KILLER",
-      "website": "https://shibakiller.org",
-      "description": "SHIBA KILLER is Memes Token",
-      "explorer": "https://bscscan.com/token/0x09F956f1E0C28f0b436663D44e0830B7853203d4",
-      "symbol": "SHIBK",
-      "type": "BEP20",
-      "decimals": 0,
-      "status": "active",
-      "id": "0x09F956f1E0C28f0b436663D44e0830B7853203d4",
-      "chainId": 56
-    },
-    {
       "address": "0x09a6c44c3947B69E2B45F4D51b67E6a39ACfB506",
       "name": "UniCrypt",
       "website": "https://unicrypt.network",
@@ -4255,7 +4209,7 @@
       "address": "0x0C37Bcf456bC661C14D596683325623076D7e283",
       "name": "Aeron",
       "website": "https://aeron.aero",
-      "description": "Aeron – blockchain solutions for aviation safety.",
+      "description": "Aeron \u2013 blockchain solutions for aviation safety.",
       "explorer": "https://bscscan.com/token/0x0C37Bcf456bC661C14D596683325623076D7e283",
       "research": "https://research.binance.com/en/projects/aeron",
       "type": "BEP20",
@@ -4348,7 +4302,7 @@
       "symbol": "Cheems",
       "decimals": 18,
       "website": "https://cheems.pet/",
-      "description": "“Cheems” is the lord of memes, a small, pitiful, helpless Shiba Inu.",
+      "description": "\u201cCheems\u201d is the lord of memes, a small, pitiful, helpless Shiba Inu.",
       "explorer": "https://bscscan.com/token/0x0df0587216a4a1bb7d5082fdc491d93d2dd4b413",
       "status": "active",
       "id": "0x0DF0587216a4a1bB7d5082fdc491d93d2dD4B413",
@@ -4364,7 +4318,7 @@
       "address": "0x0DFCb45EAE071B3b846E220560Bbcdd958414d78",
       "name": "Libero Financial Freedom (LIBERO)",
       "website": "https://libero.financial/",
-      "description": "Libero Finance is transforming DeFi with the Libero Autostaking Protocol (LAP) that delivers the industry’s fixed APY, compounding rewards every",
+      "description": "Libero Finance is transforming DeFi with the Libero Autostaking Protocol (LAP) that delivers the industry\u2019s fixed APY, compounding rewards every",
       "explorer": "https://bscscan.com/token/0x0DFCb45EAE071B3b846E220560Bbcdd958414d78",
       "type": "BEP20",
       "symbol": "LIBERO",
@@ -4555,19 +4509,6 @@
           "url": "https://t.me/greenheart_cbd"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x0E65834a4092B10EcE3C9290b256F0Df83F71C6c",
-      "name": "MoonBitcoin",
-      "website": "https://mbitcoin.cc/",
-      "description": "mBitcoin - Yield farm Bitcoin on Binance Smart Chain",
-      "explorer": "https://bscscan.com/token/0x0E65834a4092B10EcE3C9290b256F0Df83F71C6c",
-      "type": "BEP20",
-      "symbol": "mBTC",
-      "decimals": 0,
-      "status": "active",
-      "id": "0x0E65834a4092B10EcE3C9290b256F0Df83F71C6c",
       "chainId": 56
     },
     {
@@ -4793,7 +4734,7 @@
       "symbol": "PERL",
       "type": "BEP20",
       "decimals": 18,
-      "description": "PerlinX — democratizing the trading of real-world assets through decentralized liquidity pools and synthetic asset generation.",
+      "description": "PerlinX \u2014 democratizing the trading of real-world assets through decentralized liquidity pools and synthetic asset generation.",
       "website": "https://perlinx.finance",
       "explorer": "https://bscscan.com/token/0x0f9e4d49f25de22c2202af916b681fbb3790497b",
       "status": "active",
@@ -6213,7 +6154,7 @@
       "address": "0x12819623921Be0F4d5ebfC12C75E6D08a1683080",
       "name": "Broccoli",
       "website": "https://broccolibsc.com/",
-      "description": "Changpeng Zhao, the founder of Binance, revealed his dog’s name in an X post, sparking a wave of memecoins named",
+      "description": "Changpeng Zhao, the founder of Binance, revealed his dog\u2019s name in an X post, sparking a wave of memecoins named",
       "explorer": "https://bscscan.com/token/0x12819623921be0f4d5ebfc12c75e6d08a1683080",
       "type": "BEP20",
       "symbol": "Broccoli",
@@ -6322,7 +6263,7 @@
       "address": "0x12B4356C65340Fb02cdff01293F95FEBb1512F3b",
       "name": "Broccoli",
       "website": "https://cointelegraph.com/news/cz-dog-name-broccoli-memecoin-frenzy",
-      "description": "Changpeng Zhao, the founder of Binance, revealed his dog’s name in an X post, sparking a wave of memecoins named",
+      "description": "Changpeng Zhao, the founder of Binance, revealed his dog\u2019s name in an X post, sparking a wave of memecoins named",
       "explorer": "https://bscscan.com/token/0x12B4356C65340Fb02cdff01293F95FEBb1512F3b",
       "type": "BEP20",
       "symbol": "Broccoli",
@@ -6357,7 +6298,7 @@
       "address": "0x12BB890508c125661E03b09EC06E404bc9289040",
       "name": "Radio Caca V2",
       "website": "https://www.radiocaca.com",
-      "description": "Radio Caca is the payment token for NFTs. Radio Caca (as “RACA”), is expected to gain rapid worldwide adoption in",
+      "description": "Radio Caca is the payment token for NFTs. Radio Caca (as \u201cRACA\u201d), is expected to gain rapid worldwide adoption in",
       "explorer": "https://bscscan.com/token/0x12BB890508c125661E03b09EC06E404bc9289040",
       "type": "BEP20",
       "symbol": "RACA",
@@ -6913,7 +6854,7 @@
       "address": "0x1476e96FAdb37668d7680921297e2ab98Ec36c2F",
       "name": "Floki Rocket",
       "website": "https://flokirocket.finance/",
-      "description": "Alongside our limited edition NFT’s, Floki Rocket is a low tax reward token which has been designed to generously reward",
+      "description": "Alongside our limited edition NFT\u2019s, Floki Rocket is a low tax reward token which has been designed to generously reward",
       "explorer": "https://bscscan.com/token/0x1476e96FAdb37668d7680921297e2ab98Ec36c2F",
       "type": "BEP20",
       "symbol": "RLOKI",
@@ -7093,13 +7034,6 @@
           "url": "https://x.com/DungeonSwap"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x14e90E5d7884b03aB2d57266a4A4b2272c73aCbb",
-      "symbol": "MMFT",
-      "decimals": 0,
-      "name": "ModMarketFX Token",
       "chainId": 56
     },
     {
@@ -7551,7 +7485,7 @@
       "symbol": "BART",
       "decimals": 9,
       "website": "https://bart-coin.com/",
-      "description": "BART, the memecoin deployed on the Binance Smart Chain (BSC) that pays homage to everyone’s favorite mischievous cartoon character.",
+      "description": "BART, the memecoin deployed on the Binance Smart Chain (BSC) that pays homage to everyone\u2019s favorite mischievous cartoon character.",
       "explorer": "https://bscscan.com/token/0x16e79e09b3b56bcbba83667aff88dc6ca727af2e",
       "status": "active",
       "id": "0x16E79E09b3B56BCBBA83667aFf88dc6ca727Af2e",
@@ -7961,7 +7895,7 @@
       "address": "0x17FEa92CA2e7570d07b63ecD6B698e01386555A4",
       "name": "COXSWAP",
       "website": "https://coxswap.com/",
-      "description": "COXSWAP - Decentralized Exchange – DEX. Trade, farming, staking, earn more token .",
+      "description": "COXSWAP - Decentralized Exchange \u2013 DEX. Trade, farming, staking, earn more token .",
       "explorer": "https://bscscan.com/token/0x17FEa92CA2e7570d07b63ecD6B698e01386555A4",
       "type": "BEP20",
       "symbol": "COX",
@@ -9236,19 +9170,6 @@
       "chainId": 56
     },
     {
-      "address": "0x1E6baC0b134259BFE91552954D86513bA2B6E9B9",
-      "name": "Shark Stake",
-      "type": "BEP20",
-      "symbol": "Shark",
-      "decimals": 0,
-      "website": "http://sharkstake.finance/",
-      "description": "Shark Stake Finance smart contract generates of the stake amount daily and guarantees a final profit.",
-      "explorer": "https://bscscan.com/token/0x1E6baC0b134259BFE91552954D86513bA2B6E9B9",
-      "status": "active",
-      "id": "0x1E6baC0b134259BFE91552954D86513bA2B6E9B9",
-      "chainId": 56
-    },
-    {
       "address": "0x1F01Dc57C66C2f87D8eab9C625D335e9defE6912",
       "name": "Wrapped ZCore",
       "website": "https://zcore.network",
@@ -9293,37 +9214,6 @@
       "tags": [
         "gamefi",
         "nft"
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x1F2Cfde19976A2bF0A250900f7aCe9c362908C93",
-      "name": "AZ World SocialFi ",
-      "website": "https://azworld.network",
-      "description": "AZ World - The First SocialFi To Earn on BSC",
-      "explorer": "https://bscscan.com/token/0x1F2Cfde19976A2bF0A250900f7aCe9c362908C93",
-      "type": "BEP20",
-      "symbol": "AZW",
-      "decimals": 5,
-      "status": "active",
-      "id": "0x1F2Cfde19976A2bF0A250900f7aCe9c362908C93",
-      "links": [
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/az-world/"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/azworld_network"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/azworld_global"
-        }
-      ],
-      "tags": [
-        "Play To Earn",
-        "Social Networking"
       ],
       "chainId": 56
     },
@@ -9397,37 +9287,6 @@
       "chainId": 56
     },
     {
-      "address": "0x1F5d9fFAFa57604Ae2A43cebAdEcC175DF2F069e",
-      "name": "InfinitX",
-      "type": "BEP20",
-      "symbol": "INX",
-      "decimals": 4,
-      "website": "https://infinitx.io/",
-      "description": "InfinitX is a rebase token that also rewards in XRP.",
-      "explorer": "https://bscscan.com/token/0x1f5d9ffafa57604ae2a43cebadecc175df2f069e",
-      "status": "active",
-      "id": "0x1F5d9fFAFa57604Ae2A43cebAdEcC175DF2F069e",
-      "links": [
-        {
-          "name": "github",
-          "url": "https://github.com/InfinitXToken"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/infinitX_bsc"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/infinitx_token"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/infinitx/"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x1F7e8fe01AEbA6fDAEA85161746f4D53DC9bdA4F",
       "name": "GG TOKEN",
       "type": "BEP20",
@@ -9470,33 +9329,6 @@
       "id": "0x1F82a9b541FE4C322B5cd81DCB066620D57de35C",
       "tags": [
         "deflationary"
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x1F878d0BccD3D502ff55F7a4797C556f103d6e4b",
-      "name": "Squidanomics",
-      "type": "BEP20",
-      "symbol": "SQUID",
-      "decimals": 4,
-      "website": "https://squidanomics.xyz",
-      "description": "Bringing Squid Game to life through gaming, NFTs and community prizes!",
-      "explorer": "https://bscscan.com/token/0x1F878d0BccD3D502ff55F7a4797C556f103d6e4b",
-      "status": "active",
-      "id": "0x1F878d0BccD3D502ff55F7a4797C556f103d6e4b",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/Squidanomics"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/JakeYoungDev/SquidanomicsCODE"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/Squidanomics"
-        }
       ],
       "chainId": 56
     },
@@ -9571,19 +9403,6 @@
       "tags": [
         "nft"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x1FF2a2c2DEAdb17B6Ba9949393d1406f4c61BFC9",
-      "name": "VanCat Egg Token",
-      "website": "https://www.vancategg.com",
-      "description": "VANCAT Egg Token is a subtoken of VANCAT Token and VANCAT universe. Users must have VCEGG to mint Special NFTs",
-      "explorer": "https://bscscan.com/token/0x1ff2a2c2deadb17b6ba9949393d1406f4c61bfc9",
-      "id": "0x1FF2a2c2DEAdb17B6Ba9949393d1406f4c61BFC9",
-      "symbol": "VCEGG",
-      "type": "BEP20",
-      "decimals": 0,
-      "status": "active",
       "chainId": 56
     },
     {
@@ -9834,19 +9653,6 @@
       "chainId": 56
     },
     {
-      "address": "0x1b9E14122Cb416845F0f21967f38b5c3e74De774",
-      "name": "Nebula Chain",
-      "type": "BEP20",
-      "symbol": "NEBULA",
-      "decimals": 0,
-      "website": "https://nebulachain.xyz/",
-      "description": "Nebula Chain Finance smart contract generates of the stake amount daily and guarantees a final profit.",
-      "explorer": "https://bscscan.com/token/0x1b9E14122Cb416845F0f21967f38b5c3e74De774",
-      "status": "active",
-      "id": "0x1b9E14122Cb416845F0f21967f38b5c3e74De774",
-      "chainId": 56
-    },
-    {
       "address": "0x1bA8D3C4c219B124d351F603060663BD1bcd9bbF",
       "name": "Binance-Peg TornadoCash Token",
       "website": "https://tornado.cash/",
@@ -9948,7 +9754,7 @@
       "address": "0x1cA23D55bc741366d010274553a8aeaAeFb0d583",
       "name": "Catge",
       "website": "https://catgecoin.com/",
-      "description": "The elites are ditching all cryptocurrencies in favour of the dog-meme coins. WE ARE REBELLION. CATGE is the community’s revenge",
+      "description": "The elites are ditching all cryptocurrencies in favour of the dog-meme coins. WE ARE REBELLION. CATGE is the community\u2019s revenge",
       "explorer": "https://bscscan.com/token/0x1cA23D55bc741366d010274553a8aeaAeFb0d583",
       "type": "BEP20",
       "symbol": "CATGE",
@@ -10250,7 +10056,7 @@
       "address": "0x1f8955E640Cbd9abc3C3Bb408c9E2E1f5F20DfE6",
       "name": "Ondo U.S. Dollar Token",
       "website": "https://ondo.finance/",
-      "description": "USDon is a stablecoin backed 1:1 by a US dollar in one of Global Markets’ brokerage accounts. USDon is the",
+      "description": "USDon is a stablecoin backed 1:1 by a US dollar in one of Global Markets\u2019 brokerage accounts. USDon is the",
       "explorer": "https://bscscan.com/address/0x1f8955E640Cbd9abc3C3Bb408c9E2E1f5F20DfE6",
       "type": "BEP20",
       "symbol": "USDon",
@@ -10599,7 +10405,7 @@
       "symbol": "GIGGLE",
       "decimals": 18,
       "website": "https://giggletoken.com/",
-      "description": "GiggleFund — The UNSTOPPABLE force of kindness 💛 Supporting children's education through community donations to GiggleAcademy 🎓 Built by the",
+      "description": "GiggleFund \u2014 The UNSTOPPABLE force of kindness \ud83d\udc9b Supporting children's education through community donations to GiggleAcademy \ud83c\udf93 Built by the",
       "explorer": "https://bscscan.com/token/0x20d6015660b3fe52e6690a889b5C51F69902cE0e",
       "status": "active",
       "id": "0x20d6015660b3fe52e6690a889b5C51F69902cE0e",
@@ -10777,19 +10583,6 @@
       "chainId": 56
     },
     {
-      "address": "0x21C1C22C09990c1521D1A27852BEb005f7d6601E",
-      "name": "Zbitcoin.space",
-      "website": "https://zbitcoin.space",
-      "description": "ZBITCOIN IS THE FIRST DECENTRALIZED IDO PLATFORM FOR THE BINANCE SMART CHAIN NETWORK.",
-      "explorer": "https://bscscan.com/token/0x21C1C22C09990c1521D1A27852BEb005f7d6601E",
-      "type": "BEP20",
-      "symbol": "ZBTC",
-      "decimals": 0,
-      "status": "active",
-      "id": "0x21C1C22C09990c1521D1A27852BEb005f7d6601E",
-      "chainId": 56
-    },
-    {
       "address": "0x21EA8618b9168Eb8936c3e02F0809BBE901282ac",
       "name": "SpacePort Coin",
       "website": "https://spaceport.to/",
@@ -10876,33 +10669,6 @@
       "explorer": "https://bscscan.com/token/0x221FD3FAFfd3cCab2369ffD6A24c7845674787C6",
       "status": "active",
       "id": "0x221FD3FAFfd3cCab2369ffD6A24c7845674787C6",
-      "chainId": 56
-    },
-    {
-      "address": "0x2222227E22102Fe3322098e4CBfE18cFebD57c95",
-      "name": "Alien Worlds Trilium",
-      "symbol": "TLM",
-      "type": "BEP20",
-      "decimals": 4,
-      "description": "Trilium (TLM) is the native utility token of the Alien Worlds metaverse",
-      "website": "https://alienworlds.io",
-      "explorer": "https://bscscan.com/token/0x2222227E22102Fe3322098e4CBfE18cFebD57c95",
-      "status": "active",
-      "id": "0x2222227E22102Fe3322098e4CBfE18cFebD57c95",
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/AlienWorldsOffical"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/alienworlds"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/alien-worlds/"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -11183,29 +10949,6 @@
       "chainId": 56
     },
     {
-      "address": "0x23481F4d3ac4642d2f45d014a514b45B0338b927",
-      "name": "Ulink Finance",
-      "website": "https://ulink.finance/",
-      "description": "Ulink Finance smart contracts continuously route your funds to a portfolio of the latest-and-greatest yield farming strategies.",
-      "explorer": "https://bscscan.com/token/0x23481f4d3ac4642d2f45d014a514b45b0338b927",
-      "type": "BEP20",
-      "symbol": "ULK",
-      "decimals": 0,
-      "status": "active",
-      "id": "0x23481F4d3ac4642d2f45d014a514b45B0338b927",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/UlinkFinance"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/ulink_finance"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x2363FD1235C1B6d3A5088DdF8dF3A0b3A30C5293",
       "name": "Visa tokenized stock (xStock)",
       "website": "https://assets.backed.fi/products",
@@ -11400,43 +11143,6 @@
       "chainId": 56
     },
     {
-      "address": "0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e",
-      "name": "EverRise NFT Stakes",
-      "type": "BEP20",
-      "symbol": "nftRISE",
-      "decimals": 0,
-      "website": "https://www.everrise.com/",
-      "description": "EverRise Staking NFTs are containers of Vote Escrowed (ve)EverRise weighted governance tokens. veRISE generates rewards from the auto-buyback with a",
-      "explorer": "https://bscscan.com/token/0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e",
-      "status": "active",
-      "id": "0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/everrise"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/everriseofficial"
-        },
-        {
-          "name": "discord",
-          "url": "https://discord.com/invite/everrise"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/everrise-ecosystem"
-        }
-      ],
-      "tags": [
-        "defi",
-        "staking",
-        "nft",
-        "deflationary"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x2403269d736C7a808C864bAD8c0848c2dE3E348c",
       "name": "AIRBNB",
       "website": "https://www.airbnbtoken.info",
@@ -11605,19 +11311,6 @@
           "url": "https://coinmarketcap.com/currencies/tesla-tokenized-stock-ondo"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x24C13e5Fef0157ee5BF61cD75363044927bab8cd",
-      "name": "Panther Coin",
-      "type": "BEP20",
-      "symbol": "PTC",
-      "decimals": 0,
-      "website": "https://panthercoin.net/",
-      "description": "Panther Coin is based on proof-of-stake consensus and built on Binance Smart Chain. Panther Coin Smart contract is based on",
-      "explorer": "https://bscscan.com/token/0x24C13e5Fef0157ee5BF61cD75363044927bab8cd",
-      "status": "active",
-      "id": "0x24C13e5Fef0157ee5BF61cD75363044927bab8cd",
       "chainId": 56
     },
     {
@@ -12535,32 +12228,6 @@
       "chainId": 56
     },
     {
-      "address": "0x27BB50c0927891CD21C8Db530490373d295FCBf5",
-      "name": "Bibi",
-      "type": "BEP20",
-      "symbol": "BIBI",
-      "decimals": 2,
-      "description": "Bibi is the official mascot of Binance and the Binance ecosystem. It is a cute, yellow, cube-shaped character with a",
-      "website": "https://bibi2025.xyz/",
-      "explorer": "https://bscscan.com/token/0x27BB50c0927891CD21C8Db530490373d295FCBf5",
-      "id": "0x27BB50c0927891CD21C8Db530490373d295FCBf5",
-      "status": "active",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/BIBI_bibiCTO"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/bibi-bsc/"
-        }
-      ],
-      "tags": [
-        "memes"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x27E873bee690C8E161813DE3566E9E18a64b0381",
       "name": "Leon Token",
       "website": "https://dex.leonicornswap.com",
@@ -12697,7 +12364,7 @@
       "symbol": "ALPINE",
       "decimals": 8,
       "website": "https://www.binance.com/en/fan-token/",
-      "description": "The Alpine F1® Team Fan Token is a BEP-20 utility token designed to revolutionize the fan experience for all BWT",
+      "description": "The Alpine F1\u00ae Team Fan Token is a BEP-20 utility token designed to revolutionize the fan experience for all BWT",
       "explorer": "https://bscscan.com/token/0x287880Ea252b52b63Cc5f40a2d3E5A44aa665a76",
       "status": "active",
       "id": "0x287880Ea252b52b63Cc5f40a2d3E5A44aa665a76",
@@ -12885,7 +12552,7 @@
       "address": "0x295F2122EbfCC5c38b4Bd33879A37348195b61fb",
       "name": "Thanos Token",
       "website": "https://thanostoken.finance/",
-      "description": "THANOS Token is the world’s first crypto-powered clothing marketplace, combining your NFT artworks into authentic, verified brands owned by you.",
+      "description": "THANOS Token is the world\u2019s first crypto-powered clothing marketplace, combining your NFT artworks into authentic, verified brands owned by you.",
       "explorer": "https://bscscan.com/token/0x295F2122EbfCC5c38b4Bd33879A37348195b61fb",
       "type": "BEP20",
       "symbol": "THANOS",
@@ -13080,19 +12747,6 @@
       "decimals": 9,
       "status": "active",
       "id": "0x29f920ddc62Fe53711a5c8B8FF16Fa5c75cA12A3",
-      "chainId": 56
-    },
-    {
-      "address": "0x2A0F5257F4bfE6c75cd58A14A0e7c4651E2160DE",
-      "name": "Koala Token",
-      "type": "BEP20",
-      "symbol": "MKOALA",
-      "decimals": 0,
-      "website": "https://moonkoala.finance/",
-      "description": "A Deflationary Cryptocurrency on Binance Smart Chain.",
-      "explorer": "https://bscscan.com/token/0x2A0F5257F4bfE6c75cd58A14A0e7c4651E2160DE",
-      "status": "active",
-      "id": "0x2A0F5257F4bfE6c75cd58A14A0e7c4651E2160DE",
       "chainId": 56
     },
     {
@@ -13311,7 +12965,7 @@
       "symbol": "DXT",
       "decimals": 9,
       "website": "https://dexit.finance",
-      "description": "DEXIT planning to Build world’s most advanced cryptocurrency exchange. Combining the speed and features of a centralized exchange with the",
+      "description": "DEXIT planning to Build world\u2019s most advanced cryptocurrency exchange. Combining the speed and features of a centralized exchange with the",
       "explorer": "https://bscscan.com/token/0x2B2fF80c489dad868318a19FD6F258889a026da5",
       "status": "active",
       "id": "0x2B2fF80c489dad868318a19FD6F258889a026da5",
@@ -13437,7 +13091,7 @@
       "symbol": "DISC",
       "decimals": 18,
       "website": "https://discas.vision/",
-      "description": "DisCas Vision is the world’s first and only decentralized platform, built on blockchain technology and smart contracts. We unite governments,",
+      "description": "DisCas Vision is the world\u2019s first and only decentralized platform, built on blockchain technology and smart contracts. We unite governments,",
       "explorer": "https://bscscan.com/token/0x2BCDCf1ef1320Fc5F9a71CA0BD1504D6125F7569",
       "status": "active",
       "id": "0x2BCDCf1ef1320Fc5F9a71CA0BD1504D6125F7569",
@@ -13836,7 +13490,7 @@
       "symbol": "APX",
       "decimals": 18,
       "website": "https://apextoken.io/",
-      "description": "A Token on mission to become a Crypto Index on the market.ApexToken is the World’s 1st Multi Crypto Trading Platform",
+      "description": "A Token on mission to become a Crypto Index on the market.ApexToken is the World\u2019s 1st Multi Crypto Trading Platform",
       "explorer": "https://bscscan.com/token/0x2E8138054D64917703Af28D81629499318a047FA",
       "status": "active",
       "id": "0x2E8138054D64917703Af28D81629499318a047FA",
@@ -14051,7 +13705,7 @@
       "address": "0x2a5eB92f6a410AC0BB38D92C13DA934bD68EF24E",
       "name": "Tiny Titans V3",
       "website": "https://tinytitans.fi",
-      "description": "World of Tiny Titans. Tiny Titans — collectable & tradeable NFTs on BSC which you can train, level and earn",
+      "description": "World of Tiny Titans. Tiny Titans \u2014 collectable & tradeable NFTs on BSC which you can train, level and earn",
       "links": [
         {
           "name": "x",
@@ -14206,7 +13860,7 @@
       "symbol": "SMD",
       "decimals": 10,
       "website": "https://smdcoin.com",
-      "description": "SMD COIN is the world’s first integrated platform, providing Coins Staking, Yield Farming and Self-Holding. SMD COIN provides customers with",
+      "description": "SMD COIN is the world\u2019s first integrated platform, providing Coins Staking, Yield Farming and Self-Holding. SMD COIN provides customers with",
       "explorer": "https://bscscan.com/token/0x2b31b83D2a960d648e9c8d3B84dF5452c80aB947",
       "status": "active",
       "id": "0x2b31b83D2a960d648e9c8d3B84dF5452c80aB947",
@@ -14224,19 +13878,6 @@
           "url": "https://coinmarketcap.com/currencies/smd-coin"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x2b974da27C9DD35412d71Dd36e3e108486c45444",
-      "name": "CryptoZ eXPerience",
-      "website": "https://bsc.cryptoz.cards",
-      "description": "CZXP unlock higher level NFT minting from the Cryptoz store, and are generated through the sacrifice of Cryptoz NFT tokens",
-      "explorer": "https://bscscan.com/token/0x2b974da27C9DD35412d71Dd36e3e108486c45444",
-      "type": "BEP20",
-      "symbol": "CZXP",
-      "decimals": 0,
-      "status": "active",
-      "id": "0x2b974da27C9DD35412d71Dd36e3e108486c45444",
       "chainId": 56
     },
     {
@@ -14341,13 +13982,13 @@
     },
     {
       "address": "0x2cD1075682b0FCCaADd0Ca629e138E64015Ba11c",
-      "name": "τBitcoin",
+      "name": "\u03c4Bitcoin",
       "website": "https://btcst.finance/",
-      "short_description": "τBitcoin is a synthetic Bitcoin supported by some of the largest miners in the world.",
-      "description": "τBitcoin is a synthetic Bitcoin supported by some of the largest miners in the world. Implementing the τ protocol, τBitcoin",
+      "short_description": "\u03c4Bitcoin is a synthetic Bitcoin supported by some of the largest miners in the world.",
+      "description": "\u03c4Bitcoin is a synthetic Bitcoin supported by some of the largest miners in the world. Implementing the \u03c4 protocol, \u03c4Bitcoin",
       "explorer": "https://bscscan.com/token/0x2cd1075682b0fccaadd0ca629e138e64015ba11c",
       "type": "BEP20",
-      "symbol": "τBTC",
+      "symbol": "\u03c4BTC",
       "decimals": 9,
       "status": "active",
       "id": "0x2cD1075682b0FCCaADd0Ca629e138E64015Ba11c",
@@ -14720,36 +14361,6 @@
       "chainId": 56
     },
     {
-      "address": "0x2f0c6e147974BfbF7Da557b88643D74C324053A2",
-      "name": "Catcoin Token V2",
-      "type": "BEP20",
-      "symbol": "CATS",
-      "decimals": 0,
-      "website": "https://www.catcoincrypto.me/",
-      "description": "World's Best Community Driven Coin",
-      "explorer": "https://bscscan.com/token/0x2f0c6e147974BfbF7Da557b88643D74C324053A2",
-      "status": "active",
-      "id": "0x2f0c6e147974BfbF7Da557b88643D74C324053A2",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/catcoinbsc"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/catcoin_bsc"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/catcoin-token/"
-        }
-      ],
-      "tags": [
-        "deflationary"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x2f499c6DA2C84063BB7e0CB1C478687210cDB615",
       "name": "Reflex V2",
       "type": "BEP20",
@@ -15092,7 +14703,7 @@
       "address": "0x3081523203F2AEfceaBd4b9B9eDbCa05A038Db67",
       "name": "The Last McAfee Token",
       "website": "https://mcafee.finance",
-      "description": "John McAfee was a true Cryptocurrency pioneer and believer of Freedom and Libertarian principles. MCAFEE₿ Token is dedicated to his",
+      "description": "John McAfee was a true Cryptocurrency pioneer and believer of Freedom and Libertarian principles. MCAFEE\u20bf Token is dedicated to his",
       "explorer": "https://bscscan.com/token/0x3081523203F2AEfceaBd4b9B9eDbCa05A038Db67",
       "type": "BEP20",
       "symbol": "MCAFEE",
@@ -15208,7 +14819,7 @@
       "address": "0x30b29C6C03546F6395ddB454538D0eb7E4a6E32f",
       "name": "RooCoin",
       "website": "https://roocoin.com",
-      "description": "RooCoin is a ‘charity-oriented’ token that's helping to support community causes across the world.",
+      "description": "RooCoin is a \u2018charity-oriented\u2019 token that's helping to support community causes across the world.",
       "explorer": "https://bscscan.com/token/0x30b29C6C03546F6395ddB454538D0eb7E4a6E32f",
       "type": "BEP20",
       "symbol": "ROO",
@@ -15267,26 +14878,13 @@
       "chainId": 56
     },
     {
-      "address": "0x311827832c1f670229eF0AFbE96D2DF8195c8C9A",
-      "name": "SafeNFT",
-      "website": "https://safenft.me",
-      "description": "Leading Decentralized Ecosystem in DeFi and Stake Sharing. Generate passive daily income while staking your tokens",
-      "explorer": "https://bscscan.com/token/0x311827832c1f670229eF0AFbE96D2DF8195c8C9A",
-      "type": "BEP20",
-      "symbol": "SNFT",
-      "decimals": 0,
-      "status": "active",
-      "id": "0x311827832c1f670229eF0AFbE96D2DF8195c8C9A",
-      "chainId": 56
-    },
-    {
       "address": "0x31353E2826Cc4402735E55a175a75CE2569B4226",
       "name": "World of Waves",
       "type": "BEP20",
       "symbol": "WOW",
       "decimals": 9,
       "website": "https://wow.surf",
-      "description": "WOW is the World‘s first charity-based NFT marketplace!",
+      "description": "WOW is the World\u2018s first charity-based NFT marketplace!",
       "explorer": "https://bscscan.com/token/0x31353E2826Cc4402735E55a175a75CE2569B4226",
       "status": "active",
       "id": "0x31353E2826Cc4402735E55a175a75CE2569B4226",
@@ -15379,19 +14977,6 @@
           "url": "https://coinmarketcap.com/currencies/jpmorgan-chase-tokenized-stock-ondo"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x319Bf3bB8aB93658074Be595C4Aa55Cd60380AF7",
-      "name": "Suntrust Finance",
-      "website": "https://suntrust.finance/",
-      "description": "Suntrust Finance A community-focused decentralized transaction network",
-      "explorer": "https://bscscan.com/token/0x319Bf3bB8aB93658074Be595C4Aa55Cd60380AF7",
-      "type": "BEP20",
-      "symbol": "SUNT",
-      "decimals": 2,
-      "status": "active",
-      "id": "0x319Bf3bB8aB93658074Be595C4Aa55Cd60380AF7",
       "chainId": 56
     },
     {
@@ -15769,7 +15354,7 @@
       "address": "0x32f1518BaAcE69e85b9E5fF844eBd617c52573ac",
       "name": "Dexsport",
       "website": "https://dexsport.io",
-      "description": "Dexsport — Revolutionizing Decentralized Betting",
+      "description": "Dexsport \u2014 Revolutionizing Decentralized Betting",
       "explorer": "https://bscscan.com/token/0x32f1518BaAcE69e85b9E5fF844eBd617c52573ac",
       "type": "BEP20",
       "symbol": "DESU",
@@ -15795,7 +15380,7 @@
       "symbol": "FLOKI",
       "decimals": 9,
       "website": "https://shibafloki.com",
-      "description": "Shibas are highly affectionate and would make a great choice for a novice pet parent. However, they’re highly sensitive and",
+      "description": "Shibas are highly affectionate and would make a great choice for a novice pet parent. However, they\u2019re highly sensitive and",
       "explorer": "https://bscscan.com/token/0x330540a9d998442dcbc396165D3dDc5052077bB1",
       "status": "active",
       "id": "0x330540a9d998442dcbc396165D3dDc5052077bB1",
@@ -16052,19 +15637,6 @@
       "decimals": 8,
       "status": "active",
       "id": "0x33D53608167aC3679c0FE9f7A7A725891cF0f471",
-      "chainId": 56
-    },
-    {
-      "address": "0x33a669a350807552a005845C13A37662FAcb041B",
-      "name": "SHAGGY TOKEN",
-      "type": "BEP20",
-      "symbol": "SHAGGY",
-      "decimals": 0,
-      "website": "https://shaggytoken.xyz/",
-      "description": "Experience the next generation of cryptocurrency token that automatically rewards you for holding.",
-      "explorer": "https://bscscan.com/token/0x33a669a350807552a005845C13A37662FAcb041B",
-      "status": "active",
-      "id": "0x33a669a350807552a005845C13A37662FAcb041B",
       "chainId": 56
     },
     {
@@ -16599,7 +16171,7 @@
       "address": "0x35bEdBF9291b22218a0dA863170dcC9329Ef2563",
       "name": "TAP Coin",
       "website": "https://tapfantasy.io/",
-      "description": "Tap Fantasy is an MMORPG blockchain game, building the biggest Play2Earn NFT game on Solana and BSC. It’s the metaverse",
+      "description": "Tap Fantasy is an MMORPG blockchain game, building the biggest Play2Earn NFT game on Solana and BSC. It\u2019s the metaverse",
       "explorer": "https://bscscan.com/token/0x35bEdBF9291b22218a0dA863170dcC9329Ef2563",
       "type": "BEP20",
       "symbol": "TAP",
@@ -17636,7 +17208,7 @@
       "address": "0x3947B992DC0147D2D89dF0392213781b04B25075",
       "name": "Wrapped Mirror AMZN Token",
       "website": "https://mirror.finance",
-      "description": "Mirror Protocol allows the creation of fungible assets, “synthetics”, that track the price of real-world assets.",
+      "description": "Mirror Protocol allows the creation of fungible assets, \u201csynthetics\u201d, that track the price of real-world assets.",
       "explorer": "https://bscscan.com/token/0x3947B992DC0147D2D89dF0392213781b04B25075",
       "research": "",
       "type": "BEP20",
@@ -18243,40 +17815,6 @@
       "chainId": 56
     },
     {
-      "address": "0x3D90DB6cC52E95679fb431E88B1830BA18E41889",
-      "name": "Rabi",
-      "type": "BEP20",
-      "symbol": "RABI",
-      "decimals": 4,
-      "website": "https://rabi.foundation",
-      "description": "The Rabi project is a DeFi application built on the Binance Smart Chain blockchain. It generates Rabi tokens that are",
-      "explorer": "https://bscscan.com/token/0x3D90DB6cC52E95679fb431E88B1830BA18E41889",
-      "status": "active",
-      "id": "0x3D90DB6cC52E95679fb431E88B1830BA18E41889",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/rabi_foundation"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/Rabi-foundation"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/Rabi_community"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/rabi/"
-        }
-      ],
-      "tags": [
-        "defi"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x3DAB450ee6451762E72647A05a205dd5697c5C2c",
       "name": "FlokiShiba",
       "type": "BEP20",
@@ -18331,7 +17869,7 @@
       "type": "BEP20",
       "symbol": "METFI",
       "decimals": 18,
-      "description": "MetFi is a decentralized investment vehicle for the masses - giving everyday people early-stage access to some of the world’s",
+      "description": "MetFi is a decentralized investment vehicle for the masses - giving everyday people early-stage access to some of the world\u2019s",
       "website": "https://app.metfi.io/",
       "explorer": "https://bscscan.com/token/0x3E7f1039896454B9cb27c53CC7383e1AB9D9512a",
       "id": "0x3E7f1039896454B9cb27c53CC7383e1AB9D9512a",
@@ -18947,7 +18485,7 @@
       "name": "Forky",
       "symbol": "Forky",
       "website": "https://forkybsc.com",
-      "description": "Welcome to FORKY – a community-driven project on Binance Smart Chain, rescued from abandonment to prove he's not trash but",
+      "description": "Welcome to FORKY \u2013 a community-driven project on Binance Smart Chain, rescued from abandonment to prove he's not trash but",
       "explorer": "https://bscscan.com/token/0x3e2242cb2fc1465822a0bb81ca2fe1f633a45757",
       "decimals": 18,
       "status": "active",
@@ -19413,7 +18951,7 @@
       "symbol": "AOG",
       "decimals": 18,
       "website": "https://ageofgods.net",
-      "description": "AgeOfGods is an AFKArena inspired game that uses the fundamentals of the 6.6 million‼️ player game combining it with Token",
+      "description": "AgeOfGods is an AFKArena inspired game that uses the fundamentals of the 6.6 million\u203c\ufe0f player game combining it with Token",
       "explorer": "https://bscscan.com/token/0x40c8225329bd3e28a043b029e0d07a5344d2c27c",
       "status": "active",
       "id": "0x40C8225329Bd3e28A043B029E0D07a5344d2C27C",
@@ -20584,7 +20122,7 @@
       "address": "0x44989419caEbe5e52eb3fA65B6FA983A126A7a1B",
       "name": "Eid Pepe",
       "website": "https://eidpepe.site/",
-      "description": "“Eid Mubarak” - From Pepe",
+      "description": "\u201cEid Mubarak\u201d - From Pepe",
       "explorer": "https://bscscan.com/token/0x44989419caebe5e52eb3fa65b6fa983a126a7a1b",
       "type": "BEP20",
       "symbol": "EID",
@@ -20860,7 +20398,7 @@
       "symbol": "RATS",
       "decimals": 9,
       "website": "https://goldenrat.org/",
-      "description": "Golden Rat is not just any project. It’s strong, it’s innovative, and some people are even saying it could be",
+      "description": "Golden Rat is not just any project. It\u2019s strong, it\u2019s innovative, and some people are even saying it could be",
       "explorer": "https://bscscan.com/token/0x45787821a0BD5e6bba8E709783C773A386e34D65",
       "status": "active",
       "id": "0x45787821a0BD5e6bba8E709783C773A386e34D65",
@@ -21020,7 +20558,7 @@
       "symbol": "MEONG",
       "decimals": 9,
       "website": "https://meongtoken.com/",
-      "description": "Meong Token is a meme coin that takes different approach from another meme coin. We don’t only create a common",
+      "description": "Meong Token is a meme coin that takes different approach from another meme coin. We don\u2019t only create a common",
       "explorer": "https://bscscan.com/token/0x464ACc420607d818f271875552868dDF8095CAfE",
       "status": "active",
       "id": "0x464ACc420607d818f271875552868dDF8095CAfE",
@@ -21188,19 +20726,6 @@
       "chainId": 56
     },
     {
-      "address": "0x46B605a45483Df3d4944A6F06C664CA86382c203",
-      "name": "Fugu Finance",
-      "website": "https://www.fugufinance.com",
-      "description": "Fugu Finance is a decentralized ecosystem to efficient farming and staking",
-      "explorer": "https://bscscan.com/token/0x46b605a45483df3d4944a6f06c664ca86382c203",
-      "type": "BEP20",
-      "symbol": "FUGU",
-      "decimals": 0,
-      "status": "active",
-      "id": "0x46B605a45483Df3d4944A6F06C664CA86382c203",
-      "chainId": 56
-    },
-    {
       "address": "0x46CBE14F4Ab4C665e084a0a868c49098f0Ce7704",
       "name": "The Great Wave",
       "website": "https://wave.cash/",
@@ -21211,19 +20736,6 @@
       "decimals": 18,
       "status": "active",
       "id": "0x46CBE14F4Ab4C665e084a0a868c49098f0Ce7704",
-      "chainId": 56
-    },
-    {
-      "address": "0x46D502Fac9aEA7c5bC7B13C8Ec9D02378C33D36F",
-      "name": "WolfSafePoorPeople",
-      "website": "https://wolfsafepoorpeople.com",
-      "description": "The first cryptocurrency to think about reducing the poor by providing social assistance.",
-      "explorer": "https://bscscan.com/token/0x46D502Fac9aEA7c5bC7B13C8Ec9D02378C33D36F",
-      "type": "BEP20",
-      "symbol": "WSPP",
-      "decimals": 0,
-      "status": "active",
-      "id": "0x46D502Fac9aEA7c5bC7B13C8Ec9D02378C33D36F",
       "chainId": 56
     },
     {
@@ -21328,7 +20840,7 @@
       "symbol": "DOME",
       "decimals": 18,
       "website": "https://everdome.io/",
-      "description": "Everdome will provide a destination for Metahero’s remarkable tech to live, interact and flourish. Taking Metahero from the gateway into",
+      "description": "Everdome will provide a destination for Metahero\u2019s remarkable tech to live, interact and flourish. Taking Metahero from the gateway into",
       "explorer": "https://bscscan.com/token/0x475bfaa1848591ae0e6ab69600f48d828f61a80e",
       "status": "active",
       "id": "0x475bFaa1848591ae0E6aB69600f48d828f61a80E",
@@ -21769,7 +21281,7 @@
       "symbol": "Teller",
       "decimals": 18,
       "website": "https://www.tellerusd.com",
-      "description": "Welcome to the heart of innovation and stability in the crypto world – Teller USD (USDT). Our project represents a",
+      "description": "Welcome to the heart of innovation and stability in the crypto world \u2013 Teller USD (USDT). Our project represents a",
       "explorer": "https://bscscan.com/token/0x4953d28b12D862250Cc96163A9C46Ae2B8ef52c5",
       "status": "active",
       "id": "0x4953d28b12D862250Cc96163A9C46Ae2B8ef52c5",
@@ -21846,7 +21358,7 @@
       "symbol": "ATWO",
       "decimals": 18,
       "website": "https://www.arenatwo.com/",
-      "description": "Arena Two is the world’s first Web3 live sports ecosystem, where real-world tournaments meet crypto. Fans don’t just watch -",
+      "description": "Arena Two is the world\u2019s first Web3 live sports ecosystem, where real-world tournaments meet crypto. Fans don\u2019t just watch -",
       "explorer": "https://bscscan.com/token/0x499D35eBE6cEe9B2Ac35Fd003fcBbeeB9CFc7B32",
       "status": "active",
       "id": "0x499D35eBE6cEe9B2Ac35Fd003fcBbeeB9CFc7B32",
@@ -21978,7 +21490,7 @@
       "symbol": "KABOSU",
       "decimals": 9,
       "website": "https://kabosutoken.io",
-      "description": "The World’s 1st Dog Themed Token That Rewards You, Whilst Giving Dogs a Home",
+      "description": "The World\u2019s 1st Dog Themed Token That Rewards You, Whilst Giving Dogs a Home",
       "explorer": "https://bscscan.com/token/0x4A824eE819955A7D769e03fe36f9E0C3Bd3Aa60b",
       "status": "active",
       "id": "0x4A824eE819955A7D769e03fe36f9E0C3Bd3Aa60b",
@@ -22050,7 +21562,7 @@
       "symbol": "FLOKI",
       "decimals": 18,
       "website": "https://flokiinu.com",
-      "description": "Shibas are highly affectionate and would make a great choice for a novice pet parent. However, they’re highly sensitive and",
+      "description": "Shibas are highly affectionate and would make a great choice for a novice pet parent. However, they\u2019re highly sensitive and",
       "explorer": "https://bscscan.com/token/0x4AadaD81487c3fadD9F162b851E6a61b729200cb",
       "status": "active",
       "id": "0x4AadaD81487c3fadD9F162b851E6a61b729200cb",
@@ -22131,7 +21643,7 @@
       "address": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7",
       "name": "VAI Stablecoin",
       "website": "http://venus.io",
-      "description": "VAI is the world’s first decentralized stablecoin, enabled by Venus, built on Binance Smart Chain.",
+      "description": "VAI is the world\u2019s first decentralized stablecoin, enabled by Venus, built on Binance Smart Chain.",
       "explorer": "https://bscscan.com/token/0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
       "type": "BEP20",
       "symbol": "VAI",
@@ -22170,7 +21682,7 @@
       "address": "0x4BbB275012EBE258556B8debE5C07bE98e8d3859",
       "name": "NAR Dividend Token",
       "website": "https://narwhalswap.org",
-      "description": "Narwhalswap Protocol — DeFi Platform with Sustainability. We will build a new unique dapp and protocol to enhance the value",
+      "description": "Narwhalswap Protocol \u2014 DeFi Platform with Sustainability. We will build a new unique dapp and protocol to enhance the value",
       "explorer": "https://bscscan.com/token/0x4bbb275012ebe258556b8debe5c07be98e8d3859",
       "type": "BEP20",
       "symbol": "GEM",
@@ -22590,7 +22102,7 @@
       "symbol": "Santa",
       "decimals": 9,
       "website": "https://santacoin.io/",
-      "description": "HYPER DEFLATIONARY TOKEN WITH REFLECTIONS IN BUSD. Santa Came early bearing gifts…the gift that keeps on giving!",
+      "description": "HYPER DEFLATIONARY TOKEN WITH REFLECTIONS IN BUSD. Santa Came early bearing gifts\u2026the gift that keeps on giving!",
       "explorer": "https://bscscan.com/token/0x4F1A6FC6A7B65Dc7ebC4EB692Dc3641bE997c2F2",
       "status": "active",
       "id": "0x4F1A6FC6A7B65Dc7ebC4EB692Dc3641bE997c2F2",
@@ -22701,7 +22213,7 @@
       "symbol": "GST",
       "decimals": 8,
       "website": "https://www.stepn.com",
-      "description": "GST serves as the replacement to experience points and in-app currency. Users equipped with NFT Sneakers – walk, jog or",
+      "description": "GST serves as the replacement to experience points and in-app currency. Users equipped with NFT Sneakers \u2013 walk, jog or",
       "explorer": "https://bscscan.com/token/0x4a2c860cEC6471b9F5F5a336eB4F38bb21683c98",
       "status": "active",
       "id": "0x4a2c860cEC6471b9F5F5a336eB4F38bb21683c98",
@@ -22922,7 +22434,7 @@
       "address": "0x4b8285aB433D8f69CB48d5Ad62b415ed1a221e4f",
       "name": "MagicCraft",
       "website": "https://magiccraft.io",
-      "description": "Magic Craft – war and conquer MMO Play-To-Earn RPG, launched on Binance Smart Chain, with advanced guild, taxes and economy",
+      "description": "Magic Craft \u2013 war and conquer MMO Play-To-Earn RPG, launched on Binance Smart Chain, with advanced guild, taxes and economy",
       "explorer": "https://bscscan.com/token/0x4b8285aB433D8f69CB48d5Ad62b415ed1a221e4f",
       "type": "BEP20",
       "symbol": "MCRT",
@@ -24461,37 +23973,6 @@
       "chainId": 56
     },
     {
-      "address": "0x53b3338E3345758aE88b930e3d9759A95C5cE05c",
-      "name": "GenshinFlokiInu",
-      "website": "https://www.genshinfloki.com/",
-      "description": "First two-dimensional meta-universe Decentralized Meme Coin Creates the BEST Metaverse on BSC genshinfloki FUN METAVERSE = NFT + GameFi +",
-      "explorer": "https://bscscan.com/token/0x53b3338E3345758aE88b930e3d9759A95C5cE05c",
-      "type": "BEP20",
-      "symbol": "GFloki",
-      "decimals": 4,
-      "status": "active",
-      "id": "0x53b3338E3345758aE88b930e3d9759A95C5cE05c",
-      "links": [
-        {
-          "name": "github",
-          "url": "https://github.com/GenshinFloki/GenshinFloki"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/GenshinFloki"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/GenshinFlokiOfficial"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/genshinflokiinu-token"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x5419291D81C68c103363E06046F40a9056ab2B7f",
       "name": "DogeZoo",
       "website": "https://dogezoo.com/",
@@ -24541,7 +24022,7 @@
       "symbol": "ZwZ",
       "decimals": 18,
       "website": "https://zombieworldz.io",
-      "description": "Zombie World Z is upgraded and developed based on Zombie Idle Defense – a successful and established game in the",
+      "description": "Zombie World Z is upgraded and developed based on Zombie Idle Defense \u2013 a successful and established game in the",
       "explorer": "https://bscscan.com/token/0x5445451C07E20bA1ca887B6c74d66D358F46D083",
       "status": "active",
       "id": "0x5445451C07E20bA1ca887B6c74d66D358F46D083",
@@ -24895,7 +24376,7 @@
       "address": "0x55671114d774ee99D653D6C12460c780a67f1D18",
       "name": "Pacoca Token",
       "website": "https://pacoca.io/",
-      "description": "Paçoca is a DeFi hub where users can invest in yield-optimizing vaults and track their assets on Binance Smart Chain.",
+      "description": "Pa\u00e7oca is a DeFi hub where users can invest in yield-optimizing vaults and track their assets on Binance Smart Chain.",
       "explorer": "https://bscscan.com/token/0x55671114d774ee99D653D6C12460c780a67f1D18",
       "type": "BEP20",
       "symbol": "PACOCA",
@@ -25200,7 +24681,7 @@
       "address": "0x565b72163f17849832A692A3c5928cc502f46D69",
       "name": "Hunny Token",
       "website": "https://pancakehunny.finance",
-      "description": "PancakeHunny.Finance — Enhance and Optimise Your DeFi Yield Farming on Binance Smart Chan (BSC).",
+      "description": "PancakeHunny.Finance \u2014 Enhance and Optimise Your DeFi Yield Farming on Binance Smart Chan (BSC).",
       "explorer": "https://bscscan.com/token/0x565b72163f17849832A692A3c5928cc502f46D69",
       "type": "BEP20",
       "symbol": "HUNNY",
@@ -25453,7 +24934,7 @@
       "address": "0x57282282A6CbD3658576883eB6674e339609c714",
       "name": "MINIDOG TOKEN",
       "website": "https://minidog.finance",
-      "description": "The World’s first Auto-Boost, Super Hyper Deflationary Coin is here! MiniDog is on a mission to help lost and horny",
+      "description": "The World\u2019s first Auto-Boost, Super Hyper Deflationary Coin is here! MiniDog is on a mission to help lost and horny",
       "explorer": "https://bscscan.com/token/0x57282282A6CbD3658576883eB6674e339609c714",
       "type": "BEP20",
       "symbol": "TINIDAWG",
@@ -25713,36 +25194,6 @@
       "chainId": 56
     },
     {
-      "address": "0x57b798d2252557f13A9148A075a72816f2707356",
-      "name": "Ratscoin",
-      "type": "BEP20",
-      "symbol": "RATS",
-      "decimals": 0,
-      "website": "https://www.ratscoin.com/",
-      "description": "RatsCoin is now completely owned and run by its amazing community.",
-      "explorer": "https://bscscan.com/token/0x57b798d2252557f13A9148A075a72816f2707356",
-      "status": "active",
-      "id": "0x57b798d2252557f13A9148A075a72816f2707356",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/ratscoinx1000"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/ratscoinx1000"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/ratscoin/"
-        }
-      ],
-      "tags": [
-        "memes"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x57bEa4F720F755150f6b773c13bC78c09ac85740",
       "name": "Micro Gaming Protocol",
       "website": "https://microoo-gaming-protocol.org/",
@@ -25972,7 +25423,7 @@
       "symbol": "CHEESE",
       "decimals": 18,
       "website": "https://cheesescoin.xyz",
-      "description": "CHEESE was born on 4chan’s /biz/ board, destined to be the ultimate BSC coin",
+      "description": "CHEESE was born on 4chan\u2019s /biz/ board, destined to be the ultimate BSC coin",
       "explorer": "https://bscscan.com/token/0x593822e8bc2875a786362e41ac6ad5947a3954f5",
       "status": "active",
       "id": "0x593822E8bc2875A786362E41aC6aD5947a3954F5",
@@ -26696,7 +26147,7 @@
       "decimals": 18,
       "explorer": "https://bscscan.com/token/0x5C8111C3BCB0Cc02AcF50bC8676d4aa1bC017607",
       "website": "https://bunny.financial/",
-      "description": "BUNNY DeFi is a deflationary token that allows for passive income generation for investors. Here’s how it works.BUNNY’s decentralized exchange",
+      "description": "BUNNY DeFi is a deflationary token that allows for passive income generation for investors. Here\u2019s how it works.BUNNY\u2019s decentralized exchange",
       "status": "active",
       "id": "0x5C8111C3BCB0Cc02AcF50bC8676d4aa1bC017607",
       "chainId": 56
@@ -26705,7 +26156,7 @@
       "address": "0x5C85D6C6825aB4032337F11Ee92a72DF936b46F6",
       "name": "mubarak",
       "website": "https://www.mubarak-cto.com/",
-      "description": "CZ just subtly acknowledged that he’s Mubarak – a typical cryptic move from the Binance boss! Those who’ve followed CZ",
+      "description": "CZ just subtly acknowledged that he\u2019s Mubarak \u2013 a typical cryptic move from the Binance boss! Those who\u2019ve followed CZ",
       "explorer": "https://bscscan.com/token/0x5C85D6C6825aB4032337F11Ee92a72DF936b46F6",
       "type": "BEP20",
       "symbol": "mubarak",
@@ -26744,7 +26195,7 @@
       "address": "0x5C999E15B71de2bb8e651f0f999FB0Bc321a0DFe",
       "name": "ZedDex",
       "website": "https://zeddex.com",
-      "description": "ZedDex is The First NeoBanking Decentralized Hub Trade, earn, and excel with crypto on the galaxy’s top decentralized platform token.",
+      "description": "ZedDex is The First NeoBanking Decentralized Hub Trade, earn, and excel with crypto on the galaxy\u2019s top decentralized platform token.",
       "explorer": "https://bscscan.com/token/0x5c999e15b71de2bb8e651f0f999fb0bc321a0dfe",
       "symbol": "ZED",
       "type": "BEP20",
@@ -27017,7 +26468,7 @@
       "symbol": "LACA",
       "decimals": 18,
       "website": "https://lazaca.com/",
-      "description": "Lazaca® aims to be the 1st leader in the Digital Asset Marketplace.",
+      "description": "Lazaca\u00ae aims to be the 1st leader in the Digital Asset Marketplace.",
       "explorer": "https://bscscan.com/token/0x5EC8B32Ff33f8df977402F44602A59998941d240",
       "status": "active",
       "id": "0x5EC8B32Ff33f8df977402F44602A59998941d240",
@@ -27379,7 +26830,7 @@
       "name": "BNBGPT",
       "symbol": "BNBGPT",
       "website": "https://beacons.ai/bnbgpt",
-      "description": "🤖 BNBGPT is now operational! Advancing AI with fine-tuned insights and seamless system optimization",
+      "description": "\ud83e\udd16 BNBGPT is now operational! Advancing AI with fine-tuned insights and seamless system optimization",
       "explorer": "https://bscscan.com/token/0x5afbb1afc4148da1a78ba9bab9a3b8278b512076",
       "decimals": 18,
       "status": "active",
@@ -27790,20 +27241,6 @@
       "chainId": 56
     },
     {
-      "address": "0x5d3AfBA1924aD748776E4Ca62213BF7acf39d773",
-      "name": "KIWIGO",
-      "website": "https://kiwigo.app",
-      "description": "KGO is the Token of Kiwigo.",
-      "explorer": "https://bscscan.com/token/0x5d3afba1924ad748776e4ca62213bf7acf39d773",
-      "research": "https://www.kiwigo.app/kgo-kiwigo-crypto-currency/",
-      "type": "BEP20",
-      "symbol": "KGO",
-      "decimals": 5,
-      "status": "active",
-      "id": "0x5d3AfBA1924aD748776E4Ca62213BF7acf39d773",
-      "chainId": 56
-    },
-    {
       "address": "0x5d6CDf1b7F7C35EAE688E4C563b6f16eeAC2cB6b",
       "name": "SaylorMoon",
       "website": "https://saylormoon.army",
@@ -27835,41 +27272,6 @@
         {
           "name": "telegram",
           "url": "https://t.me/heroflokiglobal"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x5de3939b2F811A61d830E6F52d13B066881412ab",
-      "name": "XPR Network",
-      "type": "BEP20",
-      "symbol": "XPR",
-      "decimals": 4,
-      "website": "https://protonchain.com",
-      "description": "Proton is a new public blockchain and dApp platform designed for both consumer applications and P2P payments. It is built",
-      "explorer": "https://bscscan.com/token/0x5de3939b2F811A61d830E6F52d13B066881412ab",
-      "status": "active",
-      "id": "0x5de3939b2F811A61d830E6F52d13B066881412ab",
-      "links": [
-        {
-          "name": "github",
-          "url": "https://github.com/ProtonProtocol"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/protonxpr"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/protonxpr/"
-        },
-        {
-          "name": "discord",
-          "url": "https://discord.com/invite/B2QDmgf"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/proton/"
         }
       ],
       "chainId": 56
@@ -27967,7 +27369,7 @@
       "symbol": "HIGH",
       "decimals": 18,
       "website": "https://www.highstreet.market/",
-      "description": "Inspired by classics from Nintendo, encouraged by a shared addiction in MMOs, and finally consolidated by our team’s 6 years",
+      "description": "Inspired by classics from Nintendo, encouraged by a shared addiction in MMOs, and finally consolidated by our team\u2019s 6 years",
       "explorer": "https://bscscan.com/token/0x5f4Bde007Dc06b867f86EBFE4802e34A1fFEEd63",
       "status": "active",
       "id": "0x5f4Bde007Dc06b867f86EBFE4802e34A1fFEEd63",
@@ -28792,7 +28194,7 @@
       "address": "0x62D71B23bF15218C7d2D7E48DBbD9e9c650B173f",
       "name": "Wrapped Mirror GOOGL Token",
       "website": "https://mirror.finance",
-      "description": "Mirror Protocol allows the creation of fungible assets, “synthetics”, that track the price of real-world assets.",
+      "description": "Mirror Protocol allows the creation of fungible assets, \u201csynthetics\u201d, that track the price of real-world assets.",
       "explorer": "https://bscscan.com/token/0x62D71B23bF15218C7d2D7E48DBbD9e9c650B173f",
       "research": "",
       "type": "BEP20",
@@ -29298,37 +28700,6 @@
       "chainId": 56
     },
     {
-      "address": "0x649a2DA7B28E0D54c13D5eFf95d3A660652742cC",
-      "id": "0x649a2DA7B28E0D54c13D5eFf95d3A660652742cC",
-      "name": "IDRX",
-      "type": "BEP20",
-      "symbol": "IDRX",
-      "decimals": 0,
-      "website": "https://idrx.co/",
-      "description": "IDRX is a stable token pegged to the value of the Indonesian Rupiah (IDR). As a cryptocurrency, IDRX offers users",
-      "explorer": "https://bscscan.com/token/0x649a2DA7B28E0D54c13D5eFf95d3A660652742cC",
-      "status": "active",
-      "tags": [
-        "stablecoin",
-        "staking"
-      ],
-      "links": [
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/idrx/"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/idrx-co/"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/officialidrx"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x64Cc7ED01fA6b6D3E587E9c89DA04ddBEBE07580",
       "name": "SHIBA INU GOLD",
       "website": "https://shibainugold.com",
@@ -29554,40 +28925,6 @@
       "chainId": 56
     },
     {
-      "address": "0x659049786cB66E4486b8C0E0cCC90a5929a21162",
-      "name": "TTcoin",
-      "type": "BEP20",
-      "symbol": "TC",
-      "decimals": 4,
-      "website": "https://ttcoin.info",
-      "description": "More than 2 million users with TTcoin Football Club, TTcoin brands and more projects.",
-      "explorer": "https://bscscan.com/token/0x659049786cB66E4486b8C0E0cCC90a5929a21162",
-      "status": "active",
-      "id": "0x659049786cB66E4486b8C0E0cCC90a5929a21162",
-      "links": [
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/ttcoin/"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/ttcoinofficial"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/TTCOIN-TC/tc"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/ttcoinworld"
-        }
-      ],
-      "tags": [
-        "staking"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x65bb3dE5174ebfFf241Aa501b6142559bf7d85A0",
       "name": "GymRocketCrypto Token",
       "type": "BEP20",
@@ -29678,7 +29015,7 @@
     },
     {
       "address": "0x667bEbFf5cda3C4A460B514aB478Da0A8cF80910",
-      "name": "Bitcoin And Ethereum Standard Token",
+      "name": "Bitcoin\u00a0And\u00a0Ethereum\u00a0Standard\u00a0Token",
       "type": "BEP20",
       "symbol": "BEST",
       "decimals": 18,
@@ -29724,7 +29061,7 @@
       "symbol": "VODKA",
       "decimals": 18,
       "website": "https://vodkatoken.com/",
-      "description": "Vodka Token — collectible play-to-earn NFT game based on DeFi.",
+      "description": "Vodka Token \u2014 collectible play-to-earn NFT game based on DeFi.",
       "explorer": "https://bscscan.com/token/0x66dA5cc445feC38A9475Ae7941f89110b9d256b9",
       "status": "active",
       "id": "0x66dA5cc445feC38A9475Ae7941f89110b9d256b9",
@@ -29754,7 +29091,7 @@
       "symbol": "MTC",
       "decimals": 18,
       "website": "https://matrixchain.space/",
-      "description": "The World’s Leading Decentralized Finance Platform",
+      "description": "The World\u2019s Leading Decentralized Finance Platform",
       "explorer": "https://bscscan.com/token/0x67009eB16ff64d06b4F782b3c552b924B1D1bb93",
       "status": "active",
       "id": "0x67009eB16ff64d06b4F782b3c552b924B1D1bb93",
@@ -30063,7 +29400,7 @@
       "symbol": "FEED",
       "decimals": 18,
       "website": "https://feeder.finance/",
-      "description": "Feeder Finance is a DeFi aggregator for diversified yield generation on Binance Smart Chain (“BSC”). Feeder aims to allow investors",
+      "description": "Feeder Finance is a DeFi aggregator for diversified yield generation on Binance Smart Chain (\u201cBSC\u201d). Feeder aims to allow investors",
       "explorer": "https://bscscan.com/token/0x67d66e8Ec1Fd25d98B3Ccd3B19B7dc4b4b7fC493",
       "status": "active",
       "id": "0x67d66e8Ec1Fd25d98B3Ccd3B19B7dc4b4b7fC493",
@@ -30113,19 +29450,6 @@
           "url": "https://x.com/DODO"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0x681fd3e49a6188Fc526784eE70AA1C269ee2B887",
-      "name": "Franklin",
-      "type": "BEP20",
-      "symbol": "FLy",
-      "decimals": 4,
-      "website": "https://tokenfly.co/",
-      "description": "Pegged Franklin (FLy) – the native token of the VRM and Black Ocean ecosystems. Token holders can enjoy discounted trading",
-      "explorer": "https://bscscan.com/token/0x681fd3e49a6188Fc526784eE70AA1C269ee2B887",
-      "status": "active",
-      "id": "0x681fd3e49a6188Fc526784eE70AA1C269ee2B887",
       "chainId": 56
     },
     {
@@ -30597,7 +29921,7 @@
       "symbol": "iDoge",
       "decimals": 9,
       "website": "https://idoge.co",
-      "description": "Influencer Doge (iDoge™) is a BEP-20 utility token that intends to produce easy passive income for our token holders by",
+      "description": "Influencer Doge (iDoge\u2122) is a BEP-20 utility token that intends to produce easy passive income for our token holders by",
       "explorer": "https://bscscan.com/token/0x69bc4bbf7aa7a4e08d6542687aad175a82d23fde",
       "status": "active",
       "id": "0x69bC4bbf7aa7A4e08D6542687aaD175A82D23fDE",
@@ -30641,7 +29965,7 @@
       "address": "0x6A684b3578f5B07c0Aa02fAFc33ED248AE0c2dB2",
       "name": "Tech Trees Coin",
       "website": "https://www.techtrees.com/",
-      "description": "TechTrees Coin is a web 3.0 public welfare organization in response to Elon Musk‘s vision for low carbon emissions and",
+      "description": "TechTrees Coin is a web 3.0 public welfare organization in response to Elon Musk\u2018s vision for low carbon emissions and",
       "explorer": "https://bscscan.com/token/0x6a684b3578f5b07c0aa02fafc33ed248ae0c2db2",
       "research": "https://whitepaper.techtrees.com/",
       "symbol": "TTC",
@@ -31217,19 +30541,6 @@
       "chainId": 56
     },
     {
-      "address": "0x6E0fB6B19941FAf58982F09b33A9dceDa4377155",
-      "name": "Nero Finance",
-      "website": "https://nero.finance/",
-      "description": "Nero is decentralized finance, with the concept of auto staking and auto-create orphan liquidity and support for payments without fees",
-      "explorer": "https://bscscan.com/token/0x6e0fb6b19941faf58982f09b33a9dceda4377155",
-      "type": "BEP20",
-      "symbol": "NERO",
-      "decimals": 0,
-      "status": "active",
-      "id": "0x6E0fB6B19941FAf58982F09b33A9dceDa4377155",
-      "chainId": 56
-    },
-    {
       "address": "0x6E1b4BA8F5bE7708cD475795FC23924eD078A8d2",
       "name": "Change Our World",
       "website": "https://changeourworld.io/",
@@ -31443,37 +30754,14 @@
       "name": "Aircoins",
       "website": "https://www.aircoins.io/",
       "x": "https://x.com/AIRCOINS_app",
-      "short_description": "Airсоins is a mobile app where players can collect digital assets in AR based on geolocation.",
-      "description": "Airсоins is a mobile app where players can collect digital assets in AR based on geolocation. Using a proof of",
+      "short_description": "Air\u0441\u043eins is a mobile app where players can collect digital assets in AR based on geolocation.",
+      "description": "Air\u0441\u043eins is a mobile app where players can collect digital assets in AR based on geolocation. Using a proof of",
       "explorer": "https://bscscan.com/token/0x6fb05b156788e88c8ad1e057e729362ff8c39d93",
       "type": "BEP20",
       "symbol": "AIRx",
       "decimals": 8,
       "status": "active",
       "id": "0x6Fb05b156788E88c8ad1e057e729362ff8c39d93",
-      "chainId": 56
-    },
-    {
-      "address": "0x6Fc015dC3283369125cc31907eEF990b8F67a7a1",
-      "name": "Moon Chain",
-      "website": "https://moonchain.finance",
-      "description": "Leading Decentralized Ecosystem in DeFi and Stake Sharing. Generate passive daily income while staking your tokens.",
-      "explorer": "https://bscscan.com/token/0x6fc015dc3283369125cc31907eef990b8f67a7a1",
-      "type": "BEP20",
-      "symbol": "MCF",
-      "decimals": 0,
-      "status": "active",
-      "id": "0x6Fc015dC3283369125cc31907eEF990b8F67a7a1",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/MoonChainFinane"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/moonchain_tg"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -31808,7 +31096,7 @@
       "symbol": "CHO",
       "decimals": 18,
       "website": "https://choise.com/",
-      "description": "Choise.com – the next step in Crypterium evolution.",
+      "description": "Choise.com \u2013 the next step in Crypterium evolution.",
       "explorer": "https://bscscan.com/token/0x6cf8e39252bee00d168bd25bdf5834347d78e346",
       "status": "active",
       "id": "0x6cF8e39252Bee00D168Bd25BDf5834347D78e346",
@@ -31868,7 +31156,7 @@
       "symbol": "PEPPA",
       "decimals": 18,
       "website": "https://peppa.network/",
-      "description": "Peppa Network is an innovative new cryptocurrency designed by enthusiasts for blockchain technology and children’s development.Our goal is to aid",
+      "description": "Peppa Network is an innovative new cryptocurrency designed by enthusiasts for blockchain technology and children\u2019s development.Our goal is to aid",
       "explorer": "https://bscscan.com/token/0x6d34F621d2A1812434cE7Af6E04A344BFCE9B47E",
       "status": "active",
       "id": "0x6d34F621d2A1812434cE7Af6E04A344BFCE9B47E",
@@ -32221,7 +31509,7 @@
       "symbol": "O-megax",
       "type": "BEP20",
       "decimals": 18,
-      "description": "OmegaX Health puts an always-available AI doctor on your phone—offering personalized health advice, instant symptom checks, and proactive wellness coaching",
+      "description": "OmegaX Health puts an always-available AI doctor on your phone\u2014offering personalized health advice, instant symptom checks, and proactive wellness coaching",
       "website": "https://www.omegax.health/",
       "explorer": "https://bscscan.com/token/0x6fd2854cd1b05b8eb5f6d25c714184a92fedaf4f",
       "status": "active",
@@ -32427,7 +31715,7 @@
       "address": "0x70D8d5B3416888fD05e806195312DD2D9597d50C",
       "name": "MEXI",
       "website": "https://metaxiz.com",
-      "description": "MEXI is the governance token of the Metaxiz system. Users can use MEXI for their NFT’s transactions on the Metaxiz",
+      "description": "MEXI is the governance token of the Metaxiz system. Users can use MEXI for their NFT\u2019s transactions on the Metaxiz",
       "explorer": "https://bscscan.com/token/0x70d8d5b3416888fd05e806195312dd2d9597d50c",
       "links": [
         {
@@ -32624,19 +31912,6 @@
       "chainId": 56
     },
     {
-      "address": "0x71be881e9C5d4465B3FfF61e89c6f3651E69B5bb",
-      "name": "Brazilian Digital Token",
-      "type": "BEP20",
-      "symbol": "BRZ",
-      "decimals": 4,
-      "website": "https://www.brztoken.io/",
-      "description": "BRZ is a fully backed Brazilian Real stablecoin, a multi-chain digital asset that provides international liquidity and ease-of-access to both",
-      "explorer": "https://bscscan.com/token/0x71be881e9C5d4465B3FfF61e89c6f3651E69B5bb",
-      "status": "active",
-      "id": "0x71be881e9C5d4465B3FfF61e89c6f3651E69B5bb",
-      "chainId": 56
-    },
-    {
       "address": "0x71d03A620646f8b572282Ef39228D36Add67ee20",
       "name": "Sekuya",
       "type": "BEP20",
@@ -32686,7 +31961,7 @@
       "symbol": "LTT",
       "decimals": 9,
       "website": "https://lordtoken.com",
-      "description": "LordToken’s ambition is to fill this gap, by granting access to anyone, regardless of his level of expertise, to a",
+      "description": "LordToken\u2019s ambition is to fill this gap, by granting access to anyone, regardless of his level of expertise, to a",
       "explorer": "https://bscscan.com/token/0x71e72DdE4152D274afD1F2DB43531Ed9E44A78Fa",
       "status": "active",
       "id": "0x71e72DdE4152D274afD1F2DB43531Ed9E44A78Fa",
@@ -32891,7 +32166,7 @@
       "address": "0x72fAa679E1008Ad8382959FF48E392042A8b06f7",
       "name": "AllianceBlock Token",
       "website": "https://allianceblock.io",
-      "description": "AllianceBlock is establishing the world’s first globally compliant decentralized capital market. Our solution is built on the principles of censorship",
+      "description": "AllianceBlock is establishing the world\u2019s first globally compliant decentralized capital market. Our solution is built on the principles of censorship",
       "explorer": "https://bscscan.com/token/0x72fAa679E1008Ad8382959FF48E392042A8b06f7",
       "type": "BEP20",
       "symbol": "bALBT",
@@ -33286,7 +32561,7 @@
       "address": "0x741F72BC9E29f662F2Eb41c5aB450A2cA33bE57D",
       "name": "Deez Nuts",
       "website": "https://www.deeznutscoin.com",
-      "description": "DEEZNUTS is based on the popular “deeznuts” Internet meme but represents itself as a charity coin. DEEZNUTS Coin was created",
+      "description": "DEEZNUTS is based on the popular \u201cdeeznuts\u201d Internet meme but represents itself as a charity coin. DEEZNUTS Coin was created",
       "explorer": "https://bscscan.com/token/0x741F72BC9E29f662F2Eb41c5aB450A2cA33bE57D",
       "type": "BEP20",
       "symbol": "DEEZNUTS",
@@ -33435,7 +32710,7 @@
       "type": "BEP20",
       "symbol": "CA",
       "decimals": 18,
-      "description": "Caila is your AI-powered weather intelligence agent supported by thousands of Nubila Network’s sensor — real-time, AI-powered, providing real-time, hyperlocal",
+      "description": "Caila is your AI-powered weather intelligence agent supported by thousands of Nubila Network\u2019s sensor \u2014 real-time, AI-powered, providing real-time, hyperlocal",
       "website": "https://linktr.ee/caila_ai",
       "explorer": "https://bscscan.com/token/0x74da4c5f8c254dd4fb39f9804c0924f52a808318",
       "id": "0x74da4c5F8C254dd4Fb39F9804C0924F52a808318",
@@ -33505,7 +32780,7 @@
       "symbol": "ZHONG",
       "decimals": 18,
       "website": "https://four.meme/token/0x75022d03eEaC2Da632B7d8054dA1306c6F8b870F",
-      "description": "Red Dragon (中): Represents success, power, and good fortune.",
+      "description": "Red Dragon (\u4e2d): Represents success, power, and good fortune.",
       "explorer": "https://bscscan.com/token/0x75022d03eEaC2Da632B7d8054dA1306c6F8b870F",
       "status": "active",
       "id": "0x75022d03eEaC2Da632B7d8054dA1306c6F8b870F",
@@ -33535,7 +32810,7 @@
       "name": "Baby Broccoli",
       "symbol": "BB",
       "website": "https://babybroccoli.fun",
-      "description": "IF CZ LOVES IT, YOU KNOW IT’S BULLISH",
+      "description": "IF CZ LOVES IT, YOU KNOW IT\u2019S BULLISH",
       "explorer": "https://bscscan.com/token/0x753fc5e107fd8c63dc84daa4bc08370f2c05ffc8",
       "decimals": 18,
       "status": "active",
@@ -33875,40 +33150,13 @@
       "chainId": 56
     },
     {
-      "address": "0x763ACA17f03C221d16Ba9191A66F75B78a403BCB",
-      "name": "Axienomics",
-      "website": "https://axintoken.com",
-      "description": "Axienomics is the first rebase token which rewards you with AxieInfinity (AXS)",
-      "explorer": "https://bscscan.com/token/0x763ACA17f03C221d16Ba9191A66F75B78a403BCB",
-      "type": "BEP20",
-      "symbol": "AXIN",
-      "decimals": 4,
-      "status": "active",
-      "id": "0x763ACA17f03C221d16Ba9191A66F75B78a403BCB",
-      "links": [
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/axienomics/"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/axienomics"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/AxienomicsOfficial"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x7643F0C207172497810ba6b76C5f3924d4ee7569",
       "name": "What Do You Meme Token",
       "type": "BEP20",
       "symbol": "WDYMEME",
       "decimals": 18,
       "website": "https://whatdoyoumemetoken.com/",
-      "description": "Whatdoyoumemetoken is taking a stab at all these bullshit tokens in the BEP20 Smart Chain we’ve seen it from the",
+      "description": "Whatdoyoumemetoken is taking a stab at all these bullshit tokens in the BEP20 Smart Chain we\u2019ve seen it from the",
       "explorer": "https://bscscan.com/token/0x7643F0C207172497810ba6b76C5f3924d4ee7569",
       "status": "active",
       "id": "0x7643F0C207172497810ba6b76C5f3924d4ee7569",
@@ -33997,7 +33245,7 @@
       "address": "0x76E08e1c693D42551dd6ba7C2A659F74ff5Ba261",
       "name": "Shakita Inu",
       "website": "https://www.shakitainu.com/",
-      "description": "SHAK ($Shak) is a fun, community-focused cryptocurrency with a game in development and unique tokenomics to fuel it’s growth.",
+      "description": "SHAK ($Shak) is a fun, community-focused cryptocurrency with a game in development and unique tokenomics to fuel it\u2019s growth.",
       "explorer": "https://bscscan.com/token/0x76e08e1c693d42551dd6ba7c2a659f74ff5ba261",
       "type": "BEP20",
       "symbol": "Shak",
@@ -34326,7 +33574,7 @@
       "symbol": "CAS",
       "decimals": 18,
       "website": "https://cashaa.com",
-      "description": "Cashaa is a global banking solution for the crypto industry. It’s the world’s first banking platform that enables the seamless",
+      "description": "Cashaa is a global banking solution for the crypto industry. It\u2019s the world\u2019s first banking platform that enables the seamless",
       "explorer": "https://bscscan.com/token/0x780207B8C0Fdc32cF60E957415bFa1f2d4d9718c",
       "status": "active",
       "id": "0x780207B8C0Fdc32cF60E957415bFa1f2d4d9718c",
@@ -34375,7 +33623,7 @@
       "symbol": "JET",
       "decimals": 18,
       "website": "https://jetmax.io/",
-      "description": "JETMAX – A utility token powering an ecosystem for logistics and decentralized finance on BNB Chain.",
+      "description": "JETMAX \u2013 A utility token powering an ecosystem for logistics and decentralized finance on BNB Chain.",
       "explorer": "https://bscscan.com/token/0x7847bffd0eb96c53a96af526643e2546efec0828",
       "status": "active",
       "id": "0x7847bFfD0EB96C53a96aF526643E2546eFeC0828",
@@ -34472,7 +33720,7 @@
       "symbol": "SENSI",
       "decimals": 9,
       "website": "https://sensible.finance",
-      "description": "The sensible project’s main aim is to let users create easy, fast and automatic yield farm portfolios and also to",
+      "description": "The sensible project\u2019s main aim is to let users create easy, fast and automatic yield farm portfolios and also to",
       "explorer": "https://bscscan.com/token/0x7869044D36ea75975B793ca4312608cc3817895B",
       "status": "active",
       "id": "0x7869044D36ea75975B793ca4312608cc3817895B",
@@ -34894,7 +34142,7 @@
       "address": "0x799e1Cf88A236e42b4A87c544A22A94aE95A6910",
       "name": "MContent",
       "website": "https://mcontent.net/",
-      "description": "MContent is introducing the world’s first digital content market place that aims to build a collaborative content ecosystem with the",
+      "description": "MContent is introducing the world\u2019s first digital content market place that aims to build a collaborative content ecosystem with the",
       "explorer": "https://bscscan.com/token/0x799e1cf88a236e42b4a87c544a22a94ae95a6910",
       "type": "BEP20",
       "symbol": "MCONTENT",
@@ -34924,7 +34172,7 @@
       "symbol": "BFLOKI",
       "decimals": 9,
       "website": "https://bitfloki.io/",
-      "description": "BitFloki isn't your average token—it's a meme token revolution! We're here to shake up the meme token scene while providing",
+      "description": "BitFloki isn't your average token\u2014it's a meme token revolution! We're here to shake up the meme token scene while providing",
       "explorer": "https://bscscan.com/token/0x79CDc9cA057E16dFfd45BD803491f328f49e1762",
       "status": "active",
       "id": "0x79CDc9cA057E16dFfd45BD803491f328f49e1762",
@@ -34977,37 +34225,6 @@
       "explorer": "https://bscscan.com/token/0x7a2172f3728962f6b952a1cc1ad794dacbf9f3da",
       "status": "active",
       "id": "0x7A2172F3728962F6B952a1Cc1AD794DACbf9f3DA",
-      "chainId": 56
-    },
-    {
-      "address": "0x7A532Aa9A2Ab86f6BD7E1Dcd93d3FdD2B0B410a6",
-      "name": "IRR",
-      "type": "BEP20",
-      "symbol": "Toman",
-      "decimals": 4,
-      "website": "https://www.toman-irr.com/",
-      "description": "Toman offers a comprehensive solution to the major problems faced by the traditional, fiat-driven monetary system. Building a crypto powered",
-      "explorer": "https://bscscan.com/token/0x7a532aa9a2ab86f6bd7e1dcd93d3fdd2b0b410a6",
-      "status": "active",
-      "id": "0x7A532Aa9A2Ab86f6BD7E1Dcd93d3FdD2B0B410a6",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/IRR_Toman?s=20&t=rSm1Z7nA6bwkeYbXIVutjQ"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/toman_irr"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/IRR_toman"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/ru/currencies/wootrade/"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -35829,7 +35046,7 @@
       "address": "0x7bd6FaBD64813c48545C9c0e312A0099d9be2540",
       "name": "Dogelon",
       "website": "https://dogelon.io",
-      "description": "I am Dogelon. Dogelon Mars. Join me and together we'll reach the stars ✨ We want to reach Mars and",
+      "description": "I am Dogelon. Dogelon Mars. Join me and together we'll reach the stars \u2728 We want to reach Mars and",
       "explorer": "https://bscscan.com/token/0x7bd6FaBD64813c48545C9c0e312A0099d9be2540",
       "type": "BEP20",
       "symbol": "ELON",
@@ -35978,7 +35195,7 @@
       "address": "0x7ce1e651374ec5324e6f37c4ff312D53428F0D50",
       "name": "Caramel Swap",
       "website": "https://caramelswap.finance",
-      "description": "CaramelSwap.finance - 3° generation Yield Farm on Binance Smart Chain",
+      "description": "CaramelSwap.finance - 3\u00b0 generation Yield Farm on Binance Smart Chain",
       "explorer": "https://bscscan.com/token/0x7ce1e651374ec5324e6f37c4ff312D53428F0D50",
       "type": "BEP20",
       "symbol": "MEL",
@@ -36104,7 +35321,7 @@
       "type": "BEP20",
       "symbol": "BMT",
       "decimals": 18,
-      "description": "Bubblemaps transforms on-chain data into a visual experience, making analysis engaging and efficient — allowing users to tackle modern crypto",
+      "description": "Bubblemaps transforms on-chain data into a visual experience, making analysis engaging and efficient \u2014 allowing users to tackle modern crypto",
       "website": "https://bubblemaps.io/",
       "explorer": "https://bscscan.com/token/0x7d814b9eD370Ec0a502EdC3267393bF62d891B62",
       "id": "0x7d814b9eD370Ec0a502EdC3267393bF62d891B62",
@@ -36540,19 +35757,6 @@
       "explorer": "https://bscscan.com/token/0x802C68730212295149f2bEa78C25e2Cf5A05B8A0",
       "status": "active",
       "id": "0x802C68730212295149f2bEa78C25e2Cf5A05B8A0",
-      "chainId": 56
-    },
-    {
-      "address": "0x8034Aa1EBB42a4E2110E91666497198e977c8d81",
-      "name": "1Million",
-      "website": "http://onemillion.capital",
-      "description": "At one million dollar coin you are more than just an investor. You’re an owner.",
-      "explorer": "https://bscscan.com/token/0x8034Aa1EBB42a4E2110E91666497198e977c8d81",
-      "type": "BEP20",
-      "symbol": "MLN",
-      "decimals": 4,
-      "status": "active",
-      "id": "0x8034Aa1EBB42a4E2110E91666497198e977c8d81",
       "chainId": 56
     },
     {
@@ -37317,7 +36521,7 @@
       "address": "0x82D6E409438E9c2eAEd8ceec4Bd95918cbd17c87",
       "name": "FOMO BABY",
       "website": "https://fomobaby.app",
-      "description": "Fomo Baby is a deflationary rebasing token on BSC with an automated liquidity feature, Staking options, NFT’s & Lottery Draws.",
+      "description": "Fomo Baby is a deflationary rebasing token on BSC with an automated liquidity feature, Staking options, NFT\u2019s & Lottery Draws.",
       "explorer": "https://bscscan.com/token/0x82d6e409438e9c2eaed8ceec4bd95918cbd17c87",
       "type": "BEP20",
       "symbol": "FOMOBABY",
@@ -37360,7 +36564,7 @@
       "address": "0x830F7A104a3dF30879D526031D57DAa44BF85686",
       "name": "iBNB",
       "website": "https://ibnb.finance/",
-      "description": "iBNB is the first Dynamic DeFi token that adjusts it’s tax rates to sustain and rejuvenate supply pools, building upon",
+      "description": "iBNB is the first Dynamic DeFi token that adjusts it\u2019s tax rates to sustain and rejuvenate supply pools, building upon",
       "explorer": "https://bscscan.com/token/0x830F7A104a3dF30879D526031D57DAa44BF85686",
       "type": "BEP20",
       "symbol": "iBNB",
@@ -37387,7 +36591,7 @@
       "address": "0x83155E3fe0f6b3ec6343887F62Fadf7eDa784462",
       "name": "ZIMOMO",
       "website": "https://zimomo.site/",
-      "description": "Step into Zimomo’s quirky universe! Explore its story and discover the unexpected!",
+      "description": "Step into Zimomo\u2019s quirky universe! Explore its story and discover the unexpected!",
       "explorer": "https://bscscan.com/token/0x83155E3fe0f6b3ec6343887F62Fadf7eDa784462",
       "type": "BEP20",
       "symbol": "ZIMOMO",
@@ -38477,19 +37681,6 @@
       "chainId": 56
     },
     {
-      "address": "0x86bBc9838C3370e0fD570b4ee8087f5aCa299977",
-      "name": "Blackberry token",
-      "type": "BEP20",
-      "symbol": "BB",
-      "decimals": 0,
-      "website": "https://www.blackberrytoken.com/",
-      "description": "BlackBerry token is an innovative Binance Smart Chain token that is designed for maximizing profits in the DeFI yield generation.",
-      "explorer": "https://bscscan.com/token/0x86bBc9838C3370e0fD570b4ee8087f5aCa299977",
-      "status": "active",
-      "id": "0x86bBc9838C3370e0fD570b4ee8087f5aCa299977",
-      "chainId": 56
-    },
-    {
       "address": "0x86c3E4FfAcdB3AF628ef985a518cd6ee22A22b28",
       "name": "Octans",
       "website": "https://octanscrypto.com/",
@@ -39033,7 +38224,7 @@
       "symbol": "BabyGrok",
       "decimals": 9,
       "website": "https://babygrok.ai",
-      "description": "Welcome to Baby Grok The Future of DeFi! 🚀",
+      "description": "Welcome to Baby Grok The Future of DeFi! \ud83d\ude80",
       "explorer": "https://bscscan.com/token/0x88da9901b3a02fe24e498e1ed683d2310383e295",
       "status": "active",
       "id": "0x88DA9901B3A02fE24E498e1eD683D2310383E295",
@@ -39216,7 +38407,7 @@
       "symbol": "UNIMOON",
       "decimals": 9,
       "website": "https://unimoon.io/",
-      "description": "The First L1 Blockchain Built to Decentralize Social Me​dia",
+      "description": "The First L1 Blockchain Built to Decentralize Social Me\u200bdia",
       "explorer": "https://bscscan.com/token/0x893e14FAfa8df32D9bE7eab810027eeA8828A98c",
       "status": "active",
       "id": "0x893e14FAfa8df32D9bE7eab810027eeA8828A98c",
@@ -39690,28 +38881,6 @@
       "decimals": 9,
       "status": "active",
       "id": "0x8DA0F18e4deB7Ba81dBD061DF57325a894014B5a",
-      "chainId": 56
-    },
-    {
-      "address": "0x8Dcff5Ba47aa24CFEb73A2262b7cD6D18739600c",
-      "name": "J9CASINO",
-      "type": "BEP20",
-      "symbol": "J9BC",
-      "decimals": 2,
-      "website": "https://j9.io/about-j9bc",
-      "description": "J9BC is a digital currency issued by J9 Inter-national (J9.io) based on BSC Binance Smart Chain, with features of decentralization,",
-      "explorer": "https://bscscan.com/token/0x8dcff5ba47aa24cfeb73a2262b7cd6d18739600c",
-      "status": "active",
-      "id": "0x8Dcff5Ba47aa24CFEb73A2262b7cD6D18739600c",
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/j9token918"
-        }
-      ],
-      "tags": [
-        "stablecoin"
-      ],
       "chainId": 56
     },
     {
@@ -40989,7 +40158,7 @@
       "address": "0x8f4087Cb09E0F378f4278a314C94A636665dE24b",
       "name": "NAR Ticket Token (GOLD)",
       "website": "https://narwhalswap.org",
-      "description": "Narwhalswap Protocol — DeFi Platform with Sustainability. We will build a new unique dapp and protocol to enhance the value",
+      "description": "Narwhalswap Protocol \u2014 DeFi Platform with Sustainability. We will build a new unique dapp and protocol to enhance the value",
       "explorer": "https://bscscan.com/token/0x8f4087cb09e0f378f4278a314c94a636665de24b",
       "type": "BEP20",
       "symbol": "GOLD",
@@ -41373,29 +40542,6 @@
       "chainId": 56
     },
     {
-      "address": "0x9105F25A9D6B3d289cC7315b0b4e0b91F3806fB1",
-      "name": "ShibamasK",
-      "type": "BEP20",
-      "symbol": "SHBMA",
-      "decimals": 4,
-      "website": "https://shibamask.org",
-      "description": "Deflationary meme coin with products like NFT Market+ Mobile wallet",
-      "explorer": "https://bscscan.com/token/0x9105F25A9D6B3d289cC7315b0b4e0b91F3806fB1",
-      "status": "active",
-      "id": "0x9105F25A9D6B3d289cC7315b0b4e0b91F3806fB1",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/shibamaskcoin"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/shibamask"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0x9130990dD16eD8BE8BE63E46CAd305C2C339Dac9",
       "name": "Medabots",
       "website": "https://medabots.io",
@@ -41700,19 +40846,6 @@
       "decimals": 18,
       "status": "active",
       "id": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
-      "chainId": 56
-    },
-    {
-      "address": "0x929b77Bc478101c8Fd0a13Caa58381FE4242BDdE",
-      "name": "Spacelon",
-      "website": "https://spacelon.xyz",
-      "description": "Spacelon is Memes Token",
-      "explorer": "https://bscscan.com/token/0x929b77Bc478101c8Fd0a13Caa58381FE4242BDdE",
-      "symbol": "sELON",
-      "type": "BEP20",
-      "decimals": 0,
-      "status": "active",
-      "id": "0x929b77Bc478101c8Fd0a13Caa58381FE4242BDdE",
       "chainId": 56
     },
     {
@@ -42147,7 +41280,7 @@
       "symbol": "SNACK",
       "decimals": 18,
       "website": "https://cryptosnack.com",
-      "description": "SNACK is a utility token designed to bridge digital and real‑world economies. Our vision: power immersive iGaming, fintech payments, and",
+      "description": "SNACK is a utility token designed to bridge digital and real\u2011world economies. Our vision: power immersive iGaming, fintech payments, and",
       "explorer": "https://bscscan.com/token/0x94a1A356d4E67A3803BDfAA85c8CBA5Bc57fd988",
       "status": "active",
       "id": "0x94a1A356d4E67A3803BDfAA85c8CBA5Bc57fd988",
@@ -42374,7 +41507,7 @@
       "symbol": "MONI",
       "decimals": 18,
       "website": "https://monstainfinite.com/",
-      "description": "Monsta Infinite is a decentralized game universe where anyone can earn tokens through playing the game competitively or for leisure.‌",
+      "description": "Monsta Infinite is a decentralized game universe where anyone can earn tokens through playing the game competitively or for leisure.\u200c",
       "explorer": "https://bscscan.com/token/0x9573c88aE3e37508f87649f87c4dd5373C9F31e0",
       "status": "active",
       "id": "0x9573c88aE3e37508f87649f87c4dd5373C9F31e0",
@@ -42405,7 +41538,7 @@
       "symbol": "DUET",
       "decimals": 18,
       "website": "https://duet.finance/",
-      "description": "DUET Protocol is a multi-chain synthetic assets ecosystem, enabling pegged assets from various markets – from individual stocks, to indexes,",
+      "description": "DUET Protocol is a multi-chain synthetic assets ecosystem, enabling pegged assets from various markets \u2013 from individual stocks, to indexes,",
       "explorer": "https://bscscan.com/token/0x95EE03e1e2C5c4877f9A298F1C0D6c98698FAB7B",
       "status": "active",
       "id": "0x95EE03e1e2C5c4877f9A298F1C0D6c98698FAB7B",
@@ -42526,7 +41659,7 @@
       "symbol": "LFG",
       "type": "BEP20",
       "decimals": 18,
-      "description": "Gamerse is the LFG (“Looking For Group”) platform for the entire NFT gaming industry, and we will be around for",
+      "description": "Gamerse is the LFG (\u201cLooking For Group\u201d) platform for the entire NFT gaming industry, and we will be around for",
       "website": "https://www.gamerse.network",
       "explorer": "https://bscscan.com/token/0x960a69e979d2f507e80121f41d984ea8ad83cd76",
       "status": "active",
@@ -42755,7 +41888,7 @@
       "address": "0x96a3b63701DBC6D40A1C4153734778443b0175aD",
       "name": "CAKEDOG",
       "website": "https://cakedogbsc.com/",
-      "description": "First token deployed on Springboard!‍ $CAKEDOG gonna lead the bsc season",
+      "description": "First token deployed on Springboard!\u200d $CAKEDOG gonna lead the bsc season",
       "explorer": "https://bscscan.com/token/0x96a3b63701dbc6d40a1c4153734778443b0175ad",
       "type": "BEP20",
       "symbol": "CAKEDOG",
@@ -42985,37 +42118,6 @@
         {
           "name": "coinmarketcap",
           "url": "https://coinmarketcap.com/currencies/burningmoon/"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0x97eA5EfDCb5961A99bA5C96123042507C0210Ec1",
-      "name": "Flokinomics",
-      "website": "https://www.flokinomics.com/",
-      "description": "Flokinomics is the first ever token on the BSC smartchain to combine rebase tokenomics with Doge rewards. Hold $FLOKIN and",
-      "explorer": "https://bscscan.com/token/0x97ea5efdcb5961a99ba5c96123042507c0210ec1",
-      "type": "BEP20",
-      "symbol": "FLOKIN",
-      "decimals": 4,
-      "status": "active",
-      "id": "0x97eA5EfDCb5961A99bA5C96123042507C0210Ec1",
-      "links": [
-        {
-          "name": "github",
-          "url": "https://github.com/monkey-shanti/flokinomics/"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/FlokinomicsCoin"
-        },
-        {
-          "name": "discord",
-          "url": "https://discord.com/channels/894353700217294858/894353700217294861"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/flokinomics/"
         }
       ],
       "chainId": 56
@@ -43974,20 +43076,6 @@
       "chainId": 56
     },
     {
-      "address": "0x9BD547446Ea13C0c13Df2c1885e1f5B019a77441",
-      "name": "Tree Token",
-      "website": "https://www.koalaclancyfoundation.org.au",
-      "description": "Three Token pegged 1:1 with AUD for the donation distribution to Australian bushfire NGO partners.",
-      "explorer": "https://bscscan.com/token/0x9BD547446Ea13C0c13Df2c1885e1f5B019a77441",
-      "research": "",
-      "type": "BEP20",
-      "symbol": "TREE",
-      "decimals": 2,
-      "status": "active",
-      "id": "0x9BD547446Ea13C0c13Df2c1885e1f5B019a77441",
-      "chainId": 56
-    },
-    {
       "address": "0x9BeEE89723cEeC27d7c2834bec6834208FFdc202",
       "name": "AVL",
       "type": "BEP20",
@@ -44398,7 +43486,7 @@
       "address": "0x9E6B3E35c8f563B45d864f9Ff697A144ad28A371",
       "name": "Dogemongo",
       "website": "https://dogemongo.com/",
-      "description": "Combine the Playing Experience with your Favourite Dogemons!Start catching Dogemons today & If you’re a great trainer, you can find",
+      "description": "Combine the Playing Experience with your Favourite Dogemons!Start catching Dogemons today & If you\u2019re a great trainer, you can find",
       "explorer": "https://bscscan.com/token/0x9e6b3e35c8f563b45d864f9ff697a144ad28a371",
       "type": "BEP20",
       "symbol": "DOGO",
@@ -45254,13 +44342,6 @@
       "chainId": 56
     },
     {
-      "address": "0x9f51CAA2A1D1663fCa5bEFbFaf6C8acD8Ac9717a",
-      "symbol": "XCHS",
-      "decimals": 0,
-      "name": "Cheese Stake",
-      "chainId": 56
-    },
-    {
       "address": "0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
       "name": "Tokocrypto Token",
       "type": "BEP20",
@@ -45482,7 +44563,7 @@
       "address": "0xA1303E6199b319a891b79685F0537D289af1FC83",
       "name": "NAR Token",
       "website": "https://narwhalswap.org",
-      "description": "Narwhalswap Protocol — DeFi Platform with Sustainability. We will build a new unique dapp and protocol to enhance the value",
+      "description": "Narwhalswap Protocol \u2014 DeFi Platform with Sustainability. We will build a new unique dapp and protocol to enhance the value",
       "explorer": "https://bscscan.com/token/0xa1303e6199b319a891b79685f0537d289af1fc83",
       "type": "BEP20",
       "symbol": "NAR",
@@ -45809,19 +44890,6 @@
       "chainId": 56
     },
     {
-      "address": "0xA38898a4Ae982Cb0131104a6746f77fA0dA57aAA",
-      "name": "Project Quantum",
-      "website": "https://quantumworks.co.uk/",
-      "description": "Project Quantum is taking AAA gaming into the 21st Century, with cryptocurrency at the core of the economy.",
-      "explorer": "https://bscscan.com/token/0xA38898a4Ae982Cb0131104a6746f77fA0dA57aAA",
-      "type": "BEP20",
-      "symbol": "QBIT",
-      "decimals": 2,
-      "status": "active",
-      "id": "0xA38898a4Ae982Cb0131104a6746f77fA0dA57aAA",
-      "chainId": 56
-    },
-    {
       "address": "0xA38f6b2848cAE0b61DDd3EC36560801e7eDA2b62",
       "name": "SAFEMOON RED",
       "website": "https://safemoonred.com",
@@ -46050,19 +45118,6 @@
       "chainId": 56
     },
     {
-      "address": "0xA56B49dB164D37BE2F5Df2830dB0C666380cEa66",
-      "name": "PUGDOG INU",
-      "website": "https://pugdoginu.com/",
-      "description": "PUGDOG A community-driven decentralized rewarding network Fully decentralized and Community own, Zero Dev token.",
-      "explorer": "https://bscscan.com/token/0xa56b49db164d37be2f5df2830db0c666380cea66",
-      "type": "BEP20",
-      "symbol": "PUGDOG",
-      "decimals": 0,
-      "status": "active",
-      "id": "0xA56B49dB164D37BE2F5Df2830dB0C666380cEa66",
-      "chainId": 56
-    },
-    {
       "address": "0xA57ac35CE91Ee92CaEfAA8dc04140C8e232c2E50",
       "name": "Pitbull",
       "type": "BEP20",
@@ -46253,7 +45308,7 @@
       "address": "0xA72Ff2B799324B042AE379809eE54dACE99db3A5",
       "name": "Miss Doge",
       "website": "https://missdoge.net",
-      "description": "Here's the magnificent Miss of Baby Doge 🐶 seeing her family members being famous, she couldn't bear with that and",
+      "description": "Here's the magnificent Miss of Baby Doge \ud83d\udc36 seeing her family members being famous, she couldn't bear with that and",
       "explorer": "https://bscscan.com/token/0xA72Ff2B799324B042AE379809eE54dACE99db3A5",
       "type": "BEP20",
       "symbol": "MDOGE",
@@ -46358,7 +45413,7 @@
       "symbol": "PETS",
       "decimals": 18,
       "website": "https://micropets.io/",
-      "description": "Meet MicroPets – Home to the cutest NFT’s on the Binance Smart Chain! We’ve taken your favorite memes and packaged",
+      "description": "Meet MicroPets \u2013 Home to the cutest NFT\u2019s on the Binance Smart Chain! We\u2019ve taken your favorite memes and packaged",
       "explorer": "https://bscscan.com/token/0xa77346760341460b42c230ca6d21d4c8e743fa9c",
       "status": "active",
       "id": "0xA77346760341460B42C230ca6D21d4c8E743Fa9c",
@@ -46596,19 +45651,6 @@
       "tags": [
         "gamefi"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xA997E5AaaE60987Eb0B59A336dce6B158B113100",
-      "name": "SeChain",
-      "type": "BEP20",
-      "symbol": "SNN",
-      "decimals": 3,
-      "website": "https://sechain.finance/",
-      "description": "SeChain project is building the future of decentralized services, where the service provider & the customers can get the work",
-      "explorer": "https://bscscan.com/token/0xA997E5AaaE60987Eb0B59A336dce6B158B113100",
-      "status": "active",
-      "id": "0xA997E5AaaE60987Eb0B59A336dce6B158B113100",
       "chainId": 56
     },
     {
@@ -47220,19 +46262,6 @@
       "chainId": 56
     },
     {
-      "address": "0xAa7E7C03C6864ccA116D34EC5B7103b030dE5262",
-      "name": "ElonXCoin",
-      "website": "https://elonxcoinbsc.space",
-      "description": "ElonXCoin is Memes Token",
-      "explorer": "https://bscscan.com/token/0xAa7E7C03C6864ccA116D34EC5B7103b030dE5262",
-      "symbol": "ElonX",
-      "type": "BEP20",
-      "decimals": 0,
-      "status": "active",
-      "id": "0xAa7E7C03C6864ccA116D34EC5B7103b030dE5262",
-      "chainId": 56
-    },
-    {
       "address": "0xAa817f5FE9F6385AA903a7FA994B4b403ab2b862",
       "name": "BondX",
       "type": "BEP20",
@@ -47573,7 +46602,7 @@
       "address": "0xAdaf3be815Cd4345229324E02e839dE85cE95DC2",
       "name": "Doraemoon",
       "website": "https://doraemoon.io",
-      "description": "Doraemoon is a super cross chain (BSC, Polygon, Solana). Doraemoon ($DORA) is a next–gen cryptocurrency that combines auto-liquidity, frictionless yield,",
+      "description": "Doraemoon is a super cross chain (BSC, Polygon, Solana). Doraemoon ($DORA) is a next\u2013gen cryptocurrency that combines auto-liquidity, frictionless yield,",
       "explorer": "https://bscscan.com/token/0xAdaf3be815Cd4345229324E02e839dE85cE95DC2",
       "type": "BEP20",
       "symbol": "DORA",
@@ -47788,36 +46817,6 @@
           "name": "coinmarketcap",
           "url": "https://coinmarketcap.com/currencies/babymatic/"
         }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xAf98e6c2D3b520F4e9b3D7ea22ad7AeFFFDbc2fd",
-      "name": "RatBoyBSC",
-      "type": "BEP20",
-      "symbol": "WENTXN",
-      "decimals": 4,
-      "website": "https://ratboybsc.com",
-      "description": "Ratboy is a project on the Binance Smart Chain dedicated to cleaning the rats in the space. These include the",
-      "explorer": "https://bscscan.com/token/0xAf98e6c2D3b520F4e9b3D7ea22ad7AeFFFDbc2fd",
-      "status": "active",
-      "id": "0xAf98e6c2D3b520F4e9b3D7ea22ad7AeFFFDbc2fd",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/ratboybsc"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/ratboyofficial"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/ratboy-bsc/"
-        }
-      ],
-      "tags": [
-        "defi"
       ],
       "chainId": 56
     },
@@ -48373,7 +47372,7 @@
       "symbol": "PARA",
       "decimals": 9,
       "website": "https://parabolictoken.com/",
-      "description": "Parabolic Token has been carefully designed to achieve a single purpose – GOING PARABOLIC! Our super addictive game and tokenomics",
+      "description": "Parabolic Token has been carefully designed to achieve a single purpose \u2013 GOING PARABOLIC! Our super addictive game and tokenomics",
       "explorer": "https://bscscan.com/token/0xB5bCF4fAa81457e98f4609a2a3291dF64E246f01",
       "status": "active",
       "id": "0xB5bCF4fAa81457e98f4609a2a3291dF64E246f01",
@@ -48618,19 +47617,6 @@
       "chainId": 56
     },
     {
-      "address": "0xB7d9905eDf8B7B093E3C74af8d6982D0F3d37762",
-      "name": "Ngnt",
-      "type": "BEP20",
-      "symbol": "NGNT",
-      "decimals": 2,
-      "website": "https://ngnt.org/",
-      "description": "-",
-      "explorer": "https://bscscan.com/token/0xB7d9905eDf8B7B093E3C74af8d6982D0F3d37762",
-      "status": "active",
-      "id": "0xB7d9905eDf8B7B093E3C74af8d6982D0F3d37762",
-      "chainId": 56
-    },
-    {
       "address": "0xB82BEb6Ee0063Abd5fC8E544c852237aA62CBb14",
       "name": "Square Token",
       "type": "BEP20",
@@ -48681,19 +47667,6 @@
           "url": "https://t.me/Bitshibatoken"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xB89ADD4A17eaDB084a065f9CAcE752a268dab8b3",
-      "name": "ZETBNB",
-      "type": "BEP20",
-      "symbol": "ZETBNB",
-      "decimals": 0,
-      "website": "https://zetbnb.finance/",
-      "description": "$ZETBNB is Multi Purpose Project | Auto-generate Advertisment , liquidity , DeFi , and NFT aircraft Market | project built",
-      "explorer": "https://bscscan.com/token/0xB89ADD4A17eaDB084a065f9CAcE752a268dab8b3",
-      "status": "active",
-      "id": "0xB89ADD4A17eaDB084a065f9CAcE752a268dab8b3",
       "chainId": 56
     },
     {
@@ -48864,7 +47837,7 @@
       "address": "0xBA96731324dE188ebC1eD87ca74544dDEbC07D7f",
       "name": "Titano",
       "website": "https://titano.finance",
-      "description": "Titano Finance is transforming DeFi with the Titano Autostaking Protocol (TAP) that delivers the industry’s highest fixed APY, rebasing rewards",
+      "description": "Titano Finance is transforming DeFi with the Titano Autostaking Protocol (TAP) that delivers the industry\u2019s highest fixed APY, rebasing rewards",
       "explorer": "https://bscscan.com/token/0xBA96731324dE188ebC1eD87ca74544dDEbC07D7f",
       "type": "BEP20",
       "symbol": "TITANO",
@@ -49171,19 +48144,6 @@
           "url": "https://t.me/Catamoto"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xBE2a26889CE30a1515055a192797083B1FDe8844",
-      "name": "STRIKE",
-      "website": "https://www.strikecoin.co/",
-      "description": "StrikeCoin is a ground-breaking frictionless liquidity protocol with limitless potential. With straight forward transparent Tokenomics StrikeCoin allows for a fair",
-      "explorer": "https://bscscan.com/token/0xbe2a26889ce30a1515055a192797083b1fde8844",
-      "type": "BEP20",
-      "symbol": "STRIKE",
-      "decimals": 3,
-      "status": "active",
-      "id": "0xBE2a26889CE30a1515055a192797083B1FDe8844",
       "chainId": 56
     },
     {
@@ -49683,7 +48643,7 @@
       "symbol": "WLVR",
       "decimals": 9,
       "website": "https://wolverineofficial.com/",
-      "description": "$WLV aims to protect wildlife through our signature token – with benefits to our investors such as minimum taxes, Reflections",
+      "description": "$WLV aims to protect wildlife through our signature token \u2013 with benefits to our investors such as minimum taxes, Reflections",
       "explorer": "https://bscscan.com/token/0xBe6dE6b614b079236839404440E3e8867B5d6751",
       "status": "active",
       "id": "0xBe6dE6b614b079236839404440E3e8867B5d6751",
@@ -49773,7 +48733,7 @@
       "symbol": "DIV",
       "decimals": 18,
       "website": "https://www.diviner.io",
-      "description": "We’ve been endeavoring to maintain the fairness of the project by avoiding external funding and keeping self-funding, in order to",
+      "description": "We\u2019ve been endeavoring to maintain the fairness of the project by avoiding external funding and keeping self-funding, in order to",
       "explorer": "https://bscscan.com/token/0xBf38A8b9cf02223b44f823e15f45219E9978b491",
       "status": "active",
       "id": "0xBf38A8b9cf02223b44f823e15f45219E9978b491",
@@ -49830,7 +48790,7 @@
       "address": "0xC0041EF357B183448B235a8Ea73Ce4E4eC8c265F",
       "name": "Cookie",
       "website": "https://www.cookie.community/",
-      "description": "$COOKIE is the utility and governance token within the Cookie Ecosystem, a joint ecosystem created by two independent partners—Cookie DAO",
+      "description": "$COOKIE is the utility and governance token within the Cookie Ecosystem, a joint ecosystem created by two independent partners\u2014Cookie DAO",
       "explorer": "https://bscscan.com/token/0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
       "type": "BEP20",
       "symbol": "COOKIE",
@@ -49869,7 +48829,7 @@
       "symbol": "TCGCoin",
       "decimals": 9,
       "website": "https://www.tcgcoin.tech",
-      "description": "Buy, Sell, Trade, or use our Trade and Grade service for Pokémon, Yu-Gi-Oh, Magic The Gathering, and other TCG Cards",
+      "description": "Buy, Sell, Trade, or use our Trade and Grade service for Pok\u00e9mon, Yu-Gi-Oh, Magic The Gathering, and other TCG Cards",
       "explorer": "https://bscscan.com/token/0xC070C8Ae94977f78d04553D33449DEf944F24254",
       "status": "active",
       "id": "0xC070C8Ae94977f78d04553D33449DEf944F24254",
@@ -50077,36 +49037,6 @@
       "chainId": 56
     },
     {
-      "address": "0xC183062db25FC96325485ea369C979CE881Ac0eA",
-      "name": "ShibElon",
-      "type": "BEP20",
-      "symbol": "SHIBELON",
-      "decimals": 4,
-      "website": "https://shibelon.net/",
-      "description": "Shibelon is the future of crypto, born to be best and unleash its wrath on the whole binance smart chain.",
-      "explorer": "https://bscscan.com/token/0xC183062db25FC96325485ea369C979CE881Ac0eA",
-      "status": "active",
-      "id": "0xC183062db25FC96325485ea369C979CE881Ac0eA",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/shibelon_moon"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/shibelon_moon"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/shibelon"
-        }
-      ],
-      "tags": [
-        "memes"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xC18994df2Dfd0C2767bB1758bAe83e95762bBea3",
       "name": "Elon Peg",
       "website": "https://elonpeg.com/",
@@ -50161,7 +49091,7 @@
       "symbol": "HUSH",
       "decimals": 9,
       "website": "https://www.hushcoin.me/",
-      "description": "Hush Coin ($HUSH) was specifically created with the ambitious goal to “change the way you engage”.",
+      "description": "Hush Coin ($HUSH) was specifically created with the ambitious goal to \u201cchange the way you engage\u201d.",
       "explorer": "https://bscscan.com/token/0xC1DcB8D805Cf51a5DacC9FA36c28bf2c8D1492B4",
       "status": "active",
       "id": "0xC1DcB8D805Cf51a5DacC9FA36c28bf2c8D1492B4",
@@ -50793,19 +49723,6 @@
       "chainId": 56
     },
     {
-      "address": "0xC72cC401122dBDC812EC88a2150AAD5a39467401",
-      "name": "Wallet Swap",
-      "type": "BEP20",
-      "symbol": "WSWAP",
-      "decimals": 0,
-      "website": "https://wswap.site/",
-      "description": "Wallet Swap is a decentralized Binance Smartchain & Ethereum Web3 Mobile Wallet. The app works with several crypto tokens and",
-      "explorer": "https://bscscan.com/token/0xc72cc401122dbdc812ec88a2150aad5a39467401",
-      "status": "active",
-      "id": "0xC72cC401122dBDC812EC88a2150AAD5a39467401",
-      "chainId": 56
-    },
-    {
       "address": "0xC737B44CB0Aa18815a1F6918EB338dEe7e7E6bD7",
       "name": "Comfy Token",
       "type": "BEP20",
@@ -51289,7 +50206,7 @@
       "type": "BEP20",
       "symbol": "FXBT",
       "decimals": 18,
-      "description": "Our AI-driven system scans smart contracts, detects risks, and delivers real-time market intelligence—so you can trade with confidence, effortlessly.",
+      "description": "Our AI-driven system scans smart contracts, detects risks, and delivers real-time market intelligence\u2014so you can trade with confidence, effortlessly.",
       "website": "https://fourxbt.ai/",
       "explorer": "https://bscscan.com/token/0xCAb6311f95faF6B5Db4fD306092b6BcD9807e8F0",
       "id": "0xCAb6311f95faF6B5Db4fD306092b6BcD9807e8F0",
@@ -51312,7 +50229,7 @@
       "symbol": "MND",
       "decimals": 9,
       "website": "https://mindmusic.finance",
-      "description": "Mind Music is the world’s first record label to be powered by crypto. 20% of all the profits made from",
+      "description": "Mind Music is the world\u2019s first record label to be powered by crypto. 20% of all the profits made from",
       "explorer": "https://bscscan.com/token/0xCB0B74476d72BBBC77f14724a859b2e960Ca1803",
       "status": "active",
       "id": "0xCB0B74476d72BBBC77f14724a859b2e960Ca1803",
@@ -51339,26 +50256,13 @@
       "address": "0xCB35e52bEbFE06909C216bE822fa982EfDD60F95",
       "name": "BabyApe",
       "website": "https://babyape.org/",
-      "description": "Ride the baby wave. You’ve seen baby doge, baby sanshu, and baby kishu, but not baby ape! This is a",
+      "description": "Ride the baby wave. You\u2019ve seen baby doge, baby sanshu, and baby kishu, but not baby ape! This is a",
       "explorer": "https://bscscan.com/token/0xCB35e52bEbFE06909C216bE822fa982EfDD60F95",
       "type": "BEP20",
       "symbol": "BAPE",
       "decimals": 9,
       "status": "active",
       "id": "0xCB35e52bEbFE06909C216bE822fa982EfDD60F95",
-      "chainId": 56
-    },
-    {
-      "address": "0xCB6b5d0562bB2ACBd930c3112857E5121A02B522",
-      "name": "Paynshop",
-      "type": "BEP20",
-      "symbol": "PAYNS",
-      "decimals": 3,
-      "website": "https://paynshop.store/",
-      "description": "PaynShop is a ecommerce built on blockchain technology that will offer fantastic value for shoppers and casual purchasers.",
-      "explorer": "https://bscscan.com/token/0xCB6b5d0562bB2ACBd930c3112857E5121A02B522",
-      "status": "active",
-      "id": "0xCB6b5d0562bB2ACBd930c3112857E5121A02B522",
       "chainId": 56
     },
     {
@@ -51465,7 +50369,7 @@
       "address": "0xCD40F2670CF58720b694968698A5514e924F742d",
       "name": "OddzToken",
       "website": "https://oddz.fi/",
-      "description": "Oddz is the World’s first multi-chain options and derivatives trading protocol to be deployed on the Binance Smart Chain, Polkadot,",
+      "description": "Oddz is the World\u2019s first multi-chain options and derivatives trading protocol to be deployed on the Binance Smart Chain, Polkadot,",
       "explorer": "https://bscscan.com/token/0xCD40F2670CF58720b694968698A5514e924F742d",
       "type": "BEP20",
       "symbol": "ODDZ",
@@ -51515,19 +50419,6 @@
       "explorer": "https://bscscan.com/token/0xCD95B05Ebe61244de4dF9c2C4123920F016a06DF",
       "status": "active",
       "id": "0xCD95B05Ebe61244de4dF9c2C4123920F016a06DF",
-      "chainId": 56
-    },
-    {
-      "address": "0xCD9b26795d834d75867d950898695a30b1Eb17E1",
-      "name": "VIDTC NFT Claim",
-      "type": "BEP20",
-      "symbol": "VIDTC",
-      "decimals": 0,
-      "website": "https://vidt-datalink.com",
-      "description": "NFTs for anything digital, verified by VIDT Datalink",
-      "explorer": "https://bscscan.com/token/0xCD9b26795d834d75867d950898695a30b1Eb17E1",
-      "status": "active",
-      "id": "0xCD9b26795d834d75867d950898695a30b1Eb17E1",
       "chainId": 56
     },
     {
@@ -51639,7 +50530,7 @@
       "symbol": "BOBC",
       "decimals": 18,
       "website": "https://bob.eco",
-      "description": "Bobcoin is a social asset-backed crypto—a cryptographically secured representation of the rights of a Bobcoin holder to receive a benefit",
+      "description": "Bobcoin is a social asset-backed crypto\u2014a cryptographically secured representation of the rights of a Bobcoin holder to receive a benefit",
       "explorer": "https://bscscan.com/token/0xCE6bD1833BD077f62B2c1F9a777bB829801d6811",
       "status": "active",
       "id": "0xCE6bD1833BD077f62B2c1F9a777bB829801d6811",
@@ -51695,7 +50586,7 @@
       "type": "BEP20",
       "symbol": "BOYZCLUB",
       "decimals": 18,
-      "description": "We bring you ‘The Boyz Club’ inspired by Matt Furie’s — B Money, Krazy N.D, Ice Land & Young Peezy.",
+      "description": "We bring you \u2018The Boyz Club\u2019 inspired by Matt Furie\u2019s \u2014 B Money, Krazy N.D, Ice Land & Young Peezy.",
       "website": "https://www.boyzclub.fun/",
       "explorer": "https://bscscan.com/token/0xcf2adb160d78528127df3ba471cb3ede0f06b99e",
       "id": "0xCF2aDB160d78528127Df3ba471Cb3Ede0f06b99e",
@@ -51718,7 +50609,7 @@
       "symbol": "FAIR",
       "decimals": 9,
       "website": "https://fairmoon.community/",
-      "description": "Fairmoon’s native BEP-20 token $FAIR is a hybrid utility token. It is both a community-owned deflationary frictionless yield token and",
+      "description": "Fairmoon\u2019s native BEP-20 token $FAIR is a hybrid utility token. It is both a community-owned deflationary frictionless yield token and",
       "explorer": "https://bscscan.com/token/0xCa578afEe65FD2268D383f8Fc4a9fc6Ae1d2Def0",
       "status": "active",
       "id": "0xCa578afEe65FD2268D383f8Fc4a9fc6Ae1d2Def0",
@@ -51744,7 +50635,7 @@
       "type": "BEP20",
       "symbol": "PLANET",
       "decimals": 18,
-      "description": "Join The Planet is a pioneering #ReFi project that partners with the world’s biggest celebrities to address environmental and sustainable",
+      "description": "Join The Planet is a pioneering #ReFi project that partners with the world\u2019s biggest celebrities to address environmental and sustainable",
       "website": "https://planetrefi.com/",
       "explorer": "https://bscscan.com/token/0xca6d678e74f553f0e59cccc03ae644a3c2c5ee7d",
       "id": "0xCa6d678e74f553f0E59cccC03ae644a3c2c5EE7d",
@@ -51989,7 +50880,7 @@
       "address": "0xCed0CE92F4bdC3c2201E255FAF12f05cf8206dA8",
       "name": "Orakuru",
       "website": "https://orakuru.io/",
-      "description": "The Orakuru (ora-ku-ru) is Binance Smart Chain’s community owned and operated Oracle. A trustless feed of prices and off-chain data",
+      "description": "The Orakuru (ora-ku-ru) is Binance Smart Chain\u2019s community owned and operated Oracle. A trustless feed of prices and off-chain data",
       "symbol": "ORK",
       "type": "BEP20",
       "decimals": 18,
@@ -52037,33 +50928,6 @@
       "symbol": "KIWI",
       "decimals": 18,
       "name": "Kiwi Token",
-      "chainId": 56
-    },
-    {
-      "address": "0xD00A7EdD637B776eC5a6461F5e7ac055F14a0C1E",
-      "name": "ShibaZilla",
-      "website": "https://shibazillatoken.com",
-      "description": "SHIBZILLA is a METAVERSE token which rewards you with $SHIB",
-      "explorer": "https://bscscan.com/token/0xD00A7EdD637B776eC5a6461F5e7ac055F14a0C1E",
-      "type": "BEP20",
-      "symbol": "SHIBAZ",
-      "decimals": 4,
-      "status": "active",
-      "id": "0xD00A7EdD637B776eC5a6461F5e7ac055F14a0C1E",
-      "links": [
-        {
-          "name": "github",
-          "url": "https://github.com/ShibaZilla"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/ShibZillaBSC"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/shibzillaofficial"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -52118,37 +50982,6 @@
         {
           "name": "coinmarketcap",
           "url": "https://coinmarketcap.com/currencies/salesforce-tokenized-stock-ondo"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xD05A0c5C68ACba9AA9952fA65189038840752977",
-      "name": "ZillaMatrix",
-      "website": "https://zillamatrix.com/",
-      "description": "A rebase token, born to be unleashed and destined to reign in the ZillaMatrix.",
-      "explorer": "https://bscscan.com/token/0xd05a0c5c68acba9aa9952fa65189038840752977",
-      "type": "BEP20",
-      "symbol": "ZMAX",
-      "decimals": 2,
-      "status": "active",
-      "id": "0xD05A0c5C68ACba9AA9952fA65189038840752977",
-      "links": [
-        {
-          "name": "github",
-          "url": "https://github.com/monkey-shanti/ZillaMatrix/"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/zillamatrix"
-        },
-        {
-          "name": "discord",
-          "url": "https://discord.com/invite/kU2z3KsrkZ"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/zillamatrix/"
         }
       ],
       "chainId": 56
@@ -52407,7 +51240,7 @@
       "address": "0xD2618bC9c9cDC40ff19e200a7d14A09799C0a152",
       "name": "Uncle Doge",
       "website": "https://uncle-doge.com/",
-      "description": "Uncle Doge is a community focused token with unique tokenomics. At the center of the tokenomics is the “Kraken” the",
+      "description": "Uncle Doge is a community focused token with unique tokenomics. At the center of the tokenomics is the \u201cKraken\u201d the",
       "explorer": "https://bscscan.com/token/0xd2618bc9c9cdc40ff19e200a7d14a09799c0a152",
       "type": "BEP20",
       "symbol": "UDOGE",
@@ -52476,7 +51309,7 @@
       "symbol": "LLT",
       "decimals": 8,
       "website": "https://lifelinetoken.com/",
-      "description": "A charity-oriented token for helping children’s hospitals with cancer care.",
+      "description": "A charity-oriented token for helping children\u2019s hospitals with cancer care.",
       "explorer": "https://bscscan.com/token/0xD37c1417DA7Bf5b02ffDEa8d5427022DC88A0eE2",
       "status": "active",
       "id": "0xD37c1417DA7Bf5b02ffDEa8d5427022DC88A0eE2",
@@ -52741,36 +51574,6 @@
       "chainId": 56
     },
     {
-      "address": "0xD5FFAB1841B9137D5528Ed09D6Ebb66c3088aeDE",
-      "name": "TwogeInu",
-      "website": "https://twogeinu.io",
-      "description": "Twoge is an innovative deflationary token aiming to revolutionize Defi, building its own Twoge Blockchain, introducing a multi-chain swap (TwogeSwap)",
-      "explorer": "https://bscscan.com/token/0xD5FFAB1841B9137D5528Ed09D6Ebb66c3088aeDE",
-      "symbol": "TWOGE",
-      "type": "BEP20",
-      "decimals": 5,
-      "status": "active",
-      "id": "0xD5FFAB1841B9137D5528Ed09D6Ebb66c3088aeDE",
-      "tags": [
-        "memes"
-      ],
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/TwogeInu"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/twogeinu"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/twogeinu"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xD5a0dAd4E6f399CdC346ff04fd90ec0B511fCeF9",
       "name": "Beer Token",
       "type": "BEP20",
@@ -52781,37 +51584,6 @@
       "explorer": "https://bscscan.com/token/0xD5a0dAd4E6f399CdC346ff04fd90ec0B511fCeF9",
       "status": "active",
       "id": "0xD5a0dAd4E6f399CdC346ff04fd90ec0B511fCeF9",
-      "chainId": 56
-    },
-    {
-      "address": "0xD5f363F83b36E10e8a823166b992c0bDc3deDE2C",
-      "name": "ElonBank",
-      "website": "https://elonbank.io",
-      "description": "ElonBank is a financial protocol that includes mechanisms for auto-staking, auto-compounding, and auto-liquidity.",
-      "explorer": "https://bscscan.com/token/0xD5f363F83b36E10e8a823166b992c0bDc3deDE2C",
-      "type": "BEP20",
-      "symbol": "ElonBank",
-      "decimals": 5,
-      "status": "active",
-      "id": "0xD5f363F83b36E10e8a823166b992c0bDc3deDE2C",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/ElonBankBSC"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/elonbank/"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/elonbankbscglobal"
-        }
-      ],
-      "tags": [
-        "staking",
-        "defi"
-      ],
       "chainId": 56
     },
     {
@@ -53384,7 +52156,7 @@
       "address": "0xDCD289ECF644bEC54393ba6Ce8dB35e9B5Ff75e7",
       "name": "FairLunar",
       "website": "https://fairlunar.space",
-      "description": "FairLunar is a community-drievn token with it’s own usecase",
+      "description": "FairLunar is a community-drievn token with it\u2019s own usecase",
       "explorer": "https://bscscan.com/token/0xdcd289ecf644bec54393ba6ce8db35e9b5ff75e7",
       "type": "BEP20",
       "symbol": "FLUNAR",
@@ -54154,23 +52926,10 @@
       "symbol": "ELEPHANT",
       "decimals": 9,
       "website": "https://elephant.money",
-      "description": "- Rediscover innovation with rewards without farming or staking Balanced distribution. Fueled by ecosystem contracts. Frictionless rewards directly to holder’s",
+      "description": "- Rediscover innovation with rewards without farming or staking Balanced distribution. Fueled by ecosystem contracts. Frictionless rewards directly to holder\u2019s",
       "explorer": "https://bscscan.com/token/0xE283D0e3B8c102BAdF5E8166B73E02D96d92F688",
       "status": "active",
       "id": "0xE283D0e3B8c102BAdF5E8166B73E02D96d92F688",
-      "chainId": 56
-    },
-    {
-      "address": "0xE285510E5C14c2b8ff46147D9145f034B8Ff073B",
-      "name": "VanCat Sperm Token",
-      "website": "https://www.vancatsperm.com/",
-      "description": "VANCAT Sperm Token (VCSPERM) is a subtoken of VANCAT Token and VANCAT universe. Users must have VCSPERM to mint Special",
-      "explorer": "https://bscscan.com/token/0xe285510e5c14c2b8ff46147d9145f034b8ff073b",
-      "id": "0xE285510E5C14c2b8ff46147D9145f034B8Ff073B",
-      "symbol": "VCSPERM",
-      "type": "BEP20",
-      "decimals": 0,
-      "status": "active",
       "chainId": 56
     },
     {
@@ -54590,7 +53349,7 @@
       "symbol": "SHINU",
       "decimals": 18,
       "website": "https://sheikhinu.io/",
-      "description": "Purely meme token on BSC, driven by our oriental dream to become a group of Sheikh’s we focus on our",
+      "description": "Purely meme token on BSC, driven by our oriental dream to become a group of Sheikh\u2019s we focus on our",
       "explorer": "https://bscscan.com/token/0xe5b5d4bea7468b4994fa676949308a79497aa24c",
       "status": "active",
       "id": "0xE5b5d4Bea7468B4994FA676949308a79497aa24c",
@@ -54719,32 +53478,6 @@
       "decimals": 18,
       "status": "active",
       "id": "0xE64F5Cb844946C1F102Bd25bBD87a5aB4aE89Fbe",
-      "chainId": 56
-    },
-    {
-      "address": "0xE665d9abcFe78962385Aa5A8aa0A35E33B8F2C20",
-      "name": "NextMoon",
-      "website": "https://nextmoon.org/",
-      "description": "Token for the NextMoon ecosystem, focused on NFTs and high potential blockchain assets. The contract has a 5 percent burn",
-      "explorer": "https://bscscan.com/token/0xe665d9abcfe78962385aa5a8aa0a35e33b8f2c20",
-      "type": "BEP20",
-      "symbol": "NextMoon",
-      "decimals": 0,
-      "status": "active",
-      "id": "0xE665d9abcFe78962385Aa5A8aa0A35E33B8F2C20",
-      "tags": [
-        "deflationary"
-      ],
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/NextMoonToken"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/NextMoonToken"
-        }
-      ],
       "chainId": 56
     },
     {
@@ -55619,19 +54352,6 @@
       "chainId": 56
     },
     {
-      "address": "0xECa41281c24451168a37211F0bc2b8645AF45092",
-      "name": "TokenPocket Token",
-      "type": "BEP20",
-      "symbol": "TPT",
-      "decimals": 4,
-      "website": "https://www.tokenpocket.pro/",
-      "description": "TokenPocket is the world's largest decentralized multi-chain digital asset wallet, covering over 10 million users (including over 3 million monthly",
-      "explorer": "https://bscscan.com/token/0xeca41281c24451168a37211f0bc2b8645af45092",
-      "status": "active",
-      "id": "0xECa41281c24451168a37211F0bc2b8645AF45092",
-      "chainId": 56
-    },
-    {
       "address": "0xED19B2B301E8a4e18c5DCa374a27e7d209Ba02c9",
       "name": "Aventis AI",
       "type": "BEP20",
@@ -55677,7 +54397,7 @@
       "symbol": "FU",
       "decimals": 18,
       "website": "https://www.fucoin.io/",
-      "description": "FU coin is a BNB Chain token designed to bring luck and fortune to the crypto world. Whether you’re riding",
+      "description": "FU coin is a BNB Chain token designed to bring luck and fortune to the crypto world. Whether you\u2019re riding",
       "explorer": "https://bscscan.com/token/0xED6AF21Df463c7f116A6d7d687A4c190c4cf7586",
       "status": "active",
       "id": "0xED6AF21Df463c7f116A6d7d687A4c190c4cf7586",
@@ -55910,7 +54630,7 @@
       "symbol": "CHAD",
       "decimals": 9,
       "website": "https://www.thechadtoken.com/",
-      "description": "Chad is the greatest Binance Smart Chain meme token ever created. You already know this. That’s why you’re buying it.",
+      "description": "Chad is the greatest Binance Smart Chain meme token ever created. You already know this. That\u2019s why you\u2019re buying it.",
       "explorer": "https://bscscan.com/token/0xEa8eACCe22bbB89709482c0100E75e7Ab90f53f4",
       "status": "active",
       "id": "0xEa8eACCe22bbB89709482c0100E75e7Ab90f53f4",
@@ -55943,29 +54663,6 @@
         {
           "name": "coinmarketcap",
           "url": "https://coinmarketcap.com/currencies/crir-msh"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xEc7d0327fC48ef7EfA975A4e3327F28576C3ef96",
-      "name": "Moon Protocol",
-      "website": "https://moonprotocol.finance/",
-      "description": "The Moon Protocol Bridge objective is to provide a tool that connects every single DeFi platform. Thanks to Moon Protocol",
-      "explorer": "https://bscscan.com/token/0xEc7d0327fC48ef7EfA975A4e3327F28576C3ef96",
-      "type": "BEP20",
-      "symbol": "MPF",
-      "decimals": 0,
-      "status": "active",
-      "id": "0xEc7d0327fC48ef7EfA975A4e3327F28576C3ef96",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/ProtocolMoon"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/MoonProtocolGroupTG"
         }
       ],
       "chainId": 56
@@ -56120,7 +54817,7 @@
       "symbol": "ATWO",
       "decimals": 18,
       "website": "https://www.arenatwo.com/",
-      "description": "Arena Two is the world’s first Web3 live sports ecosystem, where real-world tournaments meet crypto. Fans don’t just watch -",
+      "description": "Arena Two is the world\u2019s first Web3 live sports ecosystem, where real-world tournaments meet crypto. Fans don\u2019t just watch -",
       "explorer": "https://bscscan.com/token/0xEdBeBe204Ef070B6880E07A28b55edc7748C24BA",
       "status": "active",
       "id": "0xEdBeBe204Ef070B6880E07A28b55edc7748C24BA",
@@ -56278,19 +54975,6 @@
           "url": "https://x.com/AthosMeta"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xF033e18BA0a37B6C3FFa17ff639a7b00Dc5d323e",
-      "name": "ChiwawaSwap",
-      "website": "https://chiwawaswap.site",
-      "description": "Chiwawa Swap is for strategists, building the people’s gateway to financial freedom on DEFI to find yield-bearing opportunities.",
-      "explorer": "https://bscscan.com/token/0xF033e18BA0a37B6C3FFa17ff639a7b00Dc5d323e",
-      "type": "BEP20",
-      "symbol": "CHIWAWA",
-      "decimals": 0,
-      "status": "active",
-      "id": "0xF033e18BA0a37B6C3FFa17ff639a7b00Dc5d323e",
       "chainId": 56
     },
     {
@@ -56547,7 +55231,7 @@
       "address": "0xF215A127A196e3988C09d052e16BcFD365Cd7AA3",
       "name": "Wrapped Mirror TSLA Token",
       "website": "https://mirror.finance",
-      "description": "Mirror Protocol allows the creation of fungible assets, “synthetics”, that track the price of real-world assets.",
+      "description": "Mirror Protocol allows the creation of fungible assets, \u201csynthetics\u201d, that track the price of real-world assets.",
       "explorer": "https://bscscan.com/token/0xF215A127A196e3988C09d052e16BcFD365Cd7AA3",
       "research": "",
       "type": "BEP20",
@@ -56757,7 +55441,7 @@
       "symbol": "KGEN",
       "decimals": 8,
       "website": "https://kgen.io/",
-      "description": "KGEN is the native token of the KGeN Protocol, the world’s largest Verified Distribution Layer, built on real human users",
+      "description": "KGEN is the native token of the KGeN Protocol, the world\u2019s largest Verified Distribution Layer, built on real human users",
       "explorer": "https://bscscan.com/token/0xF3d5b4c34Ed623478cc5141861776E6cf7AE3A1E",
       "status": "active",
       "id": "0xF3d5b4c34Ed623478cc5141861776E6cf7AE3A1E",
@@ -57069,7 +55753,7 @@
       "address": "0xF68C9Df95a18B2A5a5fa1124d79EEEffBaD0B6Fa",
       "name": "Anyswap-BEP20",
       "website": "https://bsc.anyswap.exchange",
-      "description": "Anyswap aims to create a multi-platform cross-chain DEX using Fusion’s DCRM technology.",
+      "description": "Anyswap aims to create a multi-platform cross-chain DEX using Fusion\u2019s DCRM technology.",
       "explorer": "https://bscscan.com/token/0xF68C9Df95a18B2A5a5fa1124d79EEEffBaD0B6Fa",
       "research": "",
       "type": "BEP20",
@@ -57480,7 +56164,7 @@
       "symbol": "LFG",
       "type": "BEP20",
       "decimals": 18,
-      "description": "GAMΞRSΞ is the new home for NFT gaming and the metaverse social economy. Our cross-chain, cross-platform, and cross-verse solutions are",
+      "description": "GAM\u039eRS\u039e is the new home for NFT gaming and the metaverse social economy. Our cross-chain, cross-platform, and cross-verse solutions are",
       "website": "https://www.gamerse.com",
       "explorer": "https://bscscan.com/token/0xF93f6b686f4A6557151455189a9173735D668154",
       "status": "active",
@@ -57593,7 +56277,7 @@
       "symbol": "MBX",
       "decimals": 18,
       "website": "https://www.marblex.io/en",
-      "description": "MARBLEX, under the slogan “Fun Comes First,” uses blockchain technology to build a next-generation gaming and content ecosystem that prioritizes",
+      "description": "MARBLEX, under the slogan \u201cFun Comes First,\u201d uses blockchain technology to build a next-generation gaming and content ecosystem that prioritizes",
       "explorer": "https://bscscan.com/token/0xf95a5532d67c944dfa7eddd2f8c358fe0dc7fac2",
       "status": "active",
       "id": "0xF95a5532D67C944dfa7EDDD2f8c358Fe0dc7FAc2",
@@ -57785,41 +56469,6 @@
         {
           "name": "coinmarketcap",
           "url": "https://coinmarketcap.com/currencies/coinracer"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xFC206f429d55c71cb7294EfF40c6ADb20dC21508",
-      "name": "DeHub",
-      "type": "BEP20",
-      "symbol": "DeHub",
-      "decimals": 5,
-      "website": "https://www.dehub.net/",
-      "description": "Blockchain's first gaming and streaming aggregator platform.",
-      "explorer": "https://bscscan.com/token/0xFC206f429d55c71cb7294EfF40c6ADb20dC21508",
-      "status": "active",
-      "id": "0xFC206f429d55c71cb7294EfF40c6ADb20dC21508",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/dehub_official"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/DeHubToken/dehub-public-contract"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/Dehubofficial"
-        },
-        {
-          "name": "discord",
-          "url": "https://discord.com/invite/McWBqA6xJR"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/dehub/"
         }
       ],
       "chainId": 56
@@ -58048,7 +56697,7 @@
       "name": "MAO",
       "symbol": "MAO",
       "website": "https://www.maobnb.com",
-      "description": "MAO is the ultimate unfazed cat – totally unbothered, giving zero f's no matter what’s thrown his way.",
+      "description": "MAO is the ultimate unfazed cat \u2013 totally unbothered, giving zero f's no matter what\u2019s thrown his way.",
       "explorer": "https://bscscan.com/token/0xfd54e565e6de7509b07cdba5769178045f212530",
       "decimals": 18,
       "status": "active",
@@ -58099,7 +56748,7 @@
       "symbol": "KENU",
       "decimals": 9,
       "website": "https://keninu.com/",
-      "description": "Ken Inu ($KENU) is a decentralized, peer-to-peer, MEME digital currency, developing a community-driven ecosystem based on it’s native BSC token.",
+      "description": "Ken Inu ($KENU) is a decentralized, peer-to-peer, MEME digital currency, developing a community-driven ecosystem based on it\u2019s native BSC token.",
       "explorer": "https://bscscan.com/token/0xFd914Bbb4302D69b9A8c3c96023DB6a02bE62778",
       "status": "active",
       "id": "0xFd914Bbb4302D69b9A8c3c96023DB6a02bE62778",
@@ -58360,7 +57009,7 @@
       "address": "0xa04F060077D90Fe2647B61e4dA4aD1F97d6649dc",
       "name": "Wrapped Mirror NFLX Token",
       "website": "https://mirror.finance",
-      "description": "Mirror Protocol allows the creation of fungible assets, “synthetics”, that track the price of real-world assets.",
+      "description": "Mirror Protocol allows the creation of fungible assets, \u201csynthetics\u201d, that track the price of real-world assets.",
       "explorer": "https://bscscan.com/token/0xa04F060077D90Fe2647B61e4dA4aD1F97d6649dc",
       "research": "",
       "type": "BEP20",
@@ -58438,7 +57087,7 @@
       "symbol": "CTB",
       "decimals": 18,
       "website": "https://catboy.finance/",
-      "description": "CatGirl has found her soulmate. He’s called CatBoy. Witness how CatBoy will conquer the Binance Blockchain and go to the",
+      "description": "CatGirl has found her soulmate. He\u2019s called CatBoy. Witness how CatBoy will conquer the Binance Blockchain and go to the",
       "explorer": "https://bscscan.com/token/0xa0e7566D693D015B59F2FD0e7fd26a8aC5Ca03dE",
       "status": "active",
       "id": "0xa0e7566D693D015B59F2FD0e7fd26a8aC5Ca03dE",
@@ -58723,7 +57372,7 @@
       "address": "0xa4080f1778e69467E905B8d6F72f6e441f9e9484",
       "name": "Synapse",
       "website": "https://synapseprotocol.com/",
-      "description": "Synapse is a cross-chain layer ∞ protocol powering interoperability between blockchains.",
+      "description": "Synapse is a cross-chain layer \u221e protocol powering interoperability between blockchains.",
       "explorer": "https://bscscan.com/token/0xa4080f1778e69467e905b8d6f72f6e441f9e9484",
       "type": "BEP20",
       "symbol": "SYN",
@@ -59042,7 +57691,7 @@
       "symbol": "CMS",
       "decimals": 9,
       "website": "https://cryptomoonswap.com/",
-      "description": "CryptoMoonSwap planning to Build world’s most advanced cryptocurrency exchange. Combining the speed and features of a centralized exchange with the",
+      "description": "CryptoMoonSwap planning to Build world\u2019s most advanced cryptocurrency exchange. Combining the speed and features of a centralized exchange with the",
       "explorer": "https://bscscan.com/token/0xa6ccAEBa565a11725fF5D6A642cb622f3D1402Cf",
       "status": "active",
       "id": "0xa6ccAEBa565a11725fF5D6A642cb622f3D1402Cf",
@@ -59115,19 +57764,6 @@
       "tags": [
         "deflationary"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xa7aCaFEDCDF33Ad7541698701E9A76b48EC62728",
-      "name": "Tadpole",
-      "website": "http://tadpole.vip",
-      "description": "Little tadpole is the source of everything,the beginning of loveliness. We believe that tadpoles, with a large number and strong",
-      "explorer": "https://bscscan.com/token/0xa7aCaFEDCDF33Ad7541698701E9A76b48EC62728",
-      "type": "BEP20",
-      "symbol": "TADP",
-      "decimals": 0,
-      "status": "active",
-      "id": "0xa7aCaFEDCDF33Ad7541698701E9A76b48EC62728",
       "chainId": 56
     },
     {
@@ -60124,7 +58760,7 @@
     },
     {
       "address": "0xb2f7797389ad34Ebd3a30ac6402861844fAC7F5e",
-      "name": "Сhord Protocol",
+      "name": "\u0421hord Protocol",
       "website": "https://chordprotocol.io",
       "description": "Chord is a decentralized network for musicians where anyone can turn their songs and performances or any kind of music",
       "explorer": "https://bscscan.com/token/0xb2f7797389ad34Ebd3a30ac6402861844fAC7F5e",
@@ -60379,7 +59015,7 @@
       "symbol": "PEPE",
       "decimals": 18,
       "website": "https://pepecoinbsc.xyz",
-      "description": "Pepe is the most memeable memecoin around the world, it‘s time to make memecoins great again and add some frog",
+      "description": "Pepe is the most memeable memecoin around the world, it\u2018s time to make memecoins great again and add some frog",
       "explorer": "https://bscscan.com/token/0xb46584e0efde3092e04010a13f2eae62adb3b9f0",
       "status": "active",
       "id": "0xb46584e0efdE3092e04010A13f2eAe62aDb3b9F0",
@@ -60495,33 +59131,6 @@
         {
           "name": "telegram",
           "url": "https://t.me/litentry"
-        }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xb5BBA78B4dF2D47DD46078514a3e296AB3c344Fe",
-      "name": "Hertz Network BEP-20 Token",
-      "website": "https://hertz-network.com/",
-      "description": "HTZ BEP-20 is the Hertz Network bep-20 token created on Binance Smart Chain. HTZ BEP-20 can be swapped with native",
-      "explorer": "https://bscscan.com/token/0xb5BBA78B4dF2D47DD46078514a3e296AB3c344Fe",
-      "type": "BEP20",
-      "symbol": "HTZ",
-      "decimals": 4,
-      "status": "active",
-      "id": "0xb5BBA78B4dF2D47DD46078514a3e296AB3c344Fe",
-      "links": [
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/hertz-network/"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/hertz_network"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/hertznetwork"
         }
       ],
       "chainId": 56
@@ -60646,7 +59255,7 @@
       "address": "0xb75A7E8876Df49a74CC4c76C6bDA161a8EA4B483",
       "name": "Palu",
       "website": "https://four.meme/token/0xb75a7e8876df49a74cc4c76c6bda161a8ea4b483",
-      "description": "Meme king Palulu. $Palu also become Binance’s new mascot.",
+      "description": "Meme king Palulu. $Palu also become Binance\u2019s new mascot.",
       "explorer": "https://bscscan.com/token/0xb75A7E8876Df49a74CC4c76C6bDA161a8EA4B483",
       "type": "BEP20",
       "symbol": "Palu",
@@ -60825,19 +59434,6 @@
           "url": "https://github.com/QIAN-Protocol/QIAN"
         }
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xb8b10DaFb5546b3740886D8a77b8b9bACB44fFfD",
-      "name": "Travel Coin",
-      "type": "BEP20",
-      "symbol": "TCOIN",
-      "decimals": 4,
-      "website": "https://tcoin.one",
-      "description": "The Travel Coin project and the TCOIN token attached to it represent the first ecosystem in the world that uses",
-      "explorer": "https://bscscan.com/token/0xb8b10DaFb5546b3740886D8a77b8b9bACB44fFfD",
-      "status": "active",
-      "id": "0xb8b10DaFb5546b3740886D8a77b8b9bACB44fFfD",
       "chainId": 56
     },
     {
@@ -61143,19 +59739,6 @@
       "chainId": 56
     },
     {
-      "address": "0xbCBcD3FDC07d496D1145F41a65A3e957EfEd9946",
-      "name": "AERO SWAP",
-      "type": "BEP20",
-      "symbol": "AERO",
-      "decimals": 2,
-      "website": "https://aeroswapfinance.com/",
-      "description": "Aero Swap Finance is a Multi-purpose auto-generate advertisment liquidity defi & NFT aircraft market project built on binance smart chain",
-      "explorer": "https://bscscan.com/token/0xbCBcD3FDC07d496D1145F41a65A3e957EfEd9946",
-      "status": "active",
-      "id": "0xbCBcD3FDC07d496D1145F41a65A3e957EfEd9946",
-      "chainId": 56
-    },
-    {
       "address": "0xbCba01f7d6CC0A950464a4b98BA8358c4F6B69a0",
       "name": "BitcoMine",
       "website": "https://bitcominetoken.com/",
@@ -61203,7 +59786,7 @@
       "address": "0xbCeeE918077F63fB1B9e10403F59cA40C7061341",
       "name": "Papa Doge Coin",
       "website": "https://www.papadoge.space/",
-      "description": "PAPADOGE’s coming out of his retirement to give everyone who missed out on his son a second chance. We are",
+      "description": "PAPADOGE\u2019s coming out of his retirement to give everyone who missed out on his son a second chance. We are",
       "explorer": "https://bscscan.com/token/0xbCeeE918077F63fB1B9e10403F59cA40C7061341",
       "type": "BEP20",
       "symbol": "PAPADOGE",
@@ -61217,7 +59800,7 @@
       "name": "BIRD DOG",
       "symbol": "BDOG",
       "website": "https://birddogbsc.club",
-      "description": "Bird Dog from Matt Furie’s #BOYSCLUB, the ultimate mascot for 2025 $BNB - loyal, chaotic, and down for whatever, just",
+      "description": "Bird Dog from Matt Furie\u2019s #BOYSCLUB, the ultimate mascot for 2025 $BNB - loyal, chaotic, and down for whatever, just",
       "explorer": "https://bscscan.com/token/0xbcf114b5454b8c9158a2e554ed891c3319523dfd",
       "decimals": 18,
       "status": "active",
@@ -61383,7 +59966,7 @@
       "symbol": "LUXUN",
       "type": "BEP20",
       "decimals": 18,
-      "description": "这吃人的币圈",
+      "description": "\u8fd9\u5403\u4eba\u7684\u5e01\u5708",
       "website": "https://x.com/luxunbsc",
       "explorer": "https://bscscan.com/token/0xbF3eb53d961F66ef22F264b125D6c8c12A5bB802",
       "status": "active",
@@ -61641,7 +60224,7 @@
       "address": "0xbe6Ad1eB9876cf3D3f9b85fEeCfB400298E80143",
       "name": "AI Companions",
       "website": "https://aivcompanions.com/",
-      "description": "Our vision is to revolutionize companionship with AI Virtual Companions—highly customizable, interactive, and immersive virtual partners designed to meet your",
+      "description": "Our vision is to revolutionize companionship with AI Virtual Companions\u2014highly customizable, interactive, and immersive virtual partners designed to meet your",
       "explorer": "https://bscscan.com/token/0xbe6ad1eb9876cf3d3f9b85feecfb400298e80143",
       "type": "BEP20",
       "symbol": "AIC",
@@ -62117,19 +60700,6 @@
       "chainId": 56
     },
     {
-      "address": "0xc1e667Cf9315FB80674E5cf62ad150Ac90fE7112",
-      "name": "TIKTOK COIN",
-      "website": "https://tiktokcoinbsc.com",
-      "description": "The Memes Token",
-      "explorer": "https://bscscan.com/token/0xc1e667Cf9315FB80674E5cf62ad150Ac90fE7112",
-      "symbol": "TIKTOK",
-      "type": "BEP20",
-      "decimals": 0,
-      "status": "active",
-      "id": "0xc1e667Cf9315FB80674E5cf62ad150Ac90fE7112",
-      "chainId": 56
-    },
-    {
       "address": "0xc2098a8938119A52B1F7661893c0153A6CB116d5",
       "name": "Rangers Protocol Gas(RPG)",
       "website": " https://rangersprotocol.com/",
@@ -62304,19 +60874,6 @@
         "defi",
         "staking"
       ],
-      "chainId": 56
-    },
-    {
-      "address": "0xc2a5FdFEa2A04955DF244eb52fFd986fA18cFcc6",
-      "name": "Panda Chain",
-      "type": "BEP20",
-      "symbol": "Panda",
-      "decimals": 0,
-      "website": "http://pandachain.xyz/",
-      "description": "Panda Chain Finance smart contract generates of the stake amount daily and guarantees a final profit.",
-      "explorer": "https://bscscan.com/token/0xc2a5fdfea2a04955df244eb52ffd986fa18cfcc6",
-      "status": "active",
-      "id": "0xc2a5FdFEa2A04955DF244eb52fFd986fA18cFcc6",
       "chainId": 56
     },
     {
@@ -62834,37 +61391,6 @@
       "chainId": 56
     },
     {
-      "address": "0xc6f26e6df5f44C0Ccd939581987C09b866cDBd1A",
-      "name": "InfinitUP",
-      "type": "BEP20",
-      "symbol": "IUP",
-      "decimals": 4,
-      "website": "https://infinitup.io/",
-      "description": "InfinitUP is a rebase token that also rewards in WBNB.",
-      "explorer": "https://bscscan.com/token/0xc6f26e6df5f44C0Ccd939581987C09b866cDBd1A",
-      "status": "active",
-      "id": "0xc6f26e6df5f44C0Ccd939581987C09b866cDBd1A",
-      "links": [
-        {
-          "name": "github",
-          "url": "https://github.com/InfinitUP"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/infinituptoken"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/infinitup"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/infinitup"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xc7091AA18598b87588e37501b6Ce865263CD67Ce",
       "name": "CheesecakeSwap Token",
       "website": "https://cheesecakeswap.com",
@@ -63213,7 +61739,7 @@
       "address": "0xc9132C76060F6b319764Ea075973a650A1a53bC9",
       "name": "DuckDaoDime",
       "website": "https://duckdao.io",
-      "description": "DuckDAO, the world’s largest crowdsourced Incubator for crypto projects.",
+      "description": "DuckDAO, the world\u2019s largest crowdsourced Incubator for crypto projects.",
       "explorer": "https://bscscan.com/token/0xc9132C76060F6b319764Ea075973a650A1a53bC9",
       "symbol": "DDIM",
       "type": "BEP20",
@@ -63317,36 +61843,6 @@
       ],
       "tags": [
         "defi"
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xcA1262e77Fb25c0a4112CFc9bad3ff54F617f2e6",
-      "name": "Wrapped JAXNET",
-      "type": "BEP20",
-      "symbol": "WJXN",
-      "decimals": 0,
-      "website": "https://jax.network",
-      "description": "Jax.Network provides the technological infrastructure for a decentralized energy-standard monetary system. Our blockchain is anchored to the Bitcoin network and",
-      "explorer": "https://bscscan.com/token/0xcA1262e77Fb25c0a4112CFc9bad3ff54F617f2e6",
-      "status": "active",
-      "id": "0xcA1262e77Fb25c0a4112CFc9bad3ff54F617f2e6",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/CommunityJax"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/jax_network"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/jax-network/"
-        }
-      ],
-      "tags": [
-        "wrapped"
       ],
       "chainId": 56
     },
@@ -63619,40 +62115,6 @@
           "name": "coinmarketcap",
           "url": "https://coinmarketcap.com/currencies/muskswap/"
         }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xcD6970d5211EfDF2516A4fc73163db7bA812B212",
-      "name": "INRx",
-      "type": "BEP20",
-      "symbol": "INRx",
-      "decimals": 2,
-      "website": "https://inrx.io/",
-      "description": "The DEO Governing Stable Currency preserves the value of INRx and guarantees that it will be circulated in the future.",
-      "explorer": "https://bscscan.com/token/0xcD6970d5211EfDF2516A4fc73163db7bA812B212",
-      "status": "active",
-      "id": "0xcD6970d5211EfDF2516A4fc73163db7bA812B212",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/inrxfoundation"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/inrxfoundation"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/inrx/"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/inrxstablecoin"
-        }
-      ],
-      "tags": [
-        "defi"
       ],
       "chainId": 56
     },
@@ -64015,7 +62477,7 @@
       "symbol": "TRUMP",
       "decimals": 18,
       "website": "https://trumpai.me/",
-      "description": "Trump AI: An advanced AI model simulating Donald Trump’s speech and mannerisms for entertainment and educational purposes.",
+      "description": "Trump AI: An advanced AI model simulating Donald Trump\u2019s speech and mannerisms for entertainment and educational purposes.",
       "explorer": "https://bscscan.com/token/0xccdF812aa7cdee4fF7cb89546d7f1718bb8d46E1",
       "status": "active",
       "id": "0xccdF812aa7cdee4fF7cb89546d7f1718bb8d46E1",
@@ -64649,36 +63111,6 @@
       "chainId": 56
     },
     {
-      "address": "0xd4EBABd6E70Bf0a16e8cCDBc6b00fE7817390f47",
-      "name": "MarsSpaceXToken",
-      "website": "https://marsspacextoken.com",
-      "description": "Mars Space X is a deflationary cryptocurrency, but also modern high-end finance.",
-      "explorer": "https://bscscan.com/token/0xd4EBABd6E70Bf0a16e8cCDBc6b00fE7817390f47",
-      "type": "BEP20",
-      "symbol": "MPX",
-      "decimals": 4,
-      "status": "active",
-      "id": "0xd4EBABd6E70Bf0a16e8cCDBc6b00fE7817390f47",
-      "tags": [
-        "deflationary"
-      ],
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/MarsSpaceXofficial"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/MarsSpaceX_"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/ru/currencies/mars-space-x/"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xd522A1DcE1CA4B138DDA042a78672307eb124CC2",
       "name": "Swapz.app",
       "type": "BEP20",
@@ -64883,28 +63315,6 @@
           "name": "coinmarketcap",
           "url": "https://coinmarketcap.com/currencies/maverick-protocol/"
         }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xd6AF849b09879a3648d56B5d43c6e5908a74CA83",
-      "name": "Haber-Stornetta Token",
-      "type": "BEP20",
-      "symbol": "HST",
-      "decimals": 0,
-      "website": "https://wrapped.jax.net/hst.html",
-      "description": "Haber-Stornetta Token is the smallest non-divisible unit of value on the beacon chain of the Jax.Network blockchain. Since the asset",
-      "explorer": "https://bscscan.com/token/0xd6AF849b09879a3648d56B5d43c6e5908a74CA83",
-      "status": "active",
-      "id": "0xd6AF849b09879a3648d56B5d43c6e5908a74CA83",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/CommunityJax"
-        }
-      ],
-      "tags": [
-        "stablecoin"
       ],
       "chainId": 56
     },
@@ -65179,7 +63589,7 @@
       "symbol": "pZERO",
       "decimals": 18,
       "website": "https://projectzero.finance/",
-      "description": "pZERO是DAO ZERO的治理代币，参考ZERO协议搭建通缩的经济模型，具备完善的销毁机制以及奖励和流动性生成的组合。",
+      "description": "pZERO\u662fDAO ZERO\u7684\u6cbb\u7406\u4ee3\u5e01\uff0c\u53c2\u8003ZERO\u534f\u8bae\u642d\u5efa\u901a\u7f29\u7684\u7ecf\u6d4e\u6a21\u578b\uff0c\u5177\u5907\u5b8c\u5584\u7684\u9500\u6bc1\u673a\u5236\u4ee5\u53ca\u5956\u52b1\u548c\u6d41\u52a8\u6027\u751f\u6210\u7684\u7ec4\u5408\u3002",
       "explorer": "https://bscscan.com/token/0xd91ea5884d55f3ba17196C82073fF39F25760194",
       "status": "active",
       "id": "0xd91ea5884d55f3ba17196C82073fF39F25760194",
@@ -65869,7 +64279,7 @@
       "symbol": "BLEND",
       "decimals": 18,
       "website": "https://myblend.io/",
-      "description": "Blend is building a trailblazing gaming platform where you’ll be able to provide liquidity, earn profits, and enjoy a fair,",
+      "description": "Blend is building a trailblazing gaming platform where you\u2019ll be able to provide liquidity, earn profits, and enjoy a fair,",
       "explorer": "https://bscscan.com/token/0xda52b818c1348bFee27989E2a0DF39224A3E52fA",
       "status": "active",
       "id": "0xda52b818c1348bFee27989E2a0DF39224A3E52fA",
@@ -66604,32 +65014,6 @@
       "chainId": 56
     },
     {
-      "address": "0xe327eD2037F133cdA9F56171b68B6b7b4Dfa6175",
-      "name": "Petoverse",
-      "type": "BEP20",
-      "symbol": "PETO",
-      "decimals": 5,
-      "website": "https://www.petoverse.io/",
-      "description": "Petoverse is the first METAVERSE PROJECT that provides a decentralized financial asset which rewards users with a sustainable fixed compound",
-      "explorer": "https://bscscan.com/token/0xe327eD2037F133cdA9F56171b68B6b7b4Dfa6175",
-      "status": "active",
-      "id": "0xe327eD2037F133cdA9F56171b68B6b7b4Dfa6175",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/petoverse"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/petoverse"
-        }
-      ],
-      "tags": [
-        "gamefi"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xe361344013cC906c56bbA111bDE00C421852c73b",
       "name": "MOONBOYS FINANCE",
       "symbol": "MBS",
@@ -66941,12 +65325,12 @@
     },
     {
       "address": "0xe550a593d09FBC8DCD557b5C88Cea6946A8b404A",
-      "name": "τDogecoin",
+      "name": "\u03c4Dogecoin",
       "website": "https://btcst.finance/",
-      "description": "τDogecoin is a synthetic Dogecoin supported by some of the largest miners in the world. Implementing the τ protocol, τDogecoin",
+      "description": "\u03c4Dogecoin is a synthetic Dogecoin supported by some of the largest miners in the world. Implementing the \u03c4 protocol, \u03c4Dogecoin",
       "explorer": "https://bscscan.com/token/0xe550a593d09FBC8DCD557b5C88Cea6946A8b404A",
       "type": "BEP20",
-      "symbol": "τDOGE",
+      "symbol": "\u03c4DOGE",
       "decimals": 8,
       "status": "active",
       "id": "0xe550a593d09FBC8DCD557b5C88Cea6946A8b404A",
@@ -67013,7 +65397,7 @@
       "symbol": "PepeAI",
       "decimals": 9,
       "website": "https://pepe.style",
-      "description": "The most memeable memecoin in existence. The dogs have had their day, it’s time for Pepe AI to take reign.",
+      "description": "The most memeable memecoin in existence. The dogs have had their day, it\u2019s time for Pepe AI to take reign.",
       "explorer": "https://bscscan.com/token/0xe57F73EB27Da9D17f90C994744D842e95700C100",
       "status": "active",
       "id": "0xe57F73EB27Da9D17f90C994744D842e95700C100",
@@ -67217,7 +65601,7 @@
       "type": "BEP20",
       "symbol": "KOGE",
       "decimals": 18,
-      "description": "48 Club® was founded in Sept. 2017 by a diverse and tight-knit group of investors with a common passion for",
+      "description": "48 Club\u00ae was founded in Sept. 2017 by a diverse and tight-knit group of investors with a common passion for",
       "website": "https://www.48.club/",
       "explorer": "https://bscscan.com/token/0xe6df05ce8c8301223373cf5b969afcb1498c5528",
       "id": "0xe6DF05CE8C8301223373CF5B969AFCb1498c5528",
@@ -67382,19 +65766,6 @@
       "chainId": 56
     },
     {
-      "address": "0xe7Cbd29769F33e371DDbF040F2aC23Af0923C3f7",
-      "name": "Project Joule",
-      "type": "BEP20",
-      "symbol": "JOL",
-      "decimals": 0,
-      "website": "http://projectjoule.finance/",
-      "description": "Project Joule is decenteralized way of Energy sharing.",
-      "explorer": "https://bscscan.com/token/0xe7Cbd29769F33e371DDbF040F2aC23Af0923C3f7",
-      "status": "active",
-      "id": "0xe7Cbd29769F33e371DDbF040F2aC23Af0923C3f7",
-      "chainId": 56
-    },
-    {
       "address": "0xe7F72Bc0252cA7B16dBb72eEee1AfcDb2429F2DD",
       "name": "NFTLaunch.network",
       "type": "BEP20",
@@ -67450,7 +65821,7 @@
       "type": "BEP20",
       "symbol": "TAU",
       "decimals": 18,
-      "description": "A random meme to verify the formula τ = 2π. First TAU on fourmeme.",
+      "description": "A random meme to verify the formula \u03c4 = 2\u03c0. First TAU on fourmeme.",
       "website": "https://dexscreener.com/bsc/0xdbea6f4386f396d24d60ab8515aeae08fb52ace4",
       "explorer": "https://bscscan.com/token/0xe858983508fa7e43bc54b3af00b376ef9d76ccf3",
       "id": "0xe858983508FA7E43Bc54b3AF00b376Ef9d76ccf3",
@@ -67597,7 +65968,7 @@
       "address": "0xeB2d878Dcc05c8f39411dF483574907b4fb11990",
       "name": "Brastoken",
       "website": "https://brastoken.com/lp-en",
-      "description": "Brastoken’s main objective is to revolutionize the cryptocurrency market in Brazil by offering multiple banking services in one place.",
+      "description": "Brastoken\u2019s main objective is to revolutionize the cryptocurrency market in Brazil by offering multiple banking services in one place.",
       "explorer": "https://bscscan.com/token/0xeB2d878Dcc05c8f39411dF483574907b4fb11990",
       "type": "BEP20",
       "symbol": "BRT",
@@ -67873,7 +66244,7 @@
       "symbol": "VEMP",
       "decimals": 18,
       "website": "https://v-empire.digital",
-      "description": "vEmpire DDAO is the world’s largest Decentralized Metaverse Investment Organization. The official vEmpire protocol incorporates different strategies to incentivize Metaverse",
+      "description": "vEmpire DDAO is the world\u2019s largest Decentralized Metaverse Investment Organization. The official vEmpire protocol incorporates different strategies to incentivize Metaverse",
       "explorer": "https://bscscan.com/token/0xeDF3ce4Dd6725650a8e9398e5C6398D061Fa7955",
       "status": "active",
       "id": "0xeDF3ce4Dd6725650a8e9398e5C6398D061Fa7955",
@@ -67900,7 +66271,7 @@
       "address": "0xeDe2F059545e8Cde832d8Da3985cAacf795B8765",
       "name": "Ormeus Ecosystem",
       "website": "https://eco-system.io/",
-      "description": "The World’s First Business-Backed Blockchain Smart Economy.",
+      "description": "The World\u2019s First Business-Backed Blockchain Smart Economy.",
       "explorer": "https://bscscan.com/token/0xeDe2F059545e8Cde832d8Da3985cAacf795B8765",
       "type": "BEP20",
       "symbol": "ECO",
@@ -68185,44 +66556,6 @@
       "chainId": 56
     },
     {
-      "address": "0xee1ae38BE4Ce0074C4A4A8DC821CC784778f378c",
-      "name": "VYNK CHAIN",
-      "type": "BEP20",
-      "symbol": "VYNC",
-      "decimals": 4,
-      "website": "https://vynkchain.org/",
-      "description": "VYNC is the governance token of VYNKSAFE: A Decentralized Crypto Bank. VYNK CHAIN is the Defi and Utility token. VYNK",
-      "explorer": "https://bscscan.com/token/0xee1ae38be4ce0074c4a4a8dc821cc784778f378c",
-      "status": "active",
-      "id": "0xee1ae38BE4Ce0074C4A4A8DC821CC784778f378c",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/vynkgroup"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/vynkchain"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/VYNKCHAIN"
-        },
-        {
-          "name": "discord",
-          "url": "https://discord.com/invite/RBCRGZVsQx"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/vynk-chain/"
-        }
-      ],
-      "tags": [
-        "staking"
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xee901a8a13e5B71dD35AD259D87e17a891D1f0F3",
       "name": "FlokiZap Token",
       "website": "https://flokizap.finance/",
@@ -68303,7 +66636,7 @@
       "symbol": "JEWELRY",
       "decimals": 18,
       "website": "https://jewellery.game/",
-      "description": "Jewelry Token introduces a game marketplace ,allowing users to buy, sell, and trade jewelry just like in a real market—but",
+      "description": "Jewelry Token introduces a game marketplace ,allowing users to buy, sell, and trade jewelry just like in a real market\u2014but",
       "explorer": "https://bscscan.com/token/0xf04FaB6Dda66261eaBfD65e92A6b81dDaF6a950a",
       "status": "active",
       "id": "0xf04FaB6Dda66261eaBfD65e92A6b81dDaF6a950a",
@@ -68668,7 +67001,7 @@
       "address": "0xf3175F46B35bf82f5E1FB44c2a64Db99C52B7Eb4",
       "name": "MoonDawg",
       "website": "https://moondawgcoin.com",
-      "description": "MDG aims to become bsc’s ultimate rewards token. Community members Earn MDG just by holding them in their wallets. MDG",
+      "description": "MDG aims to become bsc\u2019s ultimate rewards token. Community members Earn MDG just by holding them in their wallets. MDG",
       "explorer": "https://bscscan.com/token/0xf3175F46B35bf82f5E1FB44c2a64Db99C52B7Eb4",
       "type": "BEP20",
       "symbol": "MDG",
@@ -68832,7 +67165,7 @@
       "symbol": "VELO",
       "decimals": 18,
       "website": "http://velo.org/",
-      "description": "Velo’s core mission is to build a decentralized settlement network that allows its Trusted Partners to securely transfer value among",
+      "description": "Velo\u2019s core mission is to build a decentralized settlement network that allows its Trusted Partners to securely transfer value among",
       "explorer": "https://bscscan.com/token/0xf486ad071f3bee968384d2e39e2d8af0fcf6fd46",
       "status": "active",
       "id": "0xf486ad071f3bEE968384D2E39e2D8aF0fCf6fd46",
@@ -69180,7 +67513,7 @@
       "address": "0xf79037F6f6bE66832DE4E7516be52826BC3cBcc4",
       "name": "Hard Protocol",
       "website": "https://hard.kava.io/",
-      "description": "Harvest is the world’s first cross-chain money market that enables you to earn more with your digital assets.",
+      "description": "Harvest is the world\u2019s first cross-chain money market that enables you to earn more with your digital assets.",
       "explorer": "https://bscscan.com/token/0xf79037f6f6be66832de4e7516be52826bc3cbcc4",
       "research": "https://research.binance.com/en/projects/hard-protocol",
       "type": "BEP20",
@@ -69333,7 +67666,7 @@
       "symbol": "BRY",
       "decimals": 18,
       "website": "https://berrydata.co/",
-      "description": "Berry Data is a transparent community-veriﬁed price oracle on BSC(Binance Smart Chain).",
+      "description": "Berry Data is a transparent community-veri\ufb01ed price oracle on BSC(Binance Smart Chain).",
       "explorer": "https://bscscan.com/token/0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830",
       "status": "active",
       "id": "0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830",
@@ -70042,7 +68375,7 @@
       "symbol": "VINU",
       "decimals": 18,
       "website": "https://vitainu.org",
-      "description": "Vita Inu is the world’s first fast and feeless dog coin with high TPS and native smart contracts. VINU is",
+      "description": "Vita Inu is the world\u2019s first fast and feeless dog coin with high TPS and native smart contracts. VINU is",
       "explorer": "https://bscscan.com/token/0xfebe8c1ed424dbf688551d4e2267e7a53698f0aa",
       "status": "active",
       "id": "0xfEbe8C1eD424DbF688551D4E2267e7A53698F0aa",
@@ -70104,32 +68437,6 @@
           "name": "coinmarketcap",
           "url": "https://coinmarketcap.com/currencies/cloudtx/"
         }
-      ],
-      "chainId": 56
-    },
-    {
-      "address": "0xfFdC00285DDe1f5b5c65C6a963357b4C55d8f601",
-      "name": "BleuFi",
-      "type": "BEP20",
-      "symbol": "Bleu",
-      "decimals": 2,
-      "website": "https://app.bleufi.com/",
-      "description": "BleuFi Marketplace is a next generation marketplace where artists and collectors can create, sell and collect digital items secured with",
-      "explorer": "https://bscscan.com/token/0xfFdC00285DDe1f5b5c65C6a963357b4C55d8f601",
-      "status": "active",
-      "id": "0xfFdC00285DDe1f5b5c65C6a963357b4C55d8f601",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/Bleufiofficial"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/BleuFi"
-        }
-      ],
-      "tags": [
-        "nft"
       ],
       "chainId": 56
     },
@@ -70255,33 +68562,6 @@
       "chainId": 56
     },
     {
-      "address": "0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE",
-      "name": "Shill",
-      "type": "BEP20",
-      "symbol": "SHILL",
-      "decimals": 18,
-      "website": "https://projectseed.com/",
-      "description": "Game Studio focused on building mobile blockchain gaming ecosystem that utilizes Multi Blockchain and integrates Governance, GameFi, and NFT.",
-      "explorer": "https://bscscan.com/token/0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE",
-      "status": "active",
-      "id": "0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE",
-      "links": [
-        {
-          "name": "telegram",
-          "url": "https://t.me/projectseedannouncements"
-        },
-        {
-          "name": "x",
-          "url": "https://x.com/ProjectSeedGame"
-        },
-        {
-          "name": "coinmarketcap",
-          "url": "https://coinmarketcap.com/currencies/project-seed/"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xfc619FfCc0e0F30427BF938f9A1B2BfAE15bDf84",
       "name": "Anji",
       "type": "BEP20",
@@ -70317,33 +68597,10 @@
       "chainId": 56
     },
     {
-      "address": "0xfd290c590866f8282d89671A85Ac9964b165d682",
-      "name": "Subme",
-      "website": "http://subme.cash",
-      "description": "Subme is the world's first platform focused on subscribing to both physical products and services.",
-      "explorer": "https://bscscan.com/token/0xfd290c590866f8282d89671A85Ac9964b165d682",
-      "type": "BEP20",
-      "symbol": "SUB",
-      "decimals": 4,
-      "status": "active",
-      "id": "0xfd290c590866f8282d89671A85Ac9964b165d682",
-      "links": [
-        {
-          "name": "x",
-          "url": "https://x.com/Subme_app"
-        },
-        {
-          "name": "telegram",
-          "url": "https://t.me/subme_cash"
-        }
-      ],
-      "chainId": 56
-    },
-    {
       "address": "0xfe56d5892BDffC7BF58f2E84BE1b2C32D21C308b",
       "name": "Kyber Network",
       "website": "https://kyber.network",
-      "description": "Kyber Network’s on-chain liquidity protocol allows decentralized token swaps to be integrated into any application, enabling value exchange to be",
+      "description": "Kyber Network\u2019s on-chain liquidity protocol allows decentralized token swaps to be integrated into any application, enabling value exchange to be",
       "explorer": "https://bscscan.com/token/0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b",
       "type": "BEP20",
       "symbol": "KNC",
@@ -70361,19 +68618,6 @@
       "symbol": "bCAPS",
       "decimals": 9,
       "name": "Binacaps",
-      "chainId": 56
-    },
-    {
-      "address": "0xfebc87c6ff184B1AD2D2081eCd5d8Fb18571bD24",
-      "name": "Volta",
-      "type": "BEP20",
-      "symbol": "VOLTA",
-      "decimals": 9,
-      "website": "https://www.voltacrypto.com",
-      "description": "A token to improve the financial efficiency of the energy industry.",
-      "explorer": "https://bscscan.com/token/0xfebc87c6ff184B1AD2D2081eCd5d8Fb18571bD24",
-      "status": "active",
-      "id": "0xfebc87c6ff184B1AD2D2081eCd5d8Fb18571bD24",
       "chainId": 56
     }
   ]

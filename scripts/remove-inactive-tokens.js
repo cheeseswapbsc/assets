@@ -1,13 +1,16 @@
 const fs = require('fs');
 const path = require('path');
-const Web3 = require('web3');
+const fetch = require('cross-fetch');
 
-const RPC_URL = process.env.BSC_RPC_URL || 'https://bsc-dataseed.binance.org';
-const LOOKBACK_WINDOW = Number(process.env.CHEESE_BLOCK_WINDOW || 5000);
-const MAX_LOOKBACK = Number(process.env.CHEESE_MAX_LOOKBACK || 500000);
 const STALE_DAYS = Number(process.env.CHEESE_STALE_DAYS || 30);
-const CONCURRENCY = Number(process.env.CHEESE_CONCURRENCY || 3);
+const RATE_LIMIT_MS = Number(process.env.CHEESE_RATE_LIMIT_MS || 2000);
+const MAX_RETRIES = Number(process.env.CHEESE_MAX_RETRIES || 5);
 const DRY_RUN = process.argv.includes('--dry-run');
+const ETHERSCAN_BASE_URL = process.env.ETHERSCAN_BASE_URL || process.env.BSCSCAN_BASE_URL || 'https://api.etherscan.io/v2/api';
+const ETHERSCAN_CHAIN_ID = 56; // BNB Chain
+const ETHERSCAN_API_KEY = 'WPH776XEWEB3S8AFR2EX1W4PDGJTREYW9T';
+const STALE_SECONDS = STALE_DAYS * 24 * 60 * 60;
+const TRANSFER_TOPIC = '0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef';
 
 const EXCLUDED_SYMBOLS = new Set([
   'KSHIB',
@@ -22,61 +25,90 @@ const EXCLUDED_SYMBOLS = new Set([
   'Cheese-LP',
 ]);
 
-const FILE_PATH = path.join(__dirname, '..', 'cheese', 'cheeseswap.json');
-const TRANSFER_TOPIC = Web3.utils.sha3('Transfer(address,address,uint256)');
-const STALE_SECONDS = STALE_DAYS * 24 * 60 * 60;
+const EXCLUDED_ADDRESSES = new Set(
+  (process.env.CHEESE_SKIP_ADDRESSES || '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c,0x0000000000000000000000000000000000000000,0xaDD8A06fd58761A5047426e160B2B88AD3B9D464')
+    .split(',')
+    .map((addr) => addr.trim().toLowerCase())
+    .filter(Boolean)
+);
 
-const web3 = new Web3(RPC_URL);
-const blockTimestampCache = new Map();
+const FILE_PATH = path.join(__dirname, '..', 'cheese', 'cheeseswap.json');
+const TEMP_PATH = path.join(__dirname, 'inactive-token-temp.json');
+let lastHttpCall = 0;
 
 const readJson = () => JSON.parse(fs.readFileSync(FILE_PATH, 'utf8'));
 const writeJson = (data) => fs.writeFileSync(FILE_PATH, `${JSON.stringify(data, null, 2)}\n`);
 
-async function getBlockTimestamp(blockNumber) {
-  if (blockTimestampCache.has(blockNumber)) {
-    return blockTimestampCache.get(blockNumber);
+const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+async function withRateLimit(action) {
+  const now = Date.now();
+  const wait = Math.max(0, RATE_LIMIT_MS - (now - lastHttpCall));
+  if (wait > 0) {
+    await delay(wait);
   }
-  const block = await web3.eth.getBlock(blockNumber);
-  if (!block) return null;
-  const ts = Number(block.timestamp);
-  blockTimestampCache.set(blockNumber, ts);
-  return ts;
+  lastHttpCall = Date.now();
+  return action();
 }
 
-async function findLastTransferTimestamp(address, latestBlock) {
-  let toBlock = latestBlock;
-  let scanned = 0;
+function buildLogsUrl(address) {
+  const params = new URLSearchParams({
+    action: 'getLogs',
+    chainid: String(ETHERSCAN_CHAIN_ID),
+    address,
+    topic0: TRANSFER_TOPIC,
+    page: '1',
+    offset: '1',
+    sort: 'desc',
+  });
 
-  while (toBlock >= 0 && scanned <= MAX_LOOKBACK) {
-    const fromBlock = Math.max(0, toBlock - LOOKBACK_WINDOW + 1);
+  params.set('apikey', ETHERSCAN_API_KEY);
 
+  return `${ETHERSCAN_BASE_URL}?${params.toString()}`;
+}
+
+async function fetchLastTransferTimestamp(address) {
+  for (let attempt = 1; attempt <= MAX_RETRIES; attempt += 1) {
     try {
-      const logs = await web3.eth.getPastLogs({
-        address,
-        topics: [TRANSFER_TOPIC],
-        fromBlock,
-        toBlock,
-      });
-
-      if (logs.length) {
-        const lastLog = logs[logs.length - 1];
-        const blockNumber = Number(lastLog.blockNumber);
-        return getBlockTimestamp(blockNumber);
+      const response = await withRateLimit(() => fetch(buildLogsUrl(address)));
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
       }
-    } catch (error) {
-      console.error(`Failed to fetch logs for ${address} (${fromBlock}-${toBlock}):`, error.message);
-      return null;
-    }
 
-    const covered = toBlock - fromBlock + 1;
-    scanned += covered;
-    toBlock = fromBlock - 1;
+      const payload = await response.json();
+      if (payload.status !== '1') {
+        const message = String(payload.result || payload.message || 'unknown error');
+        if (message.toLowerCase().includes('no transactions')) {
+          return null;
+        }
+        throw new Error(message);
+      }
+
+      const latestTx = Array.isArray(payload.result) ? payload.result[0] : null;
+      if (!latestTx) {
+        return null;
+      }
+
+      const ts = Number(latestTx.timeStamp);
+      if (Number.isFinite(ts)) {
+        return ts;
+      }
+
+      throw new Error('Invalid timestamp in response');
+    } catch (error) {
+      console.error(`Failed to fetch logs for ${address} (attempt ${attempt}): ${error.message}`);
+      if (attempt >= MAX_RETRIES) {
+        console.error(`Giving up on ${address} after ${attempt} attempts.`);
+        return null;
+      }
+      await delay(RATE_LIMIT_MS * attempt);
+    }
   }
 
   return null;
 }
 
-async function evaluateToken(token, latestBlock, nowSeconds) {
+async function evaluateToken(token, nowSeconds) {
   if (!token || typeof token.symbol !== 'string') {
     return { keep: true };
   }
@@ -85,7 +117,15 @@ async function evaluateToken(token, latestBlock, nowSeconds) {
     return { keep: true, reason: 'excluded' };
   }
 
-  const lastTimestamp = await findLastTransferTimestamp(token.address, latestBlock);
+  if (token.address && EXCLUDED_ADDRESSES.has(token.address.toLowerCase())) {
+    return { keep: true, reason: 'excluded-address' };
+  }
+
+  if (!token.address) {
+    return { keep: true, reason: 'missing-address' };
+  }
+
+  const lastTimestamp = await fetchLastTransferTimestamp(token.address);
   if (!lastTimestamp) {
     return { keep: false, reason: 'no-activity' };
   }
@@ -101,59 +141,55 @@ async function evaluateToken(token, latestBlock, nowSeconds) {
 async function run() {
   const data = readJson();
   const tokens = Array.isArray(data.tokens) ? data.tokens : [];
-  const latestBlock = await web3.eth.getBlockNumber();
   const nowSeconds = Math.floor(Date.now() / 1000);
 
   const kept = [];
   const removed = [];
 
-  let index = 0;
-
-  async function worker() {
-    while (index < tokens.length) {
-      const currentIndex = index;
-      index += 1;
-      const token = tokens[currentIndex];
-
-      try {
-        const result = await evaluateToken(token, latestBlock, nowSeconds);
-        if (result.keep) {
-          kept.push(token);
-        } else {
-          removed.push({
-            symbol: token.symbol,
-            name: token.name,
-            address: token.address,
-            reason: result.reason,
-            lastSeen: result.lastTimestamp ? new Date(result.lastTimestamp * 1000).toISOString() : 'unknown',
-          });
-          console.log(`Removing ${token.symbol || token.address} (${result.reason})`);
-        }
-      } catch (error) {
-        console.error(`Error while evaluating ${token.symbol || token.address}:`, error.message);
+  for (const token of tokens) {
+    try {
+      const result = await evaluateToken(token, nowSeconds);
+      if (result.keep) {
         kept.push(token);
+      } else {
+        removed.push({
+          symbol: token.symbol,
+          name: token.name,
+          address: token.address,
+          reason: result.reason,
+          lastSeen: result.lastTimestamp ? new Date(result.lastTimestamp * 1000).toISOString() : 'unknown',
+        });
+        console.log(`Marking ${token.symbol || token.address} (${result.reason})`);
       }
+    } catch (error) {
+      console.error(`Error while evaluating ${token.symbol || token.address}:`, error.message);
+      kept.push(token);
     }
   }
 
-  const workers = Array.from({ length: Math.max(1, CONCURRENCY) }, () => worker());
-  await Promise.all(workers);
+  const tempPayload = {
+    generatedAt: new Date().toISOString(),
+    staleDays: STALE_DAYS,
+    dataSource: 'Etherscan/BscScan getLogs v2',
+    apiEndpoint: ETHERSCAN_BASE_URL,
+    removed,
+  };
+  fs.writeFileSync(TEMP_PATH, `${JSON.stringify(tempPayload, null, 2)}\n`);
+  console.log(`Temp removal list written to ${TEMP_PATH}`);
 
   console.log(`Processed ${tokens.length} tokens, removed ${removed.length}, kept ${kept.length}.`);
 
-  if (!DRY_RUN) {
-    const nextData = { ...data, tokens: kept };
-    writeJson(nextData);
-    console.log(`Updated file written to ${FILE_PATH}`);
-  } else {
-    console.log('Dry-run mode enabled; no file changes written.');
+  if (DRY_RUN || removed.length === 0) {
+    console.log(DRY_RUN ? 'Dry-run mode enabled; no file changes written.' : 'No tokens marked for removal.');
+    return;
   }
 
-  if (removed.length) {
-    const summaryPath = path.join(__dirname, '..', 'scripts', 'inactive-token-report.json');
-    fs.writeFileSync(summaryPath, `${JSON.stringify(removed, null, 2)}\n`);
-    console.log(`Removed token summary saved to ${summaryPath}`);
-  }
+  const latestData = readJson();
+  const removalSet = new Set(removed.map((entry) => (entry.address || '').toLowerCase()));
+  const filteredTokens = latestData.tokens.filter((token) => !removalSet.has((token.address || '').toLowerCase()));
+
+  writeJson({ ...latestData, tokens: filteredTokens });
+  console.log(`Removed ${removed.length} tokens from ${FILE_PATH}`);
 }
 
 run().catch((error) => {
